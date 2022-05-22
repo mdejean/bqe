@@ -149,6 +149,40 @@
               "mark": {
                 "type": "line"
               }
+            },
+            {
+              "data": {
+                "values": [
+                    {
+                        "link_name": "GOW N 9TH STREET - ATLANTIC AVENUE",
+                        "weekend_text": "Weekend",
+                        "data_as_of": "10:30:00",
+                        "travel_time": 450
+                    }, {"a": "H", "b": 87}, {"a": "I", "b": 52}],
+                "urlb": "https://data.cityofnewyork.us/resource/i4gi-tjb9.csv?$limit=1000000000&$select=link_id,data_as_of,status,speed,travel_time&$where=data_as_of>\"2022-05-20\""
+              },
+              "transform": [
+                {
+                  "calculate": "datum.travel_time / 60",
+                  "as": "travel_min"
+                },
+                {
+                  "timeUnit": "hour",
+                  "field": "data_as_of",
+                  "as": "h"
+                }
+              ],
+              "encoding": {
+                "x": {
+                  "field": "h"
+                },
+                "y": {
+                  "field": "travel_min"
+                }
+              },
+              "mark": {
+                "type": "line"
+              }
             }
           ]
         }
