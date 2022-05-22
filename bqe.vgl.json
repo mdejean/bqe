@@ -1,0 +1,158 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Travel time on I-278 before and after lane reduction, by month and time of day",
+  "config": {
+    "facet": {
+      "cell": {
+        "height": 200,
+        "width": 200
+      }
+    }
+  },
+  "data": {
+    "url": "bqe_agg.csv",
+    "format": {
+        "parse": {"h": "date:'%H'"}
+    }
+  },
+  "params": [
+    {
+      "name": "hover",
+      "select": {
+        "type": "point",
+        "fields": [
+          "ym"
+        ],
+        "on": "mouseover",
+        "nearest": false
+      }
+    },
+    {
+        "name": "y_field",
+        "value": "travel_50_min",
+        "bind": {"input": "radio", "options": ["travel_50_min", "speed_50", "travel_worst_min", "speed_worst"], "labels": ["Median travel time", "Median speed", "Slowest day travel time", "Slowest day speed"]}
+    },
+    {
+        "name": "y_title",
+        "expr": "if(y_field == 'speed_worst' || y_field == 'travel_worst_min', 'Slowest day', 'Median') + ' ' + if(y_field == 'speed_50' || y_field == 'speed_worst', 'speed (mph)', 'travel time (minutes)')"
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.ym > 1546322501000"
+    },
+    {
+      "calculate": "if(datum.ym > 1630296000000, '2 lanes', '3 lanes')",
+      "as": "lanes"
+    },
+    {
+      "calculate": "datum.travel_50 / 60",
+      "as": "travel_50_min"
+    },
+    {
+      "calculate": "datum.travel_worst / 60",
+      "as": "travel_worst_min"
+    },
+    {
+      "calculate": "if(datum.weekend == 0, 'Weekday', 'Weekend')",
+      "as": "weekend_text"
+    },
+    {
+      "calculate": "datum[y_field]",
+      "as": "y"
+    }
+  ],
+  "vconcat": [
+    {
+      "columns": 2,
+      "facet": {
+        "field": "link_name",
+        "sort": [
+          "GOW N 9TH STREET - ATLANTIC AVENUE",
+          "BQE S LEONARD STREET - ATLANTIC AVENUE",
+          "BQE N ATLANTIC AVENUE - LEONARD STREET",
+          "BQE S - GOW S ALTANTIC AVENUE - 9TH STREET",
+          "BQE N Atlantic Ave - BKN Bridge Manhattan Side",
+          "BQE N Atlantic Ave - MAN Bridge Manhattan Side"
+        ],
+        "header": {
+          "title": "Travel time on I-278 before and after August 2021 lane reduction"
+        }
+      },
+      "spec": {
+        "facet": {
+          "field": "weekend_text",
+          "header": {
+            "title": null
+          }
+        },
+        "spec": {
+          "layer": [
+            {
+              "encoding": {
+                "color": {
+                  "field": "lanes",
+                  "scale": {
+                    "range": [
+                      "red",
+                      "black"
+                    ]
+                  },
+                  "legend": {
+                    "title": "Lane reduction"
+                  }
+                },
+                "detail": {
+                  "field": "ym",
+                  "type": "temporal"
+                },
+                "x": {
+                  "field": "h",
+                  "type": "temporal",
+                  "scale": {
+                      "nice": true
+                  },
+                  "axis": {
+                    "formatType": "time",
+                    "format": "%-I%p",
+                    "title": "Hour of day"
+                  }
+                },
+                "y": {
+                  "field": "y",
+                  "scale": {
+                    "nice": false,
+                    "type": "log"
+                  },
+                  "type": "quantitative",
+                  "axis": {
+                      "title": {
+                          "expr": "y_title"
+                      }
+                  }
+                },
+                "opacity": {
+                  "value": 0.2,
+                  "condition": {
+                    "param": "hover",
+                    "empty": false,
+                    "opacity": 1
+                  }
+                },
+                "tooltip": {
+                  "field": "ym",
+                  "formatType": "time",
+                  "format": "%Y-%b",
+                  "nearest": true
+                }
+              },
+              "mark": {
+                "type": "line"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
