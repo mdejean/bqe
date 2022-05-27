@@ -27,12 +27,7 @@
       "as": "travel_min"
     },
     {
-      "timeUnit": "day",
-      "field": "data_as_of",
-      "as": "day"
-    },
-    {
-      "calculate": "if(datum.day == 'Saturday' || datum.day == 'Sunday', 'Weekend', 'Weekday')",
+      "calculate": "if(timeFormat(datum.data_as_of, '%w') == '0' || timeFormat(datum.data_as_of, '%w') == '6', 'Weekend', 'Weekday')",
       "as": "weekend_text"
     },
     {
@@ -74,7 +69,7 @@
             {
               "encoding": {
                 "x": {
-                  "field": "data_as_of",
+                  "field": "h",
                   "type": "temporal",
                   "scale": {
                       "nice": true
