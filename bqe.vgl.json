@@ -3,104 +3,79 @@
   "description": "Travel time on I-278 before and after lane reduction, by month and time of day",
   "data": {
     "url": "https://raw.githubusercontent.com/mdejean/bqe/today/today.csv",
-    "format": {
-        "type": "csv"
-    }
+    "format": {"type": "csv"}
   },
   "params": [
     {
-        "name": "y_field",
-        "value": "travel_min",
-        "bind": {"input": "radio", "options": ["travel_min", "speed", "travel_min", "speed"], "labels": ["Median travel time", "Median speed", "Slowest day travel time", "Slowest day speed"]}
+      "name": "y_field",
+      "value": "travel_min",
+      "bind": {
+        "input": "radio",
+        "options": ["travel_min", "speed", "travel_min", "speed"],
+        "labels": [
+          "Median travel time",
+          "Median speed",
+          "Slowest day travel time",
+          "Slowest day speed"
+        ]
+      }
     },
     {
-        "name": "y_title",
-        "expr": "if(y_field == 'speed', 'speed (mph)', 'travel time (minutes)')"
+      "name": "y_title",
+      "expr": "if(y_field == 'speed', 'speed (mph)', 'travel time (minutes)')"
     }
   ],
   "transform": [
-    {
-      "filter": "datum.status == '0'"
-    },
-    {
-      "calculate": "datum.travel_time / 60",
-      "as": "travel_min"
-    },
+    {"filter": "datum.status == '0'"},
+    {"calculate": "datum.travel_time / 60", "as": "travel_min"},
     {
       "calculate": "if(timeFormat(datum.data_as_of, '%w') == '0' || timeFormat(datum.data_as_of, '%w') == '6', 'Weekend', 'Weekday')",
       "as": "weekend_text"
     },
-    {
-      "timeUnit": "hoursminutes",
-      "field": "data_as_of",
-      "as": "h"
-    },
-    {
-      "calculate": "datum[y_field]",
-      "as": "y"
-    }
+    {"timeUnit": "hoursminutes", "field": "data_as_of", "as": "h"},
+    {"calculate": "datum[y_field]", "as": "y"}
   ],
-  "vconcat": [
-    {
-      "columns": 2,
-      "facet": {
-        "field": "link_name",
-        "sort": [
-          "GOW N 9TH STREET - ATLANTIC AVENUE",
-          "BQE S LEONARD STREET - ATLANTIC AVENUE",
-          "BQE N ATLANTIC AVENUE - LEONARD STREET",
-          "BQE S - GOW S ALTANTIC AVENUE - 9TH STREET",
-          "BQE N Atlantic Ave - BKN Bridge Manhattan Side",
-          "BQE N Atlantic Ave - MAN Bridge Manhattan Side"
-        ],
-        "header": {
-          "title": "Travel time on I-278 before and after August 2021 lane reduction"
-        }
-      },
-      "spec": {
-        "facet": {
-          "field": "weekend_text",
-          "header": {
-            "title": null
-          }
-        },
-        "spec": {
-          "layer": [
-            {
-              "encoding": {
-                "x": {
-                  "field": "h",
-                  "type": "temporal",
-                  "scale": {
-                      "nice": true
-                  },
-                  "axis": {
-                    "formatType": "time",
-                    "format": "%-I%p",
-                    "title": "Hour of day"
-                  }
-                },
-                "y": {
-                  "field": "y",
-                  "scale": {
-                    "nice": false,
-                    "type": "log"
-                  },
-                  "type": "quantitative",
-                  "axis": {
-                      "title": {
-                          "expr": "y_title"
-                      }
-                  }
-                }
-              },
-              "mark": {
-                "type": "line"
-              }
-            }
-          ]
-        }
-      }
+  "columns": 2,
+  "facet": {
+    "field": "link_name",
+    "sort": [
+      "GOW N 9TH STREET - ATLANTIC AVENUE",
+      "BQE S LEONARD STREET - ATLANTIC AVENUE",
+      "BQE N ATLANTIC AVENUE - LEONARD STREET",
+      "BQE S - GOW S ALTANTIC AVENUE - 9TH STREET",
+      "BQE N Atlantic Ave - BKN Bridge Manhattan Side",
+      "BQE N Atlantic Ave - MAN Bridge Manhattan Side"
+    ],
+    "header": {
+      "title": "Travel time on I-278 before and after August 2021 lane reduction"
     }
-  ]
+  },
+  "spec": {
+    "facet": {"field": "weekend_text", "header": {"title": null}},
+    "spec": {
+      "layer": [
+        {
+          "encoding": {
+            "x": {
+              "field": "h",
+              "type": "temporal",
+              "scale": {"nice": true},
+              "axis": {
+                "formatType": "time",
+                "format": "%-I%p",
+                "title": "Hour of day"
+              }
+            },
+            "y": {
+              "field": "y",
+              "scale": {"nice": false, "type": "log"},
+              "type": "quantitative",
+              "axis": {"title": {"expr": "y_title"}}
+            }
+          },
+          "mark": {"type": "line"}
+        }
+      ]
+    }
+  }
 }
