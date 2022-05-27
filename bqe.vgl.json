@@ -12,7 +12,6 @@
   "data": {
     "url": "bqe_agg.csv",
     "format": {
-        "parse": {"h": "date:'%H'"}
     }
   },
   "params": [
@@ -29,33 +28,35 @@
     },
     {
         "name": "y_field",
-        "value": "travel_50_min",
-        "bind": {"input": "radio", "options": ["travel_50_min", "speed_50", "travel_worst_min", "speed_worst"], "labels": ["Median travel time", "Median speed", "Slowest day travel time", "Slowest day speed"]}
+        "value": "travel_min",
+        "bind": {"input": "radio", "options": ["travel_min", "speed", "travel_min", "speed"], "labels": ["Median travel time", "Median speed", "Slowest day travel time", "Slowest day speed"]}
     },
     {
         "name": "y_title",
-        "expr": "if(y_field == 'speed_worst' || y_field == 'travel_worst_min', 'Slowest day', 'Median') + ' ' + if(y_field == 'speed_50' || y_field == 'speed_worst', 'speed (mph)', 'travel time (minutes)')"
+        "expr": "if(y_field == 'speed', 'speed (mph)', 'travel time (minutes)')"
     }
   ],
   "transform": [
     {
-      "filter": "datum.ym > 1546322501000"
+      "filter": "datum.status == '0'"
     },
     {
-      "calculate": "if(datum.ym > 1630296000000, '2 lanes', '3 lanes')",
-      "as": "lanes"
+      "calculate": "datum.travel_time / 60",
+      "as": "travel_min"
     },
     {
-      "calculate": "datum.travel_50 / 60",
-      "as": "travel_50_min"
+      "timeUnit": "day",
+      "field": "data_as_of",
+      "as": "day"
     },
     {
-      "calculate": "datum.travel_worst / 60",
-      "as": "travel_worst_min"
-    },
-    {
-      "calculate": "if(datum.weekend == 0, 'Weekday', 'Weekend')",
+      "calculate": "if(datum.day == 'Saturday' || datum.day == 'Sunday', 'Weekend', 'Weekday')",
       "as": "weekend_text"
+    },
+    {
+      "timeUnit": "hoursminutes",
+      "field": "data_as_of",
+      "as": "h"
     },
     {
       "calculate": "datum[y_field]",
@@ -90,24 +91,8 @@
           "layer": [
             {
               "encoding": {
-                "color": {
-                  "field": "lanes",
-                  "scale": {
-                    "range": [
-                      "red",
-                      "black"
-                    ]
-                  },
-                  "legend": {
-                    "title": "Lane reduction"
-                  }
-                },
-                "detail": {
-                  "field": "ym",
-                  "type": "temporal"
-                },
                 "x": {
-                  "field": "h",
+                  "field": "data_as_of",
                   "type": "temporal",
                   "scale": {
                       "nice": true
@@ -138,39 +123,6 @@
                     "empty": false,
                     "opacity": 1
                   }
-                },
-                "tooltip": {
-                  "field": "ym",
-                  "formatType": "time",
-                  "format": "%Y-%b",
-                  "nearest": true
-                }
-              },
-              "mark": {
-                "type": "line"
-              }
-            },
-            {
-              "data": {
-                "url": "today.csv"
-              },
-              "transform": [
-                {
-                  "calculate": "datum.travel_time / 60",
-                  "as": "travel_min"
-                },
-                {
-                  "timeUnit": "hour",
-                  "field": "data_as_of",
-                  "as": "h"
-                }
-              ],
-              "encoding": {
-                "x": {
-                  "field": "h"
-                },
-                "y": {
-                  "field": "travel_min"
                 }
               },
               "mark": {
