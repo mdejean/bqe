@@ -10,8 +10,9 @@
     }
   },
   "data": {
-    "url": "bqe_agg.csv",
+    "url": "https://data.cityofnewyork.us/resource/i4gi-tjb9.csv?$limit=10000&$order=data_as_of DESC&$select=link_name,data_as_of,status,speed,travel_time&$where=link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223') and data_as_of > '2022-05-20'",
     "format": {
+        "type": "csv"
     }
   },
   "params": [
