@@ -1,32 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Travel time on I-278 before and after lane reduction, by month and time of day",
-  "config": {
-    "facet": {
-      "cell": {
-        "height": 200,
-        "width": 200
-      }
-    }
-  },
   "data": {
-    "url": "https://data.cityofnewyork.us/resource/i4gi-tjb9.csv?$limit=10000&$order=data_as_of DESC&$select=link_name,data_as_of,status,speed,travel_time&$where=link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223') and data_as_of > '2022-05-20'",
+    "url": "https://raw.githubusercontent.com/mdejean/bqe/today/today.csv",
     "format": {
         "type": "csv"
     }
   },
   "params": [
-    {
-      "name": "hover",
-      "select": {
-        "type": "point",
-        "fields": [
-          "ym"
-        ],
-        "on": "mouseover",
-        "nearest": false
-      }
-    },
     {
         "name": "y_field",
         "value": "travel_min",
@@ -115,14 +96,6 @@
                       "title": {
                           "expr": "y_title"
                       }
-                  }
-                },
-                "opacity": {
-                  "value": 0.2,
-                  "condition": {
-                    "param": "hover",
-                    "empty": false,
-                    "opacity": 1
                   }
                 }
               },
