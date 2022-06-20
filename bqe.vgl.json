@@ -2,8 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Travel time on I-278 before and after lane reduction, by month and time of day",
   "data": {
-    "url": "https://raw.githubusercontent.com/mdejean/bqe/today/today.csv",
-    "format": {"type": "csv"}
+    "name": "today"
   },
   "params": [
     {
