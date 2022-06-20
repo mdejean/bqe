@@ -6,11 +6,25 @@
   },
   "params": [
     {
+      "name": "hover",
+      "select": {
+        "type": "point",
+        "fields": ["ym"],
+        "on": "mouseover",
+        "nearest": false
+      }
+    },
+    {
       "name": "y_field",
-      "value": "travel_min",
+      "value": "travel_50_min",
       "bind": {
         "input": "radio",
-        "options": ["travel_min", "speed", "travel_min", "speed"],
+        "options": [
+          "travel_50_min",
+          "speed_50",
+          "travel_worst_min",
+          "speed_worst"
+        ],
         "labels": [
           "Median travel time",
           "Median speed",
@@ -21,17 +35,21 @@
     },
     {
       "name": "y_title",
-      "expr": "if(y_field == 'speed', 'speed (mph)', 'travel time (minutes)')"
+      "expr": "if(y_field == 'speed_worst' || y_field == 'travel_worst_min', 'Slowest day', 'Median') + ' ' + if(y_field == 'speed_50' || y_field == 'speed_worst', 'speed (mph)', 'travel time (minutes)')"
     }
   ],
   "transform": [
-    {"filter": "datum.status == '0'"},
-    {"calculate": "datum.travel_time / 60", "as": "travel_min"},
+    {"filter": "datum.ym > 1546322501000"},
     {
-      "calculate": "if(timeFormat(datum.data_as_of, '%w') == '0' || timeFormat(datum.data_as_of, '%w') == '6', 'Weekend', 'Weekday')",
+      "calculate": "if(datum.ym > 1630296000000, '2 lanes', '3 lanes')",
+      "as": "lanes"
+    },
+    {"calculate": "datum.travel_50 / 60", "as": "travel_50_min"},
+    {"calculate": "datum.travel_worst / 60", "as": "travel_worst_min"},
+    {
+      "calculate": "if(datum.weekend == 0, 'Weekday', 'Weekend')",
       "as": "weekend_text"
     },
-    {"timeUnit": "hoursminutes", "field": "data_as_of", "as": "h"},
     {"calculate": "datum[y_field]", "as": "y"}
   ],
   "columns": 2,
@@ -55,13 +73,18 @@
       "layer": [
         {
           "encoding": {
+            "color": {
+              "field": "lanes",
+              "scale": {"range": ["red", "black"]},
+              "legend": {"title": "Lane reduction"}
+            },
+            "detail": {"field": "ym", "type": "temporal"},
             "x": {
               "field": "h",
               "type": "temporal",
               "scale": {"nice": true},
               "axis": {
                 "formatType": "time",
-                "format": "%-I%p",
                 "title": "Hour of day"
               }
             },
@@ -70,6 +93,16 @@
               "scale": {"nice": false, "type": "log"},
               "type": "quantitative",
               "axis": {"title": {"expr": "y_title"}}
+            },
+            "opacity": {
+              "value": 0.2,
+              "condition": {"param": "hover", "empty": false, "opacity": 1}
+            },
+            "tooltip": {
+              "field": "ym",
+              "formatType": "time",
+              "format": "%Y-%b",
+              "nearest": true
             }
           },
           "mark": {"type": "line"}

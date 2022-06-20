@@ -23,16 +23,32 @@ let f = fetch("https://data.cityofnewyork.us/resource/i4gi-tjb9.json"
     + "&$order=data_as_of DESC"
     + "&$select=link_name,data_as_of,status,speed,travel_time"
     + "&$where=link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')"
-    + " and data_as_of > "
+    + "and status = '0' and data_as_of > "
     /*+ "'" + yesterday.toISOString().replace(/\..*Z/ig, '') + "'"*/
     + "'2022-06-12'"
 ).then(response => response.json());
 let v = vegaEmbed('#vis', spec);
 Promise.all([f, v]).then(a => {
-    let data = a[0];
     let view = a[1].view;
+    let data = a[0].map(row => {
+        return {
+            "h": (Date.parse(row.data_as_of) % (1000 * 60 * 60 * 24)),
+            "ym": row.data_as_of.slice(0, "xxxx-xx-xx".length),
+            "weekend": [6, 0].includes((new Date(row.data_as_of)).getDay()),
+            "link_name": row.link_name,
+            "speed_worst": row.speed,
+            "travel_worst": row.travel_time,
+            "speed_25": row.speed,
+            "speed_50": row.speed,
+            "speed_75": row.speed,
+            "travel_25": row.travel_time,
+            "travel_50": row.travel_time,
+            "travel_75": row.travel_time
+        }
+    });
     view.insert("today", data);
     view.resize();
+    console.log(data);
 });
 </script>
 </body>
