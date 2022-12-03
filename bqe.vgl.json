@@ -2,7 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Travel time on I-278 before and after lane reduction, by month and time of day",
   "data": {
-    "name": "today"
+    "name": "today",
+    "url": "bqe_agg.csv", "format": {"parse": {"h": "date:'%H'"}}
   },
   "params": [
     {
@@ -70,8 +71,6 @@
   "spec": {
     "facet": {"field": "weekend_text", "header": {"title": null}},
     "spec": {
-      "layer": [
-        {
           "encoding": {
             "color": {
               "field": "lanes",
@@ -81,11 +80,12 @@
             "detail": {"field": "ym", "type": "temporal"},
             "x": {
               "field": "h",
-              "type": "temporal",
               "scale": {"nice": true},
+              "type": "temporal",
               "axis": {
                 "formatType": "time",
-                "title": "Hour of day"
+                "title": "Hour of day",
+                "format": "%-I%p"
               }
             },
             "y": {
@@ -106,8 +106,6 @@
             }
           },
           "mark": {"type": "line"}
-        }
-      ]
     }
   }
 }
