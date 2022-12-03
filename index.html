@@ -17,6 +17,12 @@ let spec = "bqe.vgl.json";
 
 let yesterday = new Date();
 yesterday.setTime(Date.now() - 24*60*60*1000);
+// On Saturday and Monday, include all of yesterday.
+if ([6, 1].includes((new Date()).getDay())) {
+    yesterday.setHours(0);
+    yesterday.setMinutes(0);
+    yesterday.setSeconds(0);
+}
 
 let f = fetch("https://data.cityofnewyork.us/resource/i4gi-tjb9.json"
     + "?$limit=10000"
