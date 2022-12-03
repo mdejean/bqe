@@ -31,10 +31,11 @@ let v = vegaEmbed('#vis', spec);
 Promise.all([f, v]).then(a => {
     let view = a[1].view;
     let data = a[0].map(row => {
+        let d = new Date(row.data_as_of + "Z");
         return {
-            "h": (Date.parse(row.data_as_of) % (1000 * 60 * 60 * 24)),
-            "ym": row.data_as_of.slice(0, "xxxx-xx-xx".length),
-            "weekend": [6, 0].includes((new Date(row.data_as_of)).getDay()),
+            "h": new Date(1900, 0, 1, d.getHours(), d.getMinutes(), d.getSeconds(), 0),
+            "ym": new Date(d.getFullYear(), d.getMonth(), d.getDate()),
+            "weekend": [6, 0].includes(d.getDay()),
             "link_name": row.link_name,
             "speed_worst": row.speed,
             "travel_worst": row.travel_time,
