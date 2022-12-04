@@ -11,14 +11,63 @@
 <body>
 
 <div id="vis"></div>
-
+<button id="today">Add today's data</button>
 <script type="text/javascript">
-var view;
-  var spec = "bqe.vgl.json";
-  vegaEmbed('#vis', spec).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    view = result;
-  }).catch(console.error);
+let spec = "bqe.vgl.json";
+let v = vegaEmbed('#vis', spec);
+
+let yesterday = new Date();
+yesterday.setTime(Date.now() - yesterday.getTimezoneOffset() * 60 * 1000 - 24*60*60*1000);
+// On Saturday and Monday, include all of yesterday.
+if ([6, 1].includes((new Date()).getDay())) {
+    yesterday.setHours(0);
+    yesterday.setMinutes(0);
+    yesterday.setSeconds(0);
+}
+
+function addToday() {
+    let f = fetch("https://data.cityofnewyork.us/resource/i4gi-tjb9.json"
+        + "?$limit=10000"
+        + "&$order=data_as_of DESC"
+        + "&$select=link_name,data_as_of,status,speed,travel_time"
+        + "&$where=link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')"
+        + "and status = '0' and data_as_of > "
+        + "'" + yesterday.toISOString().replace(/\..*Z/ig, '') + "'"
+    ).then(response => response.json());
+    Promise.all([f, v]).then(a => {
+        let view = a[1].view;
+        let data = a[0].map(row => {
+            let d = new Date(row.data_as_of + "Z");
+            d = new Date(d.getTime() + d.getTimezoneOffset() * 60 * 1000);
+
+            // Update the start time so that clicking the button again adds recent data
+            if (d.getTime() > yesterday.getTime()) {
+                yesterday = d;
+            }
+
+            return {
+                // Vega-lite parses %H of a number as a date on January 1st 1900, excel-style
+                "h": new Date(1900, 0, 1, d.getHours(), d.getMinutes(), d.getSeconds(), 0),
+                // Specify the day too, so that a line is not drawn between the most recent data point and yesterday
+                "ym": new Date(2099, d.getMonth(), d.getDate()),
+                "weekend": [6, 0].includes(d.getDay()),
+                "link_name": row.link_name,
+                "speed_worst": row.speed,
+                "travel_worst": row.travel_time,
+                "speed_25": row.speed,
+                "speed_50": row.speed,
+                "speed_75": row.speed,
+                "travel_25": row.travel_time,
+                "travel_50": row.travel_time,
+                "travel_75": row.travel_time
+            }
+        });
+        view.change("today", vega.changeset().insert(data)).run();
+    });
+}
+
+document.getElementById('today').addEventListener('click', addToday);
+
 </script>
 </body>
 </html>

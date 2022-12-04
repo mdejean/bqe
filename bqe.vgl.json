@@ -1,7 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Travel time on I-278 before and after lane reduction, by month and time of day",
-  "data": {"url": "bqe_agg.csv", "format": {"parse": {"h": "date:'%H'"}}},
+  "data": {
+    "name": "today",
+    "url": "bqe_agg.csv", "format": {"parse": {"h": "date:'%H'"}}
+  },
   "params": [
     {
       "name": "hover",
@@ -39,7 +42,7 @@
   "transform": [
     {"filter": "datum.ym > 1546322501000"},
     {
-      "calculate": "if(datum.ym > 1630296000000, '2 lanes', '3 lanes')",
+      "calculate": "if(datum.ym > 1630296000000, if(datum.ym > 4039372800000, 'Past 24 hours', '2 lanes'), '3 lanes')",
       "as": "lanes"
     },
     {"calculate": "datum.travel_50 / 60", "as": "travel_50_min"},
@@ -68,23 +71,21 @@
   "spec": {
     "facet": {"field": "weekend_text", "header": {"title": null}},
     "spec": {
-      "layer": [
-        {
           "encoding": {
             "color": {
               "field": "lanes",
-              "scale": {"range": ["red", "black"]},
+              "scale": {"range": ["red", "black", "green"]},
               "legend": {"title": "Lane reduction"}
             },
             "detail": {"field": "ym", "type": "temporal"},
             "x": {
               "field": "h",
-              "type": "temporal",
               "scale": {"nice": true},
+              "type": "temporal",
               "axis": {
                 "formatType": "time",
-                "format": "%-I%p",
-                "title": "Hour of day"
+                "title": "Hour of day",
+                "format": "%-I%p"
               }
             },
             "y": {
@@ -105,9 +106,6 @@
             }
           },
           "mark": {"type": "line"}
-        },
-        {"encoding": {"x": {"field": "h"}}, "mark": {"type": "line"}}
-      ]
     }
   }
 }

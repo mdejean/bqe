@@ -1,4 +1,326 @@
 link_name,weekend,h,ym,speed_worst,travel_worst,speed_25,speed_50,speed_75,travel_25,travel_50,travel_75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-12,31,239,29.044999999999998,33.86,39.14,183.75,211.5,247.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-12,37,200,33.082499999999996,39.45,41.165,174.25,182,216.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-12,37,199,35.875,40.07,41.94,170.25,178.5,200
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-12,43,168,42.87,44.11,45.36,159,162.5,167.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-12,40,179,40.07,42.25,43.025,166,169,179
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-12,26,307,19.57,25.47,35.7225,200.75,280.5,362.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-12,9,847,9.1625,12.42,13.1975,530.5,575,788.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-12,8,887,7.76,10.870000000000001,11.335,611,639,887
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-12,11,667,10.56,10.56,10.56,650,659,675.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-12,11,660,10.56,10.56,11.18,629.75,654.5,671.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-12,10,699,9.94,10.56,11.18,624.25,676,709.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-12,10,697,9.94,10.870000000000001,11.18,626.25,648,699.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-12,11,646,10.56,11.18,11.8,608.5,626,648.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-12,11,655,9.94,10.870000000000001,11.18,626.25,651.5,689
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-12,10,697,9.94,10.25,10.56,658.75,686.5,707.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-12,10,737,9.32,9.94,10.715,650.5,704,729.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-12,9,756,8.69,9.32,9.94,718,747,792
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-12,8,829,8.07,8.379999999999999,8.69,779.5,830,858.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-12,8,840,8.07,8.379999999999999,8.69,796.25,836,863
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-12,10,740,8.69,9.32,10.715,648.75,729.5,813.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-12,14,522,13.04,13.98,14.91,467,503,535
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-12,16,439,16.15,16.77,17.39,412.5,426.5,443.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-12,18,401,16.15,18.945,22.5175,315,377.5,437
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-12,25,313,25.314999999999998,29.2,30.595,232.5,244,281.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-12,29,252,26.4,27.025,31.06,231.75,262,270.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-12,34,214,31.525,33.86,36.3425,197,212,227.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-12,36,201,34.48,36.97,39.14,182,194,207.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-12,40,180,38.83,40.695,41.785000000000004,170.75,176.5,183.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-12,42,170,41.475,42.87,43.49,164,167,172.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-12,38,189,38.83,39.45,40.38,178,181.5,184.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-12,37,197,34.48,36.345,38.675000000000004,184.75,198,208.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-12,22,347,16.77,19.875,25.625,280.75,366,418.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-12,16,452,14.29,16.15,16.925,420,434.5,500.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-12,13,558,12.11,13.04,13.355,531,547,579.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-11,10,694,11.18,32.93,37.9,188,218,631
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-11,14,530,25.47,37.28,39.76,181,193,279.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-11,11,710,34.79,39.14,41.63,172,182,207
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-11,21,356,37.9,41.01,42.87,166,176,190
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-11,12,591,27.6475,38.52,41.63,172,185,257.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-11,10,731,26.555,28.58,33.55,214,248.5,270.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-11,10,676,22.99,23.61,24.85,289.75,301,314
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-11,18,455,21.12,22.36,23.61,305,315.5,335
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-11,21,351,22.36,22.99,23.61,304,311.5,322
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-11,18,434,22.36,22.99,24.23,296,307,322.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-11,16,470,22.36,23.61,24.23,294,302,316
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-11,21,340,23.455,24.23,25.005000000000003,284,296,306
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-11,20,379,22.36,23.61,24.85,288.5,299.5,315
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-11,19,410,22.36,23.61,24.23,294,303,315
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-11,19,380,21.74,22.99,24.23,293,307,324
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-11,6,1121,15.53,22.049999999999997,23.61,304,323,458.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-11,5,1353,16.77,21.12,22.36,318,339.5,427.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-11,5,1417,14.29,18.01,20.5,351,389,492.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-11,5,1480,12.265,18.01,19.88,355,398,582.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-11,4,1550,13.67,18.325000000000003,21.12,335.75,388,511.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-11,12,636,19.88,21.74,22.99,311,330,357.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-11,21,371,21.74,22.99,24.23,292,308,328.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-11,15,558,21.74,23.61,25.625,277.25,299,325.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-11,8,919,9.94,23.92,31.06,232,298.5,706
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-11,8,858,8.69,9.94,23.765,298.75,709,802.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-11,9,785,12.42,19.26,35.41,203,370,573
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-11,17,432,17.855,24.23,37.435,190.5,292.5,401.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-11,19,399,23.455,34.17,40.38,178,208,307
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-11,12,568,22.99,25.78,39.14,182.75,276.5,307.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-11,13,556,14.754999999999999,25.47,36.03,198,280.5,485.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-11,11,650,11.18,14.29,31.215,230.75,503.5,641
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-11,11,666,11.18,21.74,27.3325,260.5,331.5,626.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-11,9,744,10.56,24.23,28.115000000000002,253.75,292.5,672.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-11,9,759,10.405000000000001,23.299999999999997,24.85,288.5,307,687.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-11,9,792,9.32,21.43,23.61,302.75,331,735.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-11,9,802,9.32,21.43,23.61,304.25,332.5,745.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-11,8,827,9.32,19.26,21.895,324.25,366,741.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,13,2022-11,7,944,9.32,21.12,23.765,298.75,339,739.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,14,2022-11,7,944,9.32,21.12,23.765,298,335,741
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,15,2022-11,8,934,15.065,20.5,22.36,319.5,342.5,463.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,16,2022-11,8,913,16.77,20.5,21.895,323.75,346.5,420.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,17,2022-11,8,862,18.64,20.5,21.74,328.5,343,377.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,18,2022-11,8,854,18.3275,20.5,21.74,329.5,347,391
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,19,2022-11,8,911,19.26,21.43,22.99,314,332,366
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2022-11,7,927,19.725,21.74,23.145,306.25,329,362.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2022-11,8,887,20.5,22.674999999999997,24.23,293.75,316,348
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2022-11,9,771,21.12,23.61,25.47,282.75,302,341.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2022-11,10,719,10.56,26.09,34.79,206,274.5,661.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-10,17,466,31.68,36.03,38.52,186,199,225
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-10,14,517,32.93,37.28,39.76,179.5,192,216.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-10,11,685,35.41,38.52,41.01,174,185,203
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-10,13,594,37.59,40.38,42.25,169,176,190.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-10,11,662,37.28,39.76,41.63,172,181,192
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-10,13,584,26.555,29.82,34.79,206,241.5,270.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-10,14,503,22.36,23.61,24.85,287,302,317
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-10,10,737,19.26,22.36,22.99,311,323,366
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-10,7,1049,18.64,22.36,22.99,309,321,380
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-10,5,1324,18.4825,22.36,22.99,309,322,384.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-10,10,721,18.325000000000003,22.36,23.61,305,319,388
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-10,11,716,20.5,22.99,24.23,293,310,347
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-10,11,611,21.12,22.99,24.85,290.5,307,335
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-10,10,705,21.74,22.99,24.23,297,307,327.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-10,10,689,20.5,22.36,23.61,305,316.5,348
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-10,16,486,16.77,21.12,22.99,314,340,416.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-10,11,663,14.91,18.01,21.12,339,392.5,473
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-10,7,969,15.53,18.64,19.88,356.25,385,448
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-10,8,997,14.29,16.77,20.035,352.75,422,500.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-10,6,1197,14.91,19.88,22.36,320,355.5,469.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-10,7,1079,19.26,22.36,24.23,293,318,366.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-10,13,569,19.88,22.36,24.85,286,316,356
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-10,13,547,19.26,22.99,26.09,274.75,310,369
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-10,17,462,23.61,27.025,31.68,226,264.5,305.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-10,7,1085,9.32,22.99,27.96,258,311,753.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-10,9,738,11.18,29.2,35.565,201.5,244.5,614.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-10,12,592,14.445,20.5,37.9,190,349.5,486.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-10,14,505,17.855,35.41,39.76,179,202,399.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-10,9,798,20.655,35.72,40.38,177,200.5,341.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-10,10,718,12.265,31.064999999999998,39.76,180,231,575.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-10,8,897,9.94,24.54,36.03,198.75,288,689.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-10,7,977,8.69,25.78,34.79,205.75,276.5,787.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-10,6,1176,8.69,19.26,26.71,265.5,369,808.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-10,7,968,8.69,18.950000000000003,24.23,295.75,375.5,806.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-10,7,1055,8.69,18.01,21.74,328.5,398.5,824.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-10,7,984,9.32,15.53,18.795,373.75,451,749
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-10,8,873,8.69,15.53,17.39,407,455,793
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,13,2022-10,8,881,8.69,13.04,16.77,424,532,780
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,14,2022-10,7,949,9.94,15.53,19.26,367,452,720
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,15,2022-10,8,864,9.94,16.77,19.88,359,418.5,688.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,16,2022-10,8,877,13.67,19.26,21.74,325,368,516.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,17,2022-10,6,1189,16.15,20.5,21.74,328,349.5,441.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,18,2022-10,5,1258,13.5125,19.26,21.74,330.75,366,529
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,19,2022-10,5,1504,16.77,21.12,22.99,311,336,419
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2022-10,5,1421,14.91,21.74,22.99,307,323,476
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2022-10,5,1342,17.39,22.99,25.005000000000003,286.75,311,415.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2022-10,5,1308,20.345,23.61,27.34,263.75,301,352.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2022-10,5,1308,22.99,27.34,34.17,210,261,313
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-09,12,569,14.29,29.82,36.03,199,237.5,489.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-09,14,516,14.91,17.700000000000003,34.480000000000004,208,401,471.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-09,16,441,24.695,34.79,38.055,187.75,205.5,291
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-09,32,238,34.17,37.9,40.5375,176,190,208.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-09,21,376,37.28,40.07,41.63,172,179,191
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-09,15,490,25.47,29.2,36.03,200,245.5,278.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-09,14,510,22.99,23.61,24.85,286.75,299,313
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-09,9,791,21.12,22.99,24.23,296.75,309,337.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-09,17,419,21.585,22.99,23.61,304,313,332.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-09,14,496,20.5,22.36,23.61,304,318,344
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-09,13,534,19.26,22.99,24.23,293.25,311.5,369
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-09,13,572,19.26,22.36,24.23,296,315.5,366.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-09,12,594,18.64,22.99,24.23,294,314,383.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-09,15,530,20.5,22.99,24.23,294,312,350.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-09,7,989,19.26,21.74,23.61,304,326.5,369
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-09,12,725,16.46,20.5,22.99,314,349,432
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-09,7,994,15.53,17.39,20.5,344,402,459
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-09,7,1033,14.91,17.08,19.88,363,416.5,482
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-09,6,1090,14.29,16.77,19.88,360.75,423,502.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-09,14,624,16.15,18.64,20.5,344.75,381,442
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-09,16,461,19.26,21.12,22.36,316.75,338.5,370.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-09,13,572,19.26,21.12,22.99,308,334,375
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-09,15,457,19.88,22.36,24.23,292,318.5,353.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-09,15,509,21.74,24.85,27.025,264.5,286,325
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-09,12,599,21.12,25.16,31.06,231.75,282.5,339
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-09,14,511,31.6875,34.79,36.66,195,205,226.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-09,30,252,34.79,37.9,38.52,185,189.5,207
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-09,34,215,37.28,39.14,41.01,176,182,193
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-09,29,283,39.76,41.01,41.63,173,175.5,180.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-09,16,461,38.365,39.76,41.01,174.75,179,187.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-09,11,694,27.6475,33.55,37.435,190.5,212.5,259.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-09,14,644,25.47,29.2,35.565,200.25,244,277.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-09,19,392,20.810000000000002,24.85,27.34,260.75,284,342
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-09,13,557,14.754999999999999,18.01,23.61,301,390,485
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-09,12,592,14.135,17.700000000000003,21.74,329.75,404.5,503.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-09,11,684,13.04,14.91,20.655,343.25,475.5,534.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-09,7,1064,13.04,15.53,18.64,386,452,532
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,13,2022-09,9,868,14.135,16.77,20.035,356.25,418,502.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,14,2022-09,17,435,16.77,18.64,21.74,331.5,381.5,427.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,15,2022-09,12,622,15.995,19.57,21.74,327,367,443.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,16,2022-09,16,453,16.77,20.5,21.74,324.75,349,426.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,17,2022-09,16,461,16.77,19.88,21.74,331.75,353.5,422
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,18,2022-09,15,500,17.39,20.810000000000002,21.74,326.75,342.5,410
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,19,2022-09,11,728,17.39,19.26,20.5,347.5,370.5,413.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2022-09,14,525,15.53,19.57,20.5,351.5,366.5,451.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2022-09,11,622,14.29,17.39,21.12,338,408,503.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2022-09,16,455,18.64,20.5,21.12,333.75,350,383.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2022-09,18,416,19.26,22.99,25.47,282.25,313,375
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-08,23,372,32.93,36.66,38.21,187.5,197,217
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-08,36,199,37.28,39.14,40.38,178,183.5,191.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-08,38,187,39.14,40.38,41.63,173,177,184
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-08,37,194,40.38,41.63,43.49,166,172,178
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-08,35,204,39.14,41.01,42.25,169,175,183
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-08,27,272,25.935,29.82,34.945,203.75,241,276.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-08,10,760,22.99,24.23,25.005000000000003,284,294,307.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-08,16,530,21.74,23.61,24.23,294,304.5,325
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-08,19,402,22.36,22.99,23.61,302,309,319
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-08,17,433,21.12,22.36,23.61,302.75,318.5,340
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-08,17,469,21.585,22.99,23.61,301,314,331.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-08,15,487,16.77,21.74,23.61,305.75,331.5,417.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-08,14,509,20.5,22.99,24.23,296,309,346.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-08,13,565,18.64,22.99,24.23,297,314,380
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-08,12,593,19.88,22.36,23.61,305.5,320,361
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-08,12,597,16.77,20.5,22.36,315.75,348.5,419
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-08,14,594,16.15,18.64,21.275,332.75,381.5,441.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-08,7,1035,15.53,19.26,22.36,322,366,450.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-08,6,1159,14.91,18.64,20.5,346.25,385,475.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-08,14,691,17.855,20.5,22.36,322,351.5,399.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-08,19,371,20.5,21.74,22.99,312.75,329,345.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-08,17,445,20.5,21.74,22.99,310,327,347
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-08,18,397,20.345,21.74,23.61,299.75,326,352.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-08,16,446,21.12,24.85,31.68,224,286,340
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-08,14,528,13.67,15.53,32.31,220,456.5,515
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-08,27,285,24.6925,28.58,36.03,199.5,250,291.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-08,19,422,16.15,18.01,21.43,332.5,397,443
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-08,32,241,31.9975,38.21,39.295,181.75,187.5,225.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-08,34,219,37.28,39.14,41.01,174.75,183,191.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-08,31,252,37.9,39.14,40.38,178.75,182.5,188.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-08,31,238,29.2,35.724999999999994,39.76,180,201,243
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-08,14,649,24.07,27.96,36.1875,197.5,254,311.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-08,25,291,24.075,28.58,34.945,203.5,248.5,298.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-08,24,297,23.61,24.54,27.0225,267,287.5,300.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-08,18,399,18.01,20.5,22.6725,313.5,347,393.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-08,14,522,13.67,18.01,20.5,346.5,392.5,512.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-08,17,431,15.84,17.39,21.12,335.5,403,443.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,13,2022-08,15,495,14.907499999999999,17.08,18.01,394.75,417.5,479.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,14,2022-08,19,378,19.26,20.5,21.74,323.75,345,368.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,15,2022-08,16,459,15.84,18.64,22.049999999999997,325,379,450
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,16,2022-08,16,454,15.375,18.01,21.12,341.5,395.5,459.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,17,2022-08,19,396,17.39,19.26,21.275,332,369.5,403.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,18,2022-08,16,497,15.219999999999999,20.5,21.74,329.25,349,469.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,19,2022-08,21,339,20.965,21.74,22.36,315.75,326.5,338.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2022-08,18,427,19.26,19.88,20.5,349.75,357,365.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2022-08,7,1052,6.21,13.975000000000001,22.36,320.5,602,1074
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2022-08,8,885,7.915,14.91,22.36,321.5,521,895
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2022-08,11,648,11.18,18.015,26.71,267.25,433,619
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-07,12,603,16.77,28.58,35.41,203,248,421
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-07,29,258,34.17,36.66,38.52,185,195,208
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-07,11,765,36.66,38.52,40.38,178,186,197
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-07,32,258,37.9,39.14,41.63,173,182,189
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-07,18,393,34.17,37.9,41.01,174.5,188,209.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-07,23,334,26.71,28.58,34.17,209,249,267
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-07,18,419,23.61,24.85,25.47,278,290,299
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-07,18,399,22.99,23.61,24.85,289,299,308
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-07,20,369,21.74,22.99,23.61,299,310,327
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-07,13,571,21.74,22.99,23.61,299,312,328
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-07,11,658,20.5,22.99,24.23,295,312.5,350.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-07,11,673,17.39,21.12,24.23,295,335,412
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-07,15,536,18.64,22.36,24.23,292,315,382.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-07,17,428,18.64,22.049999999999997,23.61,301.25,323,381.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-07,11,709,16.15,19.26,22.99,310,368,446
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-07,6,1092,14.29,16.77,19.26,367.5,420,494
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-07,13,663,14.91,17.39,20.810000000000002,341.5,407,473
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-07,12,590,14.91,17.39,19.88,358,403,470
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-07,15,486,14.91,17.39,20.5,350,405,476
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-07,13,577,15.53,20.5,22.36,321.75,346.5,458
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-07,11,644,19.88,21.12,22.99,314,336,361
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-07,17,422,19.88,21.74,23.61,301,324,356
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-07,15,480,20.5,22.99,24.85,285,313,351
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-07,4,1938,22.36,25.47,30.44,233,279,321
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-07,13,781,13.355,24.23,30.44,234.5,298,528
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-07,12,602,26.715,34.17,36.03,197,208,266.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-07,22,464,32.31,36.345,39.14,184,197.5,220.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-07,28,267,36.03,39.14,40.38,179,184,198
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-07,31,242,37.9,39.76,41.01,174,179,189.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-07,36,199,39.14,40.38,41.63,172.5,176,183.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-07,29,253,28.58,37.9,40.38,177,189,252
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-07,27,270,27.96,34.17,38.52,186,210,254.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-07,21,351,24.85,26.71,31.369999999999997,228,266,289
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-07,13,547,20.189999999999998,23.61,26.555,266.75,302,349.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-07,9,799,17.39,20.5,22.99,309,343,404.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-07,14,547,16.77,20.189999999999998,21.74,326.25,351,430.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-07,16,492,14.91,17.39,20.655,341.5,415,469
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,13,2022-07,14,494,14.91,17.39,21.12,337,404.5,471.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,14,2022-07,16,453,16.15,18.64,21.275,332.5,380,433.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,15,2022-07,16,459,16.15,18.01,21.12,337.75,393,441.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,16,2022-07,18,408,17.235,19.88,21.74,329.75,357,414.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,17,2022-07,17,424,18.01,21.43,22.36,316.75,333.5,388.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,18,2022-07,19,374,19.725,21.74,22.99,313,328,356.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,19,2022-07,19,383,19.26,21.12,22.36,317,334,371
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2022-07,18,401,19.26,20.5,21.12,332.75,347,370.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2022-07,13,574,19.26,20.5,21.12,334,347,365
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2022-07,18,401,19.88,20.5,21.74,325.75,347,362
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2022-07,14,650,19.88,22.674999999999997,24.85,284.75,314.5,353.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-06,16,441,19.88,26.71,32.93,219,268,355
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-06,15,527,33.55,35.41,37.28,191.5,203,215
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-06,16,462,34.79,36.66,39.76,181,195,206
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,03,2022-06,22,361,36.66,38.52,41.01,174.25,186,195.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,04,2022-06,34,216,35.41,37.9,39.14,183,189,202
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,05,2022-06,24,309,26.09,29.2,34.17,211,244,271
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,06,2022-06,18,394,23.61,24.85,25.47,278.75,289,300
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,07,2022-06,20,353,22.674999999999997,23.61,24.23,295,303,314
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,08,2022-06,7,939,21.74,22.99,23.61,298.25,313.5,325.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,09,2022-06,7,1042,21.74,23.299999999999997,24.075,298,306,327.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,10,2022-06,20,374,22.36,23.61,24.23,293.25,305,320.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,11,2022-06,18,403,20.5,22.99,24.23,293,309,343
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,12,2022-06,16,527,21.74,23.61,24.85,290.75,304,324
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,13,2022-06,19,385,21.12,22.99,24.23,293.75,309,341
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,14,2022-06,11,636,19.26,21.74,23.61,303,325,368.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,15,2022-06,10,710,14.91,18.64,21.12,333.75,380,483.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,16,2022-06,12,627,15.53,18.01,21.74,330.25,394,455.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,17,2022-06,14,525,16.15,18.64,20.5,352,384,445
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,18,2022-06,13,531,14.29,18.01,19.88,353,398,489
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,19,2022-06,13,551,16.15,19.26,22.049999999999997,324,365,434.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,20,2022-06,17,436,20.5,21.74,22.99,310,331,349
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,21,2022-06,17,434,19.88,21.74,22.99,310,324,354
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,22,2022-06,17,424,20.189999999999998,22.36,24.23,298,322,353
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,23,2022-06,14,576,18.64,23.92,27.805,255.25,298.5,379.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,00,2022-06,12,654,13.04,17.39,22.99,312.75,406,540.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,01,2022-06,6,1152,17.39,26.09,33.86,210.75,276.5,403.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,02,2022-06,7,1066,27.34,34.79,36.815,195,205.5,261
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,03,2022-06,18,970,32.93,35.41,39.14,184,201.5,216.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-06,30,266,35.254999999999995,38.52,41.01,175,185.5,202
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-06,26,301,35.254999999999995,39.45,41.63,172,181.5,204.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-06,20,378,25.16,37.9,40.38,178.5,189,284
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-06,26,304,27.34,32.31,37.28,192,222.5,262
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-06,23,316,26.09,27.34,31.995,225,261,276
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-06,20,362,22.99,24.23,25.47,280.5,292,312.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-06,16,439,17.855,19.88,23.61,304,355.5,399.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-06,14,508,16.46,19.88,22.674999999999997,317.5,353,426
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-06,18,401,16.77,18.950000000000003,21.275,331.5,378,428.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,13,2022-06,19,392,17.700000000000003,21.12,22.99,308.5,339,402
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,14,2022-06,17,417,15.53,16.77,22.99,312.5,424.5,459
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,15,2022-06,19,393,21.12,21.74,22.99,313,326.5,335.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,16,2022-06,17,432,16.15,21.12,22.99,313,334.5,436
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,17,2022-06,18,414,20.345,21.12,22.36,318.75,337.5,354.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,18,2022-06,18,414,19.725,21.74,22.36,317,327,358.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,19,2022-06,20,365,19.725,21.43,22.36,320,332,360.25
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2022-06,18,395,19.88,21.12,21.74,326.5,336,358
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2022-06,18,414,19.88,20.5,21.74,327,345,363
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2022-06,19,385,19.26,20.5,22.5175,316,349,373.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2022-06,19,373,19.105,21.740000000000002,24.85,289.75,329,370.75
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,00,2022-05,34,221,36.03,38.52,39.76,180,187,198
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,01,2022-05,37,197,38.52,39.76,41.01,175,179,185.5
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,0,02,2022-05,36,198,40.38,41.01,42.25,169.25,174,178
@@ -31,8 +353,8 @@ BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,04,2022-05,37,194,39.76,40.38,4
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,05,2022-05,35,205,39.14,41.01,41.63,171,176,182.5
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,06,2022-05,30,246,29.044999999999998,38.21,41.01,175.75,187.5,245
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,07,2022-05,25,292,26.71,29.509999999999998,37.28,191,242,266.25
-BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-05,22,343,23.61,28.27,36.03,199.25,252,303.5
-BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-05,21,347,22.36,24.23,26.09,272,294.5,319.5
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,08,2022-05,15,551,21.74,26.71,35.41,202,266,323.75
+BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,09,2022-05,18,440,21.74,22.99,25.935,276.5,308.5,328.75
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,10,2022-05,18,401,21.585,22.99,24.385,295.5,312,333.5
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,11,2022-05,5,1421,16.77,18.64,23.299999999999997,307,386,421
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,12,2022-05,16,443,17.855,21.12,24.85,290,340,402.5
@@ -2495,6 +2817,328 @@ BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,20,2018-01,9,862,15.53,20.5,30.
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,21,2018-01,14,522,18.64,24.23,34.17,211,294,382
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,22,2018-01,21,340,25.47,31.68,35.41,201.75,225.5,278
 BQE N Atlantic Ave - BKN Bridge Manhattan Side,1,23,2018-01,22,335,26.71,31.995,37.28,192,223.5,267.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-12,12,1040,7.140000000000001,9.32,14.6,646.5,1006,1301.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-12,9,1358,4.97,8.07,16.7725,571.5,1151.5,1791.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-12,14,866,8.225,15.84,25.625,372.25,591.5,1107.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-12,14,825,9.004999999999999,13.04,20.810000000000002,472,732,1056.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-12,22,796,15.53,32.93,37.28,256,293,603
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-12,21,537,14.135,21.12,29.82,321.25,455,658.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-12,7,1434,6.21,11.18,14.91,634.25,845,1460.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-12,9,1187,7.295,11.8,13.04,736.25,785.5,1267
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-12,11,855,10.405000000000001,11.8,11.8,789.5,816.5,884.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-12,11,894,11.18,11.18,12.42,776.5,828,855.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-12,9,1043,9.94,10.56,11.8,795.75,873.5,940.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-12,10,1049,8.07,11.18,12.42,752,857.5,1132.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-12,10,1029,9.1625,10.870000000000001,12.575,743.25,849,1028.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-12,11,865,9.94,12.42,13.04,722,751,921
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-12,9,1180,6.83,9.004999999999999,11.8,789,1025.5,1337.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-12,10,965,8.69,11.18,11.8,793.75,847,1059.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-12,9,1028,9.94,10.56,11.18,832.5,887,946.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-12,10,962,9.32,10.56,10.56,876.25,910.5,1005
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-12,8,1226,7.605,8.69,9.785,977.5,1068,1237.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-12,8,1199,6.83,8.379999999999999,9.475,985.5,1121.5,1315.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-12,10,1066,8.535,11.8,12.575,746.25,806.5,1108
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-12,10,1157,6.675,8.695,13.3525,719,1065,1349.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-12,13,917,10.870000000000001,13.67,16.46,576.5,701,880
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-12,12,908,9.1625,10.25,14.91,640.25,922,1034.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-12,12,854,9.785,11.49,13.1975,716.5,828,970.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-12,10,1217,5.59,7.76,11.025,875,1193.5,1592.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-12,8,1217,6.83,8.07,9.629999999999999,962,1137,1350
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-12,21,696,10.25,17.39,31.060000000000002,310.5,547,926
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-12,30,356,20.965,31.685000000000002,38.52,247.75,312,453
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-12,28,522,17.39,29.2,40.38,239,327,538
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-12,32,345,28.887500000000003,35.41,37.435,256.5,271,336.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-12,22,455,17.235,20.810000000000002,26.4025,360.5,458,556.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-12,15,653,12.42,15.84,16.77,567.5,604.5,766
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-12,13,714,11.8,13.67,14.91,643,693,797.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-11,10,977,11.335,17.39,27.805,345.25,543,833.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-11,11,861,12.575,18.64,30.130000000000003,319.75,518,740.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-11,7,1410,16.15,21.12,29.2,326,447,591
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-11,10,911,15.219999999999999,30.44,36.345,262.5,313,624.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-11,12,863,17.08,27.34,33.55,285,350,562.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-11,10,990,24.23,27.34,30.44,314.5,347,395.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-11,10,935,22.36,24.23,26.09,368,399,428
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-11,22,466,22.36,24.23,26.09,370,391,424
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-11,21,453,21.74,23.61,24.85,384,408,441.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-11,18,611,21.12,22.99,24.85,385,413,450
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-11,14,702,17.855,21.12,22.99,414,455,533
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-11,14,731,16.77,22.36,24.23,390.75,429.5,558
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-11,18,621,19.88,22.36,24.23,390.75,426.5,480.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-11,19,560,19.88,22.99,24.85,386,417,486.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-11,17,693,18.64,22.36,24.23,390,424,505
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-11,8,1203,15.53,21.74,24.85,388,436,602
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-11,6,1567,16.77,21.12,24.85,387,456,558.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-11,5,1707,14.29,18.64,23.61,409.5,504,656.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-11,10,913,13.5125,19.26,24.23,392,491,708
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-11,5,1686,14.29,19.88,24.85,384.5,479,662
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-11,14,779,18.01,22.99,24.85,383,421,534
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-11,18,668,19.26,23.61,26.09,367,400.5,495.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-11,15,729,17.39,22.049999999999997,26.71,360.5,433.5,546.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-11,7,1332,10.56,17.39,26.71,355,551,915
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-11,10,1026,9.32,10.56,15.53,617,881,985
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-11,7,1360,9.004999999999999,13.67,18.64,505,686,1022.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-11,9,1079,8.07,12.42,17.39,546.5,763.5,1143
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-11,14,884,13.67,19.26,27.96,340,492,700.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-11,10,1069,10.25,19.26,26.09,367,491,929.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-11,13,752,13.5125,22.99,32.465,296.25,411.5,707.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-11,11,860,11.8,13.67,29.2,325,697,810.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-11,11,840,12.42,18.945,29.82,321.5,501.5,770.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-11,11,870,12.42,26.09,29.975,318.5,364.5,756.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-11,11,866,11.8,25.47,27.34,348.75,378,784
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-11,10,911,11.645,22.674999999999997,27.34,353.25,422.5,819.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-11,10,998,11.18,25.47,27.34,347,373,823
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-11,10,979,11.49,21.74,26.09,362.5,439,827
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,13,2022-11,11,894,11.18,20.5,26.09,365.75,467,844.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,14,2022-11,9,1065,11.18,23.61,25.47,371,408,841
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,15,2022-11,10,961,16.15,22.99,25.47,376,412,587
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,16,2022-11,10,955,17.39,23.61,26.09,371,406.5,548.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,17,2022-11,9,982,15.53,22.36,24.85,384.5,422,621.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,18,2022-11,10,944,15.53,22.36,25.47,378,431,618
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,19,2022-11,9,1046,16.77,22.674999999999997,24.85,383,419,572.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2022-11,8,1116,9.94,23.61,26.09,366,408,921
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2022-11,9,1054,13.665,24.23,27.34,348.5,390,698
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2022-11,11,881,15.53,25.78,27.96,343.25,371,617.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2022-11,10,1008,11.025,19.57,27.495,346.25,491,861.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-10,15,805,14.91,22.36,29.82,323.75,430,627.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-10,12,935,11.955,19.88,27.4925,351.75,480.5,777.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-10,7,1282,18.01,23.61,31.215,306.5,401.5,533.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-10,9,1164,15.219999999999999,24.23,33.239999999999995,287.5,393,632.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-10,18,661,23.61,30.44,34.79,274,315,402
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-10,19,503,24.23,27.96,31.06,306,340.5,396.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-10,15,673,21.12,22.99,24.85,382.25,415.5,455.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-10,8,1207,21.74,22.99,25.005000000000003,379.75,410.5,441.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-10,5,1784,20.5,22.36,24.85,388.25,431,470
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-10,4,2164,19.88,22.36,24.23,391.75,425,473.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-10,9,1212,13.04,19.26,21.74,439,499.5,734
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-10,9,1212,16.15,21.12,23.61,406.5,458,587.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-10,11,856,18.795,22.36,24.23,394.25,429.5,502.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-10,7,1336,17.39,21.12,24.23,399,450.5,548
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-10,9,1177,19.725,22.36,24.23,397,425,485.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-10,13,1046,20.5,23.61,25.47,375.75,408,464
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-10,13,780,16.77,22.36,25.625,371.5,429,562
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-10,6,1600,16.77,21.74,24.85,383,437,566.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-10,9,1101,14.91,20.5,24.85,386,470,639.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-10,7,1492,14.29,21.12,25.47,374,458,660
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-10,11,924,18.01,22.36,25.47,374,428,525
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-10,10,979,19.26,23.61,26.09,363,407,493
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-10,17,616,18.01,23.61,26.71,354.75,409,521.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-10,14,844,16.46,23.61,28.58,335.5,401,578
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-10,9,1067,10.56,15.219999999999999,26.71,356.25,620,916
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-10,9,1074,9.94,13.04,24.2275,395.25,714.5,941.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-10,9,1215,9.32,12.73,19.88,478.25,739,994.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-10,13,799,13.67,16.77,29.82,323,566,703
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-10,9,1050,12.575,18.64,29.665,324,514,742.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-10,10,986,9.94,13.98,31.997500000000002,298.75,679,943
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-10,9,1005,11.18,13.67,31.68,304,704,863
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-10,10,974,10.56,14.285,32.31,297.75,658,901.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-10,9,1045,9.94,14.285,27.96,342,671,931
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-10,9,1084,10.56,16.46,26.71,358.75,603.5,908
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-10,8,1132,9.94,17.700000000000003,24.85,387.25,541.5,954.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-10,7,1261,9.94,17.08,24.23,394,553,952
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-10,5,1782,8.69,11.8,23.61,408,809,1059
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,13,2022-10,8,1101,9.94,13.045,23.145,409.75,729,943
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,14,2022-10,8,1164,11.18,18.64,24.85,384,518,840.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,15,2022-10,9,1073,10.56,22.99,25.005000000000003,380,417.5,871.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,16,2022-10,9,1049,11.8,22.36,25.47,372,422,784
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,17,2022-10,6,1461,11.49,21.12,25.78,371,446,815
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,18,2022-10,7,1419,10.56,23.61,26.09,369,401.5,891.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,19,2022-10,8,1150,18.325000000000003,23.61,26.71,358.5,409,518.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2022-10,6,1471,13.98,23.61,27.96,345,404,673.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2022-10,7,1356,10.56,21.12,25.78,370.5,447,896
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2022-10,7,1363,10.56,21.74,27.96,343.25,439.5,898.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2022-10,7,1283,13.04,23.61,27.96,345,401,715
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-09,11,978,9.94,13.67,27.025,356,688,949.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-09,10,989,12.73,18.01,24.23,392.5,536,744.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-09,12,894,11.955,22.055,32.31,295.5,437.5,790.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-09,17,697,25.314999999999998,30.130000000000003,34.79,277.75,317,375.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-09,13,905,20.189999999999998,29.82,35.41,272,319,471.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-09,14,697,23.61,27.34,32.93,290.75,351,406.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-09,13,746,20.5,22.99,25.47,377.25,415,469.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-09,10,1001,22.99,24.23,26.71,358,390,412
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-09,19,510,21.74,23.61,24.385,389,408,441
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-09,22,447,21.12,22.99,24.23,391,417,452.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-09,14,692,15.53,18.64,22.99,417.5,511,617.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-09,11,850,16.925,20.810000000000002,23.61,402.5,458,555.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-09,14,764,16.15,21.12,23.61,406,458,586
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-09,17,600,18.01,20.5,23.92,397,459,535
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-09,17,617,20.035,22.36,24.85,386,422.5,471.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-09,13,880,20.5,23.61,25.47,376,404,466
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-09,18,556,19.26,21.74,24.85,382.25,440,495.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-09,11,906,16.15,22.99,24.85,381,420,599
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-09,9,1063,17.08,22.99,24.85,386,416.5,550
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-09,13,772,14.29,22.36,24.85,385.75,428,663.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-09,13,764,15.995,21.74,23.61,400.75,436,591.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-09,14,813,16.77,22.36,24.85,381,422,571
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-09,19,539,19.88,24.23,26.71,357.5,399,480.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-09,12,957,13.04,20.5,27.34,350,470,714
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-09,22,462,21.74,23.92,26.71,357.5,400,442
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-09,18,649,13.67,21.74,27.34,349,441,681
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-09,22,527,16.46,27.65,35.41,271.25,345.5,574.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-09,24,461,19.26,26.09,34.17,279,370,501
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-09,28,409,27.0225,34.79,38.52,249,273.5,356.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-09,28,468,28.424999999999997,32.31,38.83,248,295.5,338.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-09,27,382,27.645,33.55,39.14,246,287,345
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-09,24,407,27.805,33.55,39.14,245.5,284,343.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-09,28,349,27.34,28.58,29.82,321,334.5,352.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-09,17,641,24.85,27.34,29.2,326.5,352,381.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-09,22,449,23.61,24.85,26.71,358.25,381.5,400.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-09,23,495,22.36,24.85,26.71,359,382,429
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-09,24,416,22.36,25.16,26.71,357.75,380.5,423.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,13,2022-09,23,441,23.61,25.47,26.09,364.5,376.5,405.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,14,2022-09,20,502,21.585,24.54,26.09,369.5,390,441.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,15,2022-09,18,609,22.36,24.54,26.71,357,389,427.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,16,2022-09,22,491,23.145,24.85,26.09,364,386.5,412.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,17,2022-09,22,482,22.99,24.85,26.09,366.5,387,413.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,18,2022-09,20,556,22.205,24.85,26.245,364.75,387.5,430.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,19,2022-09,14,675,13.3575,18.015,24.385,392,528.5,712.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2022-09,19,521,21.12,23.299999999999997,24.23,394,409.5,455.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2022-09,18,566,17.39,19.26,22.36,423,499,548
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2022-09,20,489,19.88,22.99,25.47,377,420,473.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2022-09,19,562,19.725,23.299999999999997,26.09,366,408,486
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-08,12,758,20.5,28.58,35.41,271,334,467
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-08,14,813,11.955,25.475,34.94499999999999,275,378,772.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-08,19,746,15.53,32.93,38.21,251,291,621
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-08,15,641,20.655,28.58,32.93,289.5,337.5,465
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-08,18,705,23.765,31.06,35.41,270.25,307.5,398.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-08,25,457,24.23,28.58,31.68,301,336,397
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-08,20,491,20.965,22.99,25.47,374,419,458.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-08,16,586,21.12,22.99,25.47,379,417,447
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-08,20,492,21.12,22.36,24.23,391.5,425,453.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-08,18,562,19.88,21.74,23.61,407,440,485.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-08,13,764,14.29,18.64,21.74,433.75,514,652.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-08,11,864,14.91,18.64,21.12,446,509,629
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-08,14,730,15.53,19.26,21.74,438,490,616
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-08,11,870,16.15,19.88,21.74,435,476,592
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-08,12,775,15.53,20.810000000000002,22.99,419.75,459,601.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-08,18,570,19.725,21.74,23.61,403,437,482.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-08,15,655,17.39,21.74,23.61,407,444,547.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-08,11,935,14.91,21.74,23.61,400,445,644.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-08,12,776,13.04,18.01,22.36,422,520,737
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-08,14,749,16.15,22.36,25.47,378.25,425,596.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-08,17,673,19.88,22.36,24.85,382,421,483
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-08,14,803,16.615,22.36,24.85,382.5,427,572.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-08,14,782,17.235,22.049999999999997,26.09,370,438,552.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-08,20,587,22.5175,26.09,31.06,307.25,365.5,421.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-08,23,452,20.189999999999998,24.85,29.2,325.5,383,475.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-08,17,793,21.119999999999997,34.17,36.345,264.5,281,448.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-08,18,603,15.84,24.23,36.66,260.5,394,596
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-08,15,637,14.6,17.39,28.89,358.5,549,650
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-08,26,582,20.814999999999998,32.31,34.480000000000004,278.5,298,466
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-08,29,473,25.47,34.17,37.28,258,282,379
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-08,34,292,31.997500000000002,36.66,40.38,236.75,263,299.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-08,28,348,27.34,30.75,35.2575,272.75,311.5,351.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-08,26,372,26.09,29.2,35.41,269,327.5,369
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-08,27,358,26.555,27.34,29.2,330.25,347,363.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-08,20,539,22.8325,24.85,26.245,363.5,383.5,419
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-08,17,562,16.925,18.950000000000003,25.78,371.25,504,554.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-08,23,422,21.740000000000002,23.61,26.09,366,401,436
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,13,2022-08,18,541,15.53,19.26,24.23,397,489,612
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,14,2022-08,23,440,23.92,24.85,25.47,375.5,380,402.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,15,2022-08,22,443,22.205,22.99,25.625,373.75,412.5,429.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,16,2022-08,21,554,19.88,24.85,25.47,377,389,479
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,17,2022-08,21,494,18.3225,23.299999999999997,26.09,367.25,405.5,514.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,18,2022-08,20,519,18.64,23.61,25.47,374,400,517
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,19,2022-08,21,519,18.4825,22.055,24.54,391.25,432,522.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2022-08,19,549,16.15,22.36,23.61,408,423,579
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2022-08,20,481,19.88,21.74,22.5175,423.25,436.5,476.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2022-08,21,477,20.035,21.740000000000002,23.92,402,441,474.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2022-08,18,582,15.219999999999999,22.674999999999997,24.23,396.5,420.5,618.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-07,16,696,18.64,25.78,31.68,304.25,369,517
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-07,17,691,16.77,27.96,34.17,282,339,565.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-07,8,1133,15.530000000000001,25.47,34.17,280.25,372.5,608
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-07,14,699,18.9475,28.27,34.325,277.25,338.5,498.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-07,14,726,27.645,32.93,37.59,254.5,290,346.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-07,26,420,25.47,28.58,31.06,307,338,378
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-07,16,647,20.5,22.36,24.85,384.5,426,468
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-07,22,430,21.74,23.61,26.09,366.25,406,437.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-07,21,472,20.5,22.99,24.85,387,421,469
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-07,15,671,19.88,22.36,24.23,398,432,482
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-07,10,1045,12.42,18.01,22.36,423.5,527,760
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-07,9,1376,13.67,17.39,21.12,455.75,540,702.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-07,14,726,18.01,20.5,22.99,418,468,525
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-07,13,850,18.01,20.5,23.61,407.25,461,532.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-07,15,657,16.77,20.5,22.99,413.5,467,575.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-07,13,766,16.15,19.26,22.8325,418,491,594.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-07,11,873,16.77,20.5,22.99,419.75,464,569.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-07,12,882,16.77,20.5,22.99,416,469,571
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-07,13,748,16.77,21.74,24.23,392.75,433.5,574.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-07,10,921,17.39,21.12,24.85,382,453,553
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-07,13,819,16.77,21.74,24.85,381.75,443,567
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-07,10,999,14.29,21.12,24.85,382,448,670
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-07,11,942,14.6,20.5,25.47,373,470,651
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-07,16,693,17.39,22.36,29.2,330,425,547
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-07,19,614,19.415,25.47,31.06,308,377,488
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-07,12,842,14.754999999999999,28.89,35.565,268,331,646.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-07,16,723,13.665,23.61,35.72,268,409,682
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-07,21,567,18.01,30.44,38.52,247,314,521
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-07,21,644,22.99,30.44,37.28,257,312,419
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-07,27,441,26.09,35.41,39.14,243,271,369
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-07,29,386,29.2,36.66,40.38,237.75,261,327.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-07,27,358,27.96,33.55,39.14,245.5,285,342.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-07,24,419,25.47,28.58,32.93,293,336,377
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-07,25,392,24.85,26.71,29.82,319.25,356.5,383.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-07,24,406,23.92,26.09,27.34,353,369,399.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-07,19,513,21.74,24.85,26.555,362.25,384,436.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-07,21,529,22.049999999999997,24.85,26.09,364,387,436
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,13,2022-07,21,467,21.74,24.85,26.09,365,385,433.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,14,2022-07,19,573,21.74,24.23,26.09,365.75,390,442.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,15,2022-07,17,591,20.035,23.92,26.09,365,401,473.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,16,2022-07,24,413,23.61,25.47,26.71,361,371,404
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,17,2022-07,19,547,20.345,24.23,25.47,372.75,396,471.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,18,2022-07,19,567,22.674999999999997,26.09,27.34,351.5,369,421
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,19,2022-07,19,568,18.64,22.36,25.16,379.25,423.5,504
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2022-07,19,622,18.64,22.99,25.47,379,414.5,511
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2022-07,19,563,18.64,22.99,24.23,391,413,503.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2022-07,19,611,19.57,24.23,25.78,370,396,484
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2022-07,21,540,20.035,24.23,27.34,352.25,395.5,478.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-06,13,743,18.3275,28.58,34.17,280,335.5,522.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-06,13,866,15.84,22.99,32.620000000000005,292,420,597.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-06,6,1634,13.04,20.81,31.06,308.5,458,730.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,03,2022-06,19,626,18.01,30.44,38.52,250,314,536
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,04,2022-06,28,458,28.115000000000002,33.86,37.9,253.25,283,339
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,05,2022-06,23,435,24.85,28.58,31.68,299,336,387
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,06,2022-06,19,509,21.12,22.36,24.23,392,421,453
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,07,2022-06,19,507,21.12,23.299999999999997,24.85,382.25,409,454.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,08,2022-06,17,576,20.5,21.74,24.23,396.75,435,463.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,09,2022-06,14,667,20.5,22.36,24.23,390,424,469
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,10,2022-06,13,818,12.42,17.08,21.12,452.75,556,756.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,11,2022-06,9,1060,15.53,18.64,21.275,442.5,507.5,604.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,12,2022-06,12,860,14.91,19.88,22.36,427.5,476,638.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,13,2022-06,14,768,18.01,21.12,22.99,417.5,454,534.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,14,2022-06,11,917,16.77,20.5,23.61,405.5,460,557.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,15,2022-06,11,896,13.98,18.64,22.36,432,512,681.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,16,2022-06,12,810,17.235,20.5,22.36,425.5,463.5,554.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,17,2022-06,12,950,17.39,20.189999999999998,22.36,427.25,472.5,550.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,18,2022-06,12,839,13.67,18.01,22.36,426.5,526,703
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,19,2022-06,14,714,16.15,21.12,25.47,380,454,597
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,20,2022-06,15,721,17.39,21.74,25.47,377,434,549.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,21,2022-06,11,983,14.29,20.5,24.85,382,464,658
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,22,2022-06,17,644,19.88,22.36,25.47,374.75,429.5,483.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,23,2022-06,9,1027,16.305,22.99,26.71,356,414,575
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,00,2022-06,11,890,10.56,13.67,24.85,387,703,873
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,01,2022-06,11,835,11.645,15.219999999999999,29.82,322.25,622.5,823.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,02,2022-06,15,656,14.91,21.12,36.66,263,447,639
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,03,2022-06,23,677,16.925,22.055,35.41,269.5,431,567.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-06,24,452,21.74,28.58,37.28,257,333,443
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-06,21,581,21.12,31.06,35.875,266,308,451
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-06,31,360,31.369999999999997,35.41,38.52,249,271,305.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-06,29,339,27.34,31.06,37.435,255.75,306,349.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-06,26,367,27.025,28.58,32.93,290,333,354
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-06,25,389,25.47,27.34,29.2,329.75,352,373.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-06,26,385,25.47,26.71,27.34,349,357.5,379
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-06,22,487,21.74,24.85,26.09,366,387.5,440
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-06,19,575,21.12,23.61,25.47,374,407.5,448.75
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,13,2022-06,21,489,21.12,25.47,26.71,361,378,456
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,14,2022-06,23,425,21.74,25.47,27.34,353,374,442
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,15,2022-06,21,495,21.12,24.85,26.09,364,380,449
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,16,2022-06,23,445,23.61,26.09,27.65,347.5,367,404.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,17,2022-06,16,707,20.345,24.85,26.71,359.5,388.5,464.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,18,2022-06,20,536,23.299999999999997,26.09,26.71,358,364,411
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,19,2022-06,18,647,16.77,23.61,25.47,380,406,573
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2022-06,10,918,10.715,13.355,22.6775,424,707,877
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2022-06,14,758,12.42,18.64,23.92,400,512,768
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2022-06,16,695,13.665,22.99,25.16,382.5,410,712.5
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2022-06,20,554,20.965,24.23,26.71,362,398.5,458
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,00,2022-05,14,887,13.67,22.99,32.31,296,418,691.5
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,01,2022-05,13,961,11.8,21.12,32.31,299,449,816
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,0,02,2022-05,11,889,11.8,18.64,32.31,297,503,798
@@ -2527,8 +3171,8 @@ BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,04,2022-05,10,922,21.12,27.96,3
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,05,2022-05,26,444,29.2,34.79,39.14,245,277,330
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,06,2022-05,21,545,31.065,36.66,40.38,237.5,261,310.5
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,07,2022-05,28,342,28.58,31.06,37.28,257,307.5,336
-BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-05,26,370,26.8675,29.2,35.254999999999995,271.75,326,354.25
-BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-05,25,392,25.47,26.71,28.58,336.25,355,374.25
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,08,2022-05,24,405,25.47,28.27,34.79,274.75,338.5,374
+BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,09,2022-05,23,446,25.005000000000003,26.71,27.96,339.25,361.5,383.25
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,10,2022-05,25,384,24.85,26.71,27.96,343.5,358,387
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,11,2022-05,16,609,20.965,24.23,26.245,364.25,391,454.5
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,12,2022-05,20,512,21.74,24.23,27.34,351.5,396,444.5
@@ -4724,6 +5368,7 @@ BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,20,2018-01,15,758,8.695,15.53,1
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,21,2018-01,7,1403,7.76,11.18,14.442499999999999,662.75,865,1222.5
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,22,2018-01,8,1305,6.21,6.52,8.225,1150.25,1405,1517.25
 BQE N Atlantic Ave - MAN Bridge Manhattan Side,1,23,2018-01,10,932,11.18,13.67,15.53,618,698,828
+BQE N ATLANTIC AVENUE - LEONARD STREET,0,13,2022-12,2,5419,2.48,2.48,2.48,5419,5419,5419
 BQE N ATLANTIC AVENUE - LEONARD STREET,0,00,2022-04,30,514,33.394999999999996,38.21,39.295,379.25,391.5,449
 BQE N ATLANTIC AVENUE - LEONARD STREET,0,01,2022-04,35,432,35.41,40.38,44.73,334,371,426
 BQE N ATLANTIC AVENUE - LEONARD STREET,0,02,2022-04,38,399,37.28,43.18,48.769999999999996,308.75,347,404.5
@@ -6212,6 +6857,280 @@ BQE N ATLANTIC AVENUE - LEONARD STREET,1,20,2019-10,16,936,19.57,24.23,29.82,499
 BQE N ATLANTIC AVENUE - LEONARD STREET,1,21,2019-10,17,851,20.965,23.92,28.89,513.5,621.5,716
 BQE N ATLANTIC AVENUE - LEONARD STREET,1,22,2019-10,11,1336,18.64,31.68,38.52,388,468,797
 BQE N ATLANTIC AVENUE - LEONARD STREET,1,23,2019-10,11,1371,15.53,27.96,42.714999999999996,352.75,530,952.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-12,11,375,9.32,10.870000000000001,13.1975,304,369,430.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-12,12,415,10.092500000000001,12.42,15.375,266.75,321.5,395.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-12,10,448,8.07,10.56,13.5075,294.5,386,473.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,03,2022-12,14,309,12.42,17.705,22.5175,180.25,230.5,320.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,04,2022-12,26,192,18.4825,29.82,36.97,110.75,136,216.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,05,2022-12,34,120,31.215,35.41,42.405,96.5,115,129.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,06,2022-12,24,172,23.455,26.71,29.2,138.75,152,174.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,07,2022-12,22,188,19.57,21.74,23.61,172.25,186.5,206.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,08,2022-12,17,236,16.15,18.325000000000003,19.26,211,223,251
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,09,2022-12,12,336,11.645,14.91,16.925,237,267.5,348
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,10,2022-12,12,328,11.18,12.42,13.67,292.25,321.5,353.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,11,2022-12,13,314,11.8,13.04,14.91,270.25,308.5,344.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,12,2022-12,11,371,9.785,10.56,12.42,329.25,377,405
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,13,2022-12,11,364,11.025,11.49,11.955,332,346.5,367.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,14,2022-12,8,510,8.07,9.32,11.18,354.25,424,496.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,15,2022-12,8,506,7.45,8.07,8.69,461.25,484.5,530.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,16,2022-12,7,533,7.45,7.45,8.07,491.75,522,544.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,17,2022-12,7,535,7.295,8.07,8.69,469.75,495,541.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,18,2022-12,8,484,8.535,9.94,11.18,354.5,394,463.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,19,2022-12,13,318,12.42,13.04,14.29,285.5,307,327.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,20,2022-12,13,323,13.5125,16.46,20.035,203.5,245.5,302.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,21,2022-12,16,264,14.754999999999999,20.189999999999998,24.54,164.25,200.5,270.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,22,2022-12,16,252,16.15,18.325000000000003,23.455,174.5,223.5,249.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,23,2022-12,14,295,13.67,17.08,26.09,156.5,241,295.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,00,2022-12,17,257,13.2025,16.46,19.105,209.5,245.5,304.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,01,2022-12,10,407,9.1625,9.629999999999999,11.335,356.75,412.5,434
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,02,2022-12,11,389,7.915,12.11,13.1975,302.25,331,496.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,03,2022-12,9,454,6.83,9.315,10.559999999999999,378,435,564.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,04,2022-12,15,278,13.3575,14.91,17.08,240.5,271.5,302.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,05,2022-12,21,230,14.1325,21.43,26.7125,151.25,198,286
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,06,2022-12,35,122,31.06,36.035,41.63,97,112.5,131.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,07,2022-12,31,132,27.6475,31.994999999999997,35.565,115.25,127,147.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,08,2022-12,30,141,24.075,30.755,36.97,109.25,132.5,169
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,09,2022-12,27,155,24.54,24.85,28.27,143,161,167
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-11,25,193,45.36,47.84,49.08,82,85,89
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-11,46,90,49.08,49.7,50.95,80,82,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-11,48,85,49.7,50.95,51.57,79,80,82
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,03,2022-11,47,87,50.33,50.95,51.57,79,80,81
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,04,2022-11,46,89,50.795,51.57,52.19,78,79,80
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,05,2022-11,45,90,48.46,49.7,50.95,80,81,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,06,2022-11,42,97,45.36,47.22,47.995000000000005,84,86,90
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,07,2022-11,17,528,42.25,45.36,46.755,87,90,96.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,08,2022-11,4,925,35.254999999999995,42.87,45.36,90,94.5,114.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,09,2022-11,8,580,41.785000000000004,44.11,45.36,89,92,97.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,10,2022-11,6,649,36.9675,42.87,44.73,91,94.5,110.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,11,2022-11,10,392,16.77,29.82,44.11,92,135,236
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,12,2022-11,9,443,43.49,44.73,45.98,89,90.5,94
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,13,2022-11,21,267,41.01,45.36,45.98,88,90,99
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,14,2022-11,5,872,33.55,43.49,45.98,88,94,121
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,15,2022-11,6,608,23.6075,44.11,45.98,88,92,171.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,16,2022-11,6,656,14.91,21.74,38.675000000000004,104.75,188,267
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,17,2022-11,6,657,14.29,23.92,32.31,126,170.5,283.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,18,2022-11,7,591,9.32,21.74,30.595,133.5,188,421.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,19,2022-11,3,1238,8.535,32.620000000000005,41.01,99,124.5,453.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,20,2022-11,4,1029,20.19,40.695,42.87,95,100,201
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,21,2022-11,17,348,41.165,42.87,44.11,93,94,98
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,22,2022-11,14,286,39.915000000000006,43.49,44.73,91,93,102
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,23,2022-11,17,244,35.875,44.11,45.36,90,92,113.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,00,2022-11,20,385,43.49,44.73,46.6,87,90.5,93.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,01,2022-11,29,322,45.36,46.6,47.84,85,87,90
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,02,2022-11,5,843,45.98,47.84,49.08,83,85,88.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,03,2022-11,33,211,47.065,48.46,49.7,82,84,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,04,2022-11,44,93,48.46,49.7,50.33,81,82,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,05,2022-11,45,90,49.08,49.7,50.95,80,81,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,06,2022-11,43,103,48.46,49.7,50.95,80,82,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,07,2022-11,45,90,46.6,48.46,50.33,81,84,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,08,2022-11,38,125,45.98,47.22,47.995000000000005,84,86,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,09,2022-11,11,360,45.824999999999996,47.22,48.46,84,86,88.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,10,2022-11,11,382,46.6,47.84,48.46,84,85,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,11,2022-11,7,551,27.34,47.53,48.46,84,86,147.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,12,2022-11,7,585,45.98,47.22,47.84,85,86,88.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,13,2022-11,6,652,46.6,47.84,47.995000000000005,84,85,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,14,2022-11,16,459,45.98,47.22,47.84,85,86,89
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,15,2022-11,44,93,45.36,46.6,47.22,86,87,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,16,2022-11,36,134,39.76,45.36,45.98,88,90,102
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,17,2022-11,16,255,26.4075,40.695,43.49,94,99.5,153.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,18,2022-11,13,340,35.875,41.01,43.025,94,99,113.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,19,2022-11,32,234,39.76,42.25,43.49,94,96,102.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,20,2022-11,42,97,42.25,42.87,43.49,93,95,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,21,2022-11,24,182,41.63,42.87,44.11,92,94.5,97.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,22,2022-11,19,235,42.25,43.49,44.73,91,93,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,23,2022-11,15,375,41.63,44.11,45.36,89.75,92.5,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-10,42,97,46.445,48.46,50.33,81,84,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-10,43,95,48.305,49.7,50.33,81,82,84.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-10,41,99,48.46,50.015,50.95,79,81,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,03,2022-10,30,152,48.46,50.64,52.19,78,80,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,04,2022-10,25,173,49.7,50.95,52.19,78,79,82
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,05,2022-10,33,147,46.6,49.08,50.33,80,83,87.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,06,2022-10,17,236,38.985,44.11,45.98,88,92,104.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,07,2022-10,4,1098,24.85,44.73,46.6,88,91,162
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,08,2022-10,2,1387,25.47,44.11,45.98,88,92,158
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,09,2022-10,3,1200,34.17,44.11,45.36,89,92,118.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,10,2022-10,4,1199,19.26,42.87,45.36,90,95,209
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,11,2022-10,9,473,21.275,42.25,45.36,89,96,189
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,12,2022-10,16,319,42.25,45.36,46.6,87,90,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,13,2022-10,8,516,41.32,44.73,46.6,88,90,98.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,14,2022-10,16,271,31.68,42.87,46.6,87,94.5,128.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,15,2022-10,12,367,34.17,42.25,45.98,88,96,119.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,16,2022-10,11,369,21.12,32.93,44.11,92,123.5,193
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,17,2022-10,8,493,16.15,25.47,34.17,119.25,160.5,250.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,18,2022-10,12,344,20.5,32.620000000000005,42.25,96,124.5,197.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,19,2022-10,12,335,39.14,42.25,43.49,93,96,104
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,20,2022-10,23,189,38.52,41.63,43.49,93,97,106
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,21,2022-10,15,274,41.01,43.49,44.73,91,94,98.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,22,2022-10,14,297,41.63,44.11,45.36,90,92,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,23,2022-10,37,134,42.87,44.73,46.6,88,91,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,00,2022-10,41,102,43.49,44.73,45.98,88,91,93
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,01,2022-10,43,103,45.36,46.6,48.46,84,87,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,02,2022-10,46,88,47.22,47.84,49.7,82,85,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,03,2022-10,48,85,47.84,49.08,49.7,82,83,85
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,04,2022-10,45,90,48.46,49.7,50.485,80,81.5,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,05,2022-10,45,90,48.46,49.7,50.95,80,82,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,06,2022-10,19,240,47.84,50.33,51.57,79,81,85
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,07,2022-10,12,329,47.84,50.33,52.19,78,81,85
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,08,2022-10,11,661,46.6,48.769999999999996,50.95,80,83,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,09,2022-10,24,291,45.98,47.84,49.7,82,85,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,10,2022-10,16,256,44.574999999999996,47.84,49.08,83,85,90.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,11,2022-10,15,274,42.87,47.22,49.08,83,86,94.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,12,2022-10,11,397,44.42,47.22,48.46,84,86,91.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,13,2022-10,23,181,44.73,47.22,47.84,85,87,91
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,14,2022-10,21,195,45.36,47.22,48.46,84,86,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,15,2022-10,39,105,44.11,46.6,47.84,85,87.5,92.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,16,2022-10,40,105,40.8525,44.73,46.6,87,91,99.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,17,2022-10,31,135,37.28,42.56,45.98,89,95.5,108.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,18,2022-10,24,189,25.47,33.55,39.76,102,121,158.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,19,2022-10,26,215,31.06,39.14,42.87,95,103,130
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,20,2022-10,13,332,41.01,42.25,43.49,93,96,100
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,21,2022-10,40,103,42.714999999999996,43.49,44.11,92,94,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,22,2022-10,43,94,42.87,44.11,45.36,90,92,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,23,2022-10,39,107,42.87,44.11,45.36,89,92,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-09,37,117,44.73,46.6,47.84,85,87,90
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-09,42,96,47.22,48.46,49.7,82,83,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-09,46,89,49.08,49.7,50.33,80,81,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,03,2022-09,48,85,50.33,50.95,51.57,79,80,81
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,04,2022-09,39,108,50.95,51.57,52.19,78,79,80
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,05,2022-09,46,89,48.46,50.33,51.57,79,81,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,06,2022-09,42,96,45.36,46.6,47.84,85,87,89
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,07,2022-09,37,114,45.36,46.6,47.84,85,87,90
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,08,2022-09,25,179,42.25,44.73,45.98,89,91,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,09,2022-09,35,138,42.87,44.11,45.36,89.5,92,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,10,2022-09,5,747,31.68,43.18,45.36,90,94,127.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,11,2022-09,7,602,19.57,37.28,44.73,90,109,204.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,12,2022-09,10,408,39.76,45.36,45.98,88,90,102
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,13,2022-09,9,451,42.87,45.36,46.6,88,90,95.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,14,2022-09,19,306,44.73,45.98,47.22,86,88,91
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,15,2022-09,20,352,44.11,45.98,47.22,86,88,92
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,16,2022-09,9,477,21.12,42.25,45.36,89,97,193
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,17,2022-09,8,523,18.01,31.995,43.49,94,127,222.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,18,2022-09,7,561,22.99,44.11,45.36,89,92.5,176.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,19,2022-09,8,517,41.01,42.87,44.11,92,94.5,98.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,20,2022-09,20,360,40.38,42.25,43.025,94,97,101
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,21,2022-09,7,546,41.01,42.87,44.11,92,95,99
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,22,2022-09,10,476,41.01,43.49,44.73,91,94,99
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,23,2022-09,16,292,42.25,44.11,45.36,89.75,92,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,00,2022-09,41,104,44.11,44.73,45.98,89,91,93
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,01,2022-09,46,88,45.98,47.22,47.84,85,87,88.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,02,2022-09,47,87,47.22,48.46,49.08,83,84,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,03,2022-09,49,84,48.305,49.08,49.7,81,83,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,04,2022-09,49,83,49.08,49.7,50.33,81,81.5,82.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,05,2022-09,49,82,49.7,50.33,50.95,80,81,82
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,06,2022-09,48,85,50.33,50.95,52.19,78,79.5,81
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,07,2022-09,47,86,49.08,50.64,52.19,78,80,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,08,2022-09,31,149,47.22,48.46,49.7,82,84,86.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,09,2022-09,31,144,47.065,47.84,48.615,83,85,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,10,2022-09,45,90,47.22,47.84,48.46,84,85,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,11,2022-09,44,92,45.98,47.84,48.46,84,85,89
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,12,2022-09,24,459,45.36,46.6,47.84,85,87,89
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,13,2022-09,3,1352,43.955,47.22,47.84,85,86,92.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,14,2022-09,2,1521,45.824999999999996,47.22,48.46,84,86,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,15,2022-09,16,603,45.98,47.22,47.84,85,86,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,16,2022-09,27,176,33.394999999999996,44.73,46.6,87,91,121.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,17,2022-09,21,271,38.985,44.73,46.755,87,90.5,103.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,18,2022-09,27,161,40.38,45.98,46.6,87,89,100.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,19,2022-09,38,107,41.01,43.49,44.73,91,93.5,99
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,20,2022-09,36,113,38.985,42.25,42.87,94,96,104.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,21,2022-09,10,446,29.0425,42.25,43.49,93.75,96,140.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,22,2022-09,22,287,34.015,41.01,43.49,94,99,118.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,23,2022-09,37,111,39.76,41.01,42.87,94.75,98.5,102.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-08,25,172,46.6,49.7,50.95,80,82,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-08,38,124,49.08,50.33,50.95,80,81,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-08,47,87,49.08,49.7,50.95,80,81,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,03,2022-08,44,91,50.33,50.95,51.57,79,80,81
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,04,2022-08,46,88,50.33,51.57,52.19,78,79,80.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,05,2022-08,46,91,49.08,50.33,51.57,79,81,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,06,2022-08,5,1011,47.065,48.46,49.235,82,84,86.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,07,2022-08,25,541,45.36,47.22,47.84,85,86,90
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,08,2022-08,24,214,44.11,45.36,45.98,88,90,92.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,09,2022-08,24,274,43.49,44.73,45.98,89,91,93.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,10,2022-08,10,442,35.099999999999994,42.87,44.73,91,95,115.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,11,2022-08,13,333,18.01,32.93,42.25,96,122,223
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,12,2022-08,14,302,42.87,44.73,46.6,88,91,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,13,2022-08,21,231,43.49,45.36,45.98,88,90,94
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,14,2022-08,23,234,41.01,45.36,46.6,88,90,99.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,15,2022-08,20,246,33.082499999999996,44.73,46.6,88,90.5,122.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,16,2022-08,29,147,35.875,43.49,45.36,89,93.5,113.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,17,2022-08,20,222,24.85,37.28,44.265,91.75,109.5,163.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,18,2022-08,15,266,32.1525,44.11,45.98,89,92.5,125.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,19,2022-08,16,260,43.49,45.98,47.22,87,89,93
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,20,2022-08,36,121,42.714999999999996,43.49,44.73,91,93,95.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,21,2022-08,41,100,42.25,43.49,44.11,92,94,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,22,2022-08,38,106,42.25,44.11,44.73,91,93,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,23,2022-08,30,185,42.25,44.11,45.36,90,93,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,00,2022-08,28,182,37.745,42.87,44.265,91.75,94.5,106.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,01,2022-08,12,358,15.84,43.18,47.22,86,94.5,257.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,02,2022-08,12,341,14.29,47.22,48.46,84,86,278.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,03,2022-08,42,120,47.22,48.46,49.235,82.75,84,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,04,2022-08,48,85,48.305,49.08,49.7,81.75,83,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,05,2022-08,48,84,48.46,49.7,51.57,79,81.5,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,06,2022-08,51,79,51.415,52.5,53.43,76,77.5,79
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,07,2022-08,48,84,48.46,50.33,52.19,78,81,84
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,08,2022-08,47,86,47.22,48.46,50.0125,81.5,84,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,09,2022-08,47,86,47.685,48.46,49.08,82.75,84,85.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,10,2022-08,48,86,47.22,47.84,48.46,84,85,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,11,2022-08,48,86,47.22,47.53,48.46,84,85.5,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,12,2022-08,45,90,45.98,46.6,47.84,85,87,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,13,2022-08,45,90,45.824999999999996,46.6,47.84,85,87,88.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,14,2022-08,44,92,45.98,46.6,47.22,86,87,88.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,15,2022-08,43,95,43.18,46.29,47.22,86,87.5,94.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,16,2022-08,47,88,46.6,46.6,47.22,86,87,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,17,2022-08,43,95,45.36,45.98,46.6,87,88,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,18,2022-08,46,89,45.824999999999996,46.6,47.22,86,87.5,89
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,19,2022-08,45,91,44.73,45.98,46.6,87,88.5,90.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,20,2022-08,43,94,42.714999999999996,43.49,44.73,91,93.5,95.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,21,2022-08,43,96,42.56,43.49,44.11,92,94,95.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,22,2022-08,43,95,42.25,43.49,44.73,91,94,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,23,2022-08,42,97,42.87,43.49,44.11,92,93.5,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-07,50,81,49.545,50.015,50.95,80,81,82
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-07,50,81,49.545,50.33,51.105000000000004,79.75,80.5,82.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-07,51,80,50.6375,51.260000000000005,51.725,78.75,79.5,80.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,03,2022-07,51,80,50.795,50.95,50.95,79,80,80.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,04,2022-07,51,79,51.415,51.57,51.725,78,79,79.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,05,2022-07,51,80,50.33,50.95,51.57,79,80,81
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,06,2022-07,48,84,47.84,50.33,52.19,78,81,85
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,07,2022-07,46,89,46.91,48.46,49.7,81.75,84,86.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,08,2022-07,10,407,27.4875,43.18,45.98,88,94,162
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,09,2022-07,34,154,44.11,45.36,46.135,87.75,90,92
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,10,2022-07,23,184,30.2825,43.18,45.36,90,94,135
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,11,2022-07,28,161,36.3475,42.25,45.36,89,96,112.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,12,2022-07,44,92,44.11,45.36,45.515,89,90,92
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,13,2022-07,41,99,43.49,44.73,45.98,88,91,94
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,14,2022-07,32,127,35.72,45.36,46.6,88,90,113.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,15,2022-07,36,119,30.44,44.73,46.6,87.75,91,133.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,16,2022-07,37,115,40.38,45.67,46.6,88,89,101
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,17,2022-07,26,156,26.09,35.1,45.515,89,118,156
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,18,2022-07,12,378,10.87,18.64,22.36,180,216.5,371
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,19,2022-07,22,296,11.025,45.36,45.98,88,90,369
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,20,2022-07,44,94,42.714999999999996,43.8,44.887499999999996,90,93,95.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,21,2022-07,42,97,41.63,42.87,44.11,92,94,98
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,22,2022-07,43,94,42.87,43.8,44.11,92,93.5,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,23,2022-07,44,93,43.49,43.8,45.36,90,92.5,93.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,00,2022-07,30,163,30.445,44.73,47.84,84,90.5,134.75
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,01,2022-07,41,110,45.36,46.29,47.84,85,88,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,02,2022-07,47,86,47.685,48.46,48.46,84,84,85.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,03,2022-07,49,83,49.08,49.08,49.7,82,83,83
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,04,2022-07,50,82,49.7,50.015,50.95,80,81,82
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,05,2022-07,50,81,49.7,50.33,51.260000000000005,78.75,80.5,82
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,06,2022-07,52,78,52.19,53.43,54.207499999999996,75,76,78
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,07,2022-07,48,84,47.84,51.57,52.81,77,79,85
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,08,2022-07,48,85,47.84,48.46,49.8575,81.75,84,85
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,09,2022-07,48,86,47.22,48.46,49.08,83,84,86.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,10,2022-07,48,84,47.84,48.46,49.08,83,84,85.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,11,2022-07,45,91,47.22,47.53,48.46,84,85.5,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,12,2022-07,47,87,46.6,47.84,48.46,84,85,87.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,13,2022-07,36,183,46.6,47.22,48.150000000000006,84.5,86,87.5
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,14,2022-07,47,86,47.22,47.84,48.46,84,85,86
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,15,2022-07,47,86,46.6,47.22,47.995000000000005,84.75,86,87.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,16,2022-07,47,87,46.6,47.22,48.46,84,86,87
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,17,2022-07,47,87,45.98,46.6,47.22,86,87,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,18,2022-07,47,88,46.445,46.91,47.375,85.75,87,88
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,19,2022-07,45,89,45.36,46.6,47.22,86,87,89.25
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,20,2022-07,43,96,42.87,43.49,44.265,91.75,93,95
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,21,2022-07,42,97,42.095,42.56,43.49,93,95.5,97
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,22,2022-07,43,95,42.25,43.18,44.11,92,94,96
+BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,23,2022-07,43,94,42.87,43.49,43.49,93,94,95
 BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,00,2022-04,2,1544,33.55,48.46,52.19,78,84,121.25
 BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,01,2022-04,2,1589,27.96,45.98,51.57,79,88.5,146
 BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,0,02,2022-04,3,1407,43.645,47.84,51.57,79,85,92.75
@@ -8612,6 +9531,328 @@ BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,20,2018-01,2,1682,1.86,2.48,2.48,15
 BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,21,2018-01,2,1554,2.48,2.48,2.48,1454.5,1547,1574
 BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,22,2018-01,2,1592,2.48,2.48,2.48,1470,1544,1601
 BQE S - GOW S ALTANTIC AVENUE - 9TH STREET,1,23,2018-01,2,1523,2.48,2.48,2.48,1451,1486,1516
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-12,19,826,17.39,18.950000000000003,21.275,717,808,878.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-12,23,703,21.585,25.16,30.595,500,610.5,712.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-12,25,657,23.1425,27.96,31.5275,484,545.5,666.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-12,33,499,31.37,34.79,42.715,360.25,444,489.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-12,37,451,32.775,44.11,45.98,333.75,349,465.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-12,41,390,42.714999999999996,45.36,46.6,330.5,340,359.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-12,27,581,27.34,30.44,33.705,456,498,561
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-12,23,679,20.5,23.299999999999997,25.47,599,657,738.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-12,19,831,17.855,19.88,20.5,752.5,762,858.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-12,14,1084,13.67,18.325000000000003,19.26,797.5,837.5,1110.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-12,16,932,15.53,16.15,17.545,863.75,927,979.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-12,16,974,14.754999999999999,16.15,17.39,878.75,932,1017
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-12,14,1095,13.67,14.29,16.15,952,1044,1109
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-12,16,992,14.29,15.53,17.39,874.25,968.5,1055.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-12,11,1394,11.18,12.42,14.29,1057.75,1232,1336.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-12,9,1603,8.69,9.32,10.094999999999999,1469.75,1598.5,1673
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-12,8,1789,8.07,8.69,8.69,1696.5,1747.5,1826.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-12,8,1861,8.07,8.07,9.32,1631.25,1799,1847
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-12,9,1666,9.32,10.870000000000001,12.42,1220.75,1388,1592.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-12,15,1020,14.29,16.15,17.39,880.5,944,1044
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-12,16,936,16.15,19.57,21.275,712.5,784,939.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-12,20,759,19.57,23.92,25.47,598.75,637,785
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-12,22,711,21.585,24.23,25.47,603.75,632,711
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-12,21,745,21.74,24.54,26.4025,579,624,709.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-12,26,603,24.075,25.78,26.71,575.25,594,637.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-12,25,659,19.26,22.675,29.355,520,671.5,796
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-12,27,616,23.1425,27.96,31.215,493,548.5,658.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-12,24,744,15.219999999999999,23.299999999999997,27.4875,557.25,656,989.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-12,34,470,31.840000000000003,34.79,38.055,402,441,489.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-12,37,421,33.082499999999996,39.14,40.6925,378.25,392,465.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-12,43,360,39.76,45.045,46.755,329.75,340,385.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-12,38,409,36.037499999999994,38.21,38.83,393.75,401.5,425
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-12,33,480,28.89,32.925,36.97,412.5,465.5,527.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-12,30,509,29.2,29.82,31.060000000000002,493,514,522.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-11,23,716,28.27,37.28,41.32,371.5,414,543.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-11,18,871,30.905,37.28,42.87,358.75,413,496
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-11,32,485,37.9,42.87,45.98,335,360,405.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-11,40,390,42.25,45.98,47.84,320,334.5,364
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-11,43,361,46.6,49.7,51.57,298,307.5,328
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-11,37,441,44.11,45.98,48.46,316.75,335,350
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-11,24,641,26.09,32.31,39.14,395,474.5,584.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-11,17,946,17.39,19.88,23.61,653,777,869.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-11,8,1833,12.885,14.29,16.77,903.5,1055,1181.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-11,8,1932,11.18,13.04,14.91,1004.25,1184,1312
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-11,7,2235,11.8,13.67,15.53,992,1110,1288
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-11,7,2210,9.94,12.42,14.29,1064,1237,1511
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-11,6,2456,11.18,12.42,13.67,1110,1225,1379.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-11,5,2720,9.32,10.56,11.8,1269.5,1443.5,1569.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-11,6,2613,8.69,9.32,9.94,1477,1576,1683
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-11,4,3538,7.45,8.379999999999999,9.32,1642.75,1780,1918
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-11,6,2617,6.83,7.45,8.07,1856,2045.5,2197.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-11,4,3775,6.21,6.83,7.45,2035.75,2177.5,2359.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-11,4,3865,5.59,6.83,7.45,1981.5,2201,2497.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-11,6,2632,7.45,9.94,12.42,1242.75,1523.5,1961.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-11,7,2216,14.29,17.39,22.5175,674.25,870.5,1043.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-11,19,918,20.5,24.85,28.58,536,622,747.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-11,6,2607,24.23,27.34,31.68,482.25,557.5,630
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-11,6,2782,26.71,32.31,37.9,406.75,471,570.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-11,21,907,19.88,32.620000000000005,39.14,393,469,755.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-11,17,1144,19.26,36.66,39.76,386,419,781
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-11,20,974,24.23,32.93,39.915,386.5,461.5,629.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-11,33,483,35.41,39.45,41.785000000000004,366,387.5,430
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-11,37,420,37.9,41.63,44.265,347.25,370.5,405
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-11,41,381,41.63,45.36,47.995000000000005,319.5,337.5,368.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-11,30,559,43.955,45.98,47.995000000000005,318.75,335,350
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-11,35,449,41.63,44.11,46.6,330.5,346.5,369.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-11,19,800,28.735,36.66,42.25,365,418.5,529.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-11,15,1004,23.455,32.93,42.25,362.5,465.5,650.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-11,18,826,18.64,29.82,40.5375,376.5,511.5,809.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-11,12,1317,16.77,21.74,34.17,446.5,697,901.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-11,16,949,17.39,19.88,24.54,622.5,766,883.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,13,2022-11,11,1323,13.04,14.91,18.64,818.25,1018.5,1163.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,14,2022-11,10,1495,13.04,14.29,16.15,936.25,1057,1149
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,15,2022-11,11,1406,12.885,14.29,15.53,971.25,1074,1188.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,16,2022-11,8,1947,10.56,11.18,13.04,1155.75,1346.5,1439.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,17,2022-11,11,1434,10.56,11.18,13.1975,1162.5,1318,1417.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,18,2022-11,10,1521,11.18,13.67,15.065,1007.25,1119,1367.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,19,2022-11,15,1314,14.29,15.53,18.01,844,970,1041.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2022-11,14,1066,15.53,17.39,20.5,741.75,863.5,965.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2022-11,16,926,17.39,22.36,24.85,616.75,684,872.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2022-11,16,947,18.64,24.23,27.96,551.75,634,817.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2022-11,19,813,19.26,26.09,36.03,427.5,590,792.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-10,18,1058,30.44,39.14,42.87,357,394,500
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-10,23,678,32.1525,38.83,43.49,353.75,395,473.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-10,37,420,40.38,43.49,46.6,329,351.5,379.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-10,41,383,44.11,45.98,49.08,313.75,332,350
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-10,41,375,45.98,49.08,50.95,303,315,332
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-10,39,394,42.87,45.67,48.46,317,336,360
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-10,15,1094,27.96,34.17,38.52,396,451,545.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-10,10,1516,17.39,22.99,27.96,544.5,657,873.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-10,6,2578,13.67,16.15,20.5,754,930,1108
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-10,4,3386,11.8,14.29,19.88,764.75,1065.5,1295
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-10,5,2804,12.42,14.91,18.64,807.75,1014,1218.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-10,9,1751,11.8,14.29,18.64,827,1070,1254
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-10,7,2185,11.18,13.67,18.01,847,1112,1316
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-10,9,1670,10.56,12.42,18.64,819,1207,1410.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-10,7,2067,8.69,9.94,13.825,1088.25,1497,1691.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-10,7,2034,8.07,8.69,11.18,1315.5,1737,1859.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-10,5,2725,6.83,7.45,8.07,1781,1991,2098.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-10,6,2681,6.83,7.45,8.07,1822.5,2060,2231
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-10,6,2435,7.45,8.07,11.8,1277.75,1835.5,2068.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-10,8,1791,9.94,12.42,21.895,694,1192.5,1470.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-10,12,1279,14.91,18.01,26.09,590.5,837,1029
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-10,14,1124,17.39,24.23,29.2,521.25,633,866.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-10,17,916,22.36,27.34,33.55,458,562.5,676
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-10,18,993,26.09,33.55,39.295,388.5,459,581
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-10,21,833,22.36,28.89,36.03,425,528,673.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-10,25,700,33.394999999999996,36.66,40.38,378,415.5,461.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-10,33,476,34.635,37.28,39.76,383.75,413,444.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-10,35,448,34.79,37.9,41.785000000000004,368.25,402,442.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-10,36,424,37.28,41.01,44.11,347.5,373.5,410.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-10,36,424,39.76,42.87,45.36,340,356,384.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-10,40,388,41.01,45.36,47.84,319,339,372.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-10,30,534,41.01,45.36,47.995000000000005,318.75,336.5,374.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-10,19,1031,31.37,41.01,44.11,346,374.5,487.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-10,16,1201,29.82,36.66,41.785000000000004,366,417,515.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-10,15,1010,22.99,27.65,35.41,435.5,555.5,665.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-10,14,1128,17.235,20.5,24.385,621.5,736.5,888.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-10,10,1469,13.67,18.01,22.99,660,849,1091.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,13,2022-10,8,2060,12.42,14.91,18.64,815.75,1006,1234.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,14,2022-10,4,3482,11.18,13.355,16.305,923.25,1136.5,1332
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,15,2022-10,9,1619,11.645,13.67,16.15,944.5,1113,1308.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,16,2022-10,10,1574,11.18,12.42,14.91,1001.5,1192.5,1349.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,17,2022-10,9,1619,11.8,12.42,13.67,1110,1196,1276.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,18,2022-10,9,1635,12.265,13.04,14.29,1054.25,1141,1244.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,19,2022-10,11,1447,13.67,14.91,20.5,747,1002.5,1110
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2022-10,16,983,16.77,19.88,25.005000000000003,607.25,758.5,900.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2022-10,15,1023,17.39,19.88,23.61,644.5,774,886
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2022-10,16,951,16.77,19.88,24.385,622,763,902.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2022-10,18,853,21.12,24.23,34.325,443.5,627.5,725.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-09,12,1261,31.525,37.28,41.01,375.75,411.5,485.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-09,21,769,33.55,38.21,42.87,358.75,401,455
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-09,37,417,38.52,42.25,46.6,331,361.5,398.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-09,40,394,42.25,45.98,49.7,309,332.5,363
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-09,37,418,45.36,49.08,51.105000000000004,300,314,337
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-09,44,349,44.73,46.6,48.615,314.75,328,343.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-09,30,551,28.58,36.03,41.01,374,426,533
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-09,12,1247,18.64,21.74,27.34,564.5,705,827.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-09,13,1200,14.29,15.53,18.64,821.5,958.5,1075.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-09,12,1231,13.04,15.53,19.26,783.5,987,1140.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-09,9,1760,14.29,16.77,19.88,758,911.5,1063.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-09,5,2834,13.67,16.77,20.189999999999998,753.5,902,1096
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-09,5,2790,12.42,15.53,18.01,847.25,983,1208.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-09,9,1622,10.56,12.42,14.445,1042.5,1223,1404
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-09,8,1854,8.69,9.94,12.42,1214.75,1482.5,1664.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-09,6,2629,8.07,8.69,9.94,1521,1745,1872
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-09,5,2901,6.83,7.45,8.07,1797,2018,2171
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-09,5,2853,6.21,6.83,8.07,1851.75,2091,2384.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-09,5,3034,6.83,7.45,8.07,1817,1994.5,2180.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-09,6,2445,8.69,9.94,12.575,1182,1500.5,1758.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-09,10,1454,12.42,14.91,16.925,889.5,1032.5,1208.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-09,11,1429,15.53,18.64,22.99,668.5,826,969
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-09,16,933,19.88,22.36,25.47,593.5,687.5,766.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-09,21,738,24.23,29.82,35.41,431.75,513,630.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-09,21,764,22.36,32.31,39.295,390,476.5,678.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-09,36,428,36.66,40.07,42.87,359.75,382.5,422
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-09,13,1480,32.93,36.66,41.01,376,420.5,469
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-09,15,1249,31.37,36.345,41.01,376,421.5,492.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-09,31,506,38.365,41.01,45.515,337.25,376,401
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-09,44,351,42.87,46.6,48.46,317,331.5,358.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-09,45,342,45.98,47.84,49.8575,307.75,321.5,334.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-09,42,371,44.11,46.6,49.08,312.75,328.5,348.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-09,28,554,29.82,35.724999999999994,44.73,342.5,426,515.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-09,28,546,29.2,33.86,41.01,373.5,452,524.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-09,21,740,22.205,25.78,29.975,510.75,595.5,689.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-09,17,891,17.855,18.64,21.275,716.25,805.5,858.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-09,16,970,16.15,17.39,19.26,802,872,936
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,13,2022-09,12,1255,14.754999999999999,15.53,16.77,914.75,970.5,1027.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,14,2022-09,9,1620,10.56,13.67,14.91,1025.75,1096,1393.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,15,2022-09,9,1768,9.94,12.42,13.04,1154,1221,1536.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,16,2022-09,10,1526,11.18,11.8,12.42,1213,1294,1352.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,17,2022-09,7,2131,11.18,11.8,13.67,1115.75,1278,1366.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,18,2022-09,12,1264,12.42,14.29,16.15,939.5,1064,1223
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,19,2022-09,12,1261,13.67,15.53,17.39,865.75,972.5,1107
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2022-09,12,1277,13.04,15.53,19.26,789.25,973.5,1141.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2022-09,15,1139,14.91,16.15,17.39,878.25,954,1012.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2022-09,16,989,15.375,16.77,19.26,794.5,894,999.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2022-09,15,1015,16.77,20.5,21.74,693.5,734.5,902.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-08,11,1432,14.91,18.64,31.68,486,815.5,1022.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-08,13,1181,18.01,22.049999999999997,27.34,554,691.5,848.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-08,19,811,29.82,35.41,43.49,355,431,509.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-08,24,654,39.76,44.73,47.995000000000005,319,342.5,385.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-08,44,353,46.6,49.7,50.95,303,310,331
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-08,43,361,44.73,46.91,49.08,314.75,327,342.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-08,27,710,28.58,35.41,39.915,383.25,434,538
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-08,10,1570,19.105,21.74,25.625,600,703,804.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-08,13,1145,14.29,16.15,17.39,872.5,932,1075.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-08,11,1367,12.42,13.04,15.065,997,1133,1222.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-08,8,1857,12.42,14.29,18.01,851.25,1068.5,1204.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-08,11,1354,12.42,14.29,15.065,999,1071,1194.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-08,6,2482,11.49,13.67,14.91,1021.5,1101,1293.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-08,7,2074,9.94,11.18,13.67,1094.5,1327,1512
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-08,9,1612,9.32,9.94,10.56,1393.5,1527,1600
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-08,8,1835,8.69,8.69,9.32,1600.5,1688.5,1763.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-08,6,2365,7.45,8.07,8.69,1759,1871.5,1972.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-08,7,2004,7.45,8.07,8.07,1791.75,1904,1989.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-08,7,2211,8.07,8.69,9.94,1519.25,1720.5,1855.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-08,11,1653,11.18,13.67,17.39,882.25,1096,1351.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-08,14,1145,15.995,18.01,22.36,674.5,849,956.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-08,16,968,19.88,23.92,27.96,542,645,761.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-08,16,973,19.26,22.36,25.47,601.75,686.5,790
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-08,15,1041,18.01,22.36,30.44,504,680,844.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-08,21,813,17.855,31.375,38.52,400.25,486.5,862
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-08,38,416,36.5025,38.52,44.11,350,395,419.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-08,36,438,35.875,39.76,41.785000000000004,366.25,386.5,427.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-08,39,405,36.5025,39.45,44.265,346.75,387,422
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-08,39,395,36.66,40.38,43.645,351,380.5,417
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-08,45,344,43.49,45.98,47.84,322,332,351.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-08,49,315,48.305,49.7,50.95,301.5,309.5,318.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-08,44,347,44.11,45.98,47.53,322.75,334,347.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-08,31,522,36.3475,41.94,45.1975,340.75,366,421.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-08,27,592,27.805,32.620000000000005,43.025,355.25,471,553
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-08,20,781,19.88,27.335,34.947500000000005,440,560,758.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-08,17,918,16.46,19.57,21.74,706,780.5,926
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-08,12,1315,15.219999999999999,18.01,22.674999999999997,677.5,853,996.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,13,2022-08,18,859,16.15,18.64,19.88,764.75,818,931.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,14,2022-08,13,1130,13.04,13.67,14.445,1036,1108,1145
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,15,2022-08,13,1150,13.04,13.67,14.6,1042,1113.5,1169.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,16,2022-08,13,1176,13.04,14.905,17.8575,852.75,1029,1172.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,17,2022-08,14,1061,14.29,15.53,17.39,886,964,1073.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,18,2022-08,13,1127,13.5125,14.29,15.53,986.25,1060,1115.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,19,2022-08,16,942,16.15,17.39,18.01,841.5,882.5,937.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2022-08,16,925,16.15,17.39,17.39,869.25,881.5,927.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2022-08,16,938,16.15,18.64,20.189999999999998,762.5,823,930
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2022-08,20,774,18.64,19.88,20.655,733.5,762.5,805.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2022-08,16,949,15.375,22.365000000000002,33.705,455,695.5,980.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-07,8,1949,18.01,27.96,37.745,407.5,550,850.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-07,14,1136,26.09,34.17,39.14,389,446,590
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-07,25,639,33.55,39.76,43.49,353,386,456
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-07,39,401,41.01,44.42,47.22,325,345.5,374.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-07,46,338,46.6,49.08,50.95,301,314,327.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-07,45,341,45.98,47.84,49.7,310,322,334
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-07,30,555,29.665,39.45,44.11,347,390.5,518.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-07,17,915,19.26,22.36,27.34,562,689,795.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-07,10,1462,13.04,14.91,16.77,908,1013,1151
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-07,8,1747,12.42,13.67,14.91,1004,1098,1191
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-07,7,2115,12.42,14.29,17.39,881.5,1076.5,1217.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-07,7,2062,11.8,14.29,17.39,874,1049,1287
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-07,8,1947,10.094999999999999,12.42,14.91,1009.75,1205.5,1458.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-07,8,1774,9.94,11.18,14.29,1048,1328,1470.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-07,9,1729,9.32,9.94,11.18,1336.5,1478,1622
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-07,7,2123,8.07,8.69,9.94,1551.25,1715.5,1861.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-07,5,3150,7.45,8.07,9.32,1657,1914,2056.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-07,4,3806,7.45,7.45,9.32,1584,1943,2071
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-07,7,2376,8.07,9.94,11.18,1348.75,1541,1786.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-07,12,1339,14.29,16.15,19.88,778,938,1081
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-07,15,1065,18.64,20.5,25.47,602.25,739.5,824.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-07,19,812,21.74,27.96,31.68,483,550,692
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-07,20,783,21.895,27.025,31.68,483.75,564.5,691.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-07,11,1373,20.5,27.96,37.745,408,545.5,746
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-07,17,906,18.64,27.96,34.325,444.75,552,818.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-07,21,756,32.93,37.28,41.63,366.5,408,467
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-07,34,465,35.41,38.52,41.63,366.5,397.5,430
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-07,34,467,36.66,41.01,44.11,347,372,421
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-07,34,506,38.52,43.49,46.6,330,355,397
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-07,15,984,39.76,44.73,47.22,326,343.5,384.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-07,45,363,48.46,49.7,51.57,299,308,318
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-07,41,376,45.045,46.6,50.33,304.5,328,341.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-07,26,596,33.55,44.11,47.22,325,349,460
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-07,23,673,24.85,29.2,43.955,350.75,522.5,617.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-07,16,946,20.5,22.36,25.47,596,673,753.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-07,15,1031,16.77,20.189999999999998,22.36,686.5,757,908.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-07,13,1159,14.29,15.53,18.01,856.25,959,1073
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,13,2022-07,12,1312,13.04,14.6,17.545,869,1026.5,1169.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,14,2022-07,14,1098,14.29,14.91,16.15,942,1036.5,1069.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,15,2022-07,13,1174,13.04,14.29,15.53,978.5,1069.5,1138
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,16,2022-07,11,1362,12.42,13.67,15.53,973.75,1105,1228.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,17,2022-07,10,1587,11.8,13.04,16.77,915.75,1171,1250.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,18,2022-07,11,1366,12.42,14.29,16.77,904.75,1070.5,1193.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,19,2022-07,11,1523,13.04,16.15,18.01,841,939,1151
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2022-07,13,1190,15.53,19.57,22.36,679.75,782,976.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2022-07,16,977,18.4825,22.36,25.47,599,687.5,825
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2022-07,19,828,18.01,19.26,21.74,701.5,783,845.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2022-07,16,940,16.77,20.189999999999998,23.145,660.5,755,893.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-06,18,872,29.2,35.41,40.38,379,430,523.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-06,26,641,32.93,37.28,41.01,377,408,468
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-06,31,511,34.480000000000004,39.14,44.11,347.5,391,445
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,03,2022-06,36,444,37.9,41.63,45.36,337.25,367.5,406
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,04,2022-06,43,374,45.36,48.46,50.33,304.25,317.5,337.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,05,2022-06,38,401,45.045,47.22,49.08,312.5,326,341.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,06,2022-06,30,544,28.424999999999997,33.55,40.5375,377.75,458,542.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,07,2022-06,16,946,17.39,19.26,23.61,651.5,784,885
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,08,2022-06,12,1266,12.42,13.67,15.375,989.5,1099.5,1215.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,09,2022-06,10,1550,11.8,12.42,13.5125,1112.25,1197.5,1268.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,10,2022-06,6,2412,11.8,13.67,14.91,1027.5,1121.5,1247.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,11,2022-06,8,2078,10.56,13.04,14.29,1055,1179,1416.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,12,2022-06,6,2839,8.07,10.56,12.42,1196,1398,1843
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,13,2022-06,5,3260,8.07,10.56,13.04,1147.75,1436.5,1787.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,14,2022-06,4,3647,6.83,9.32,10.56,1429,1639,2086.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,15,2022-06,6,2496,6.83,8.07,8.69,1738,1902,2147.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,16,2022-06,6,2586,6.83,7.45,7.45,1927,2020,2130
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,17,2022-06,5,2860,6.21,6.83,7.45,1936,2090,2271
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,18,2022-06,6,2598,6.83,7.45,8.69,1705.5,1937,2114
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,19,2022-06,7,2200,9.94,11.8,13.04,1171,1307,1555
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,20,2022-06,8,1943,11.18,14.29,18.01,855.75,1063,1334
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,21,2022-06,11,1611,16.15,19.26,23.61,643,790,933
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,22,2022-06,14,1230,18.64,21.12,25.47,605,730,824.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,0,23,2022-06,16,974,23.61,27.96,34.17,446,551,652
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,00,2022-06,13,1156,14.29,19.57,29.975,510,779,1055.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,01,2022-06,28,626,31.215,35.72,42.095,365.25,428.5,491.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,02,2022-06,36,426,36.03,39.14,42.56,360,389,428
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,03,2022-06,38,415,34.17,38.52,43.49,353.5,396,446.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-06,38,407,37.28,40.07,44.11,349,382.5,414.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-06,41,385,41.94,46.6,49.8575,309.75,328.5,366.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-06,48,325,48.46,50.33,52.19,294,306,317
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-06,38,432,41.63,45.98,49.7,310,334,367.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-06,29,531,29.509999999999998,35.41,44.73,341,430,518
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-06,25,636,24.23,26.71,39.45,386.75,575.5,632.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-06,19,861,19.725,21.43,25.9375,587.25,711,778.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-06,14,1100,13.67,15.84,20.655,734,957,1089.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-06,16,952,16.77,17.39,20.6575,733.25,866,919.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,13,2022-06,12,1234,12.42,15.84,19.415,789.25,966.5,1193.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,14,2022-06,10,1495,9.94,10.56,14.6,1025,1409,1498
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,15,2022-06,10,1547,9.94,11.49,13.04,1140.75,1308,1490.5
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,16,2022-06,10,1505,10.56,11.8,13.04,1155.75,1273.5,1431
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,17,2022-06,11,1437,10.56,11.49,13.1975,1151.25,1305.5,1426.25
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,18,2022-06,11,1392,11.18,12.73,15.53,990.5,1178.5,1349.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,19,2022-06,12,1245,13.5125,16.15,19.415,781.5,926.5,1112.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2022-06,12,1315,13.5125,16.77,18.64,821.75,907.5,1104
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2022-06,12,1324,14.91,16.15,17.39,873,925,1028
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2022-06,14,1133,14.29,15.53,17.545,873,977.5,1050
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2022-06,16,944,16.15,16.77,19.415,779.25,912.5,948.5
 BQE S LEONARD STREET - ATLANTIC AVENUE,0,00,2022-05,11,1552,14.29,33.55,41.63,371,460,1055
 BQE S LEONARD STREET - ATLANTIC AVENUE,0,01,2022-05,30,539,32.93,37.9,42.87,358,402,467.5
 BQE S LEONARD STREET - ATLANTIC AVENUE,0,02,2022-05,32,491,37.28,42.87,46.6,328.5,359.5,412.5
@@ -8644,8 +9885,8 @@ BQE S LEONARD STREET - ATLANTIC AVENUE,1,04,2022-05,36,432,36.66,42.56,46.6,329.
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,05,2022-05,42,373,41.63,45.98,48.615,315,333.5,367.5
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,06,2022-05,46,334,46.445,48.150000000000006,51.725,296.75,318.5,331.5
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,07,2022-05,37,431,41.63,45.67,49.08,314,335.5,368.25
-BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-05,28,543,37.9,44.73,47.84,322,344,402
-BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-05,24,646,34.79,41.01,45.98,333,373,441
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,08,2022-05,27,563,37.28,43.18,47.22,323.75,357,412.75
+BQE S LEONARD STREET - ATLANTIC AVENUE,1,09,2022-05,19,820,24.23,36.03,44.73,343,428,635
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,10,2022-05,28,568,25.314999999999998,29.2,33.705,451.75,522,602.25
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,11,2022-05,22,731,20.5,23.61,25.47,607,639,748
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,12,2022-05,14,1082,13.67,14.91,16.77,908,1026,1105.5
@@ -10148,6 +11389,280 @@ BQE S LEONARD STREET - ATLANTIC AVENUE,1,20,2019-10,14,1322,16.15,19.88,23.61,64
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,21,2019-10,15,1277,21.585,27.34,31.06,492,561,714.75
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,22,2019-10,19,1186,21.12,29.2,34.17,452,519,727
 BQE S LEONARD STREET - ATLANTIC AVENUE,1,23,2019-10,10,1671,15.684999999999999,26.09,33.394999999999996,459.5,583.5,961
+GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-12,31,135,29.044999999999998,33.86,39.14,103.75,119.5,140.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-12,37,113,33.082499999999996,39.45,41.165,98.5,102.5,122.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-12,37,113,35.875,40.07,41.94,96.5,100.5,113.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,03,2022-12,43,95,42.87,44.11,45.36,90,91.5,94
+GOW N 9TH STREET - ATLANTIC AVENUE,0,04,2022-12,40,101,40.07,42.25,43.025,94,95.5,100.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,05,2022-12,26,173,19.57,25.47,35.7225,113,158,204.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,06,2022-12,9,478,9.1625,12.42,13.1975,299.75,324.5,445.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,07,2022-12,8,501,7.76,10.870000000000001,11.335,345.25,361.5,500.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,08,2022-12,11,379,10.56,10.56,10.56,367.5,374.5,382.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,09,2022-12,11,373,10.56,10.56,11.18,355.75,369.5,379.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,10,2022-12,10,388,9.94,10.56,11.18,351.75,370,396
+GOW N 9TH STREET - ATLANTIC AVENUE,0,11,2022-12,10,392,9.94,10.870000000000001,11.18,353.75,366.5,403.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,12,2022-12,11,365,10.56,11.18,11.8,343.75,354,366.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,13,2022-12,11,370,9.94,10.870000000000001,11.18,353.75,368.5,389.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,14,2022-12,10,394,9.94,10.25,10.56,372.25,388,399.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,15,2022-12,10,417,9.32,9.94,10.715,367.5,398,412.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,16,2022-12,9,428,8.69,9.32,9.94,409,422,446.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,17,2022-12,8,468,8.07,8.379999999999999,8.69,440.5,469,485.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,18,2022-12,8,474,8.07,8.07,8.69,450,478,488
+GOW N 9TH STREET - ATLANTIC AVENUE,0,19,2022-12,10,418,8.69,9.32,10.715,366.25,412,460
+GOW N 9TH STREET - ATLANTIC AVENUE,0,20,2022-12,14,297,13.04,13.98,14.91,264,284,303
+GOW N 9TH STREET - ATLANTIC AVENUE,0,21,2022-12,16,248,16.15,16.77,17.39,233.25,240.5,250.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,22,2022-12,18,227,16.15,18.945,22.5175,178.25,213.5,246.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,23,2022-12,25,177,25.314999999999998,29.2,30.595,131.5,138,159.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,00,2022-12,29,142,26.4,27.025,31.06,130.75,148,152.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,01,2022-12,34,121,31.525,33.86,36.1875,111.5,120,128.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,02,2022-12,33,149,33.239999999999995,35.724999999999994,39.14,103,113,121
+GOW N 9TH STREET - ATLANTIC AVENUE,1,03,2022-12,40,102,38.83,40.695,41.785000000000004,96,99.5,103.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,04,2022-12,42,96,41.475,42.87,43.49,92.75,94,97.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,05,2022-12,38,107,38.83,39.45,40.38,100.75,102,104
+GOW N 9TH STREET - ATLANTIC AVENUE,1,06,2022-12,37,111,34.48,36.345,38.675000000000004,104,111.5,117.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,07,2022-12,22,196,16.77,19.875,25.625,158.5,206.5,236
+GOW N 9TH STREET - ATLANTIC AVENUE,1,08,2022-12,16,256,14.29,16.15,16.925,237.75,245.5,282.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,09,2022-12,13,314,12.11,13.04,13.67,294.5,308,327.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-11,4,1083,39.45,44.73,45.98,87,91,102
+GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-11,26,256,45.36,46.6,47.84,85,87,89
+GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-11,45,90,46.6,47.22,48.46,83,85,87
+GOW N 9TH STREET - ATLANTIC AVENUE,0,03,2022-11,44,91,47.685,48.46,49.235,82,83,85
+GOW N 9TH STREET - ATLANTIC AVENUE,0,04,2022-11,26,265,41.475,45.36,47.22,85,90,98
+GOW N 9TH STREET - ATLANTIC AVENUE,0,05,2022-11,3,1129,8.69,12.42,24.85,162,322.5,459.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,06,2022-11,3,1403,5.59,6.21,7.45,538.75,633,687.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,07,2022-11,4,1051,4.97,5.59,5.59,667.75,712.5,752.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,08,2022-11,5,763,4.97,5.59,5.59,680,713.5,750
+GOW N 9TH STREET - ATLANTIC AVENUE,0,09,2022-11,4,1192,4.97,5.59,5.59,674,709,741.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,10,2022-11,4,1135,5.59,5.59,6.21,625,683,718
+GOW N 9TH STREET - ATLANTIC AVENUE,0,11,2022-11,4,953,5.59,6.21,6.21,600,644,709
+GOW N 9TH STREET - ATLANTIC AVENUE,0,12,2022-11,4,944,5.59,5.59,6.21,601.5,666,721
+GOW N 9TH STREET - ATLANTIC AVENUE,0,13,2022-11,5,741,5.59,5.59,6.83,597,667,710
+GOW N 9TH STREET - ATLANTIC AVENUE,0,14,2022-11,5,758,5.59,5.59,6.21,649.75,690,727.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,15,2022-11,2,1646,4.97,4.97,5.59,689.75,734.5,775.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,16,2022-11,3,1139,4.34,4.97,4.97,749.25,790.5,825
+GOW N 9TH STREET - ATLANTIC AVENUE,0,17,2022-11,3,1158,4.34,4.34,4.97,801,837,868
+GOW N 9TH STREET - ATLANTIC AVENUE,0,18,2022-11,4,944,4.34,4.97,4.97,771.75,806,865
+GOW N 9TH STREET - ATLANTIC AVENUE,0,19,2022-11,4,907,4.97,4.97,6.21,625.25,739.5,786.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,20,2022-11,8,520,9.32,11.8,15.53,257.75,342.5,429
+GOW N 9TH STREET - ATLANTIC AVENUE,0,21,2022-11,11,379,12.42,18.64,25.47,158.25,212.5,327.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,22,2022-11,11,376,13.67,19.26,25.625,157.25,209,288.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,23,2022-11,4,1025,6.83,23.299999999999997,37.9,106.75,171,584
+GOW N 9TH STREET - ATLANTIC AVENUE,1,00,2022-11,16,366,20.3425,37.28,44.11,92,108,199.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,01,2022-11,35,123,44.11,45.36,45.98,87,89,92
+GOW N 9TH STREET - ATLANTIC AVENUE,1,02,2022-11,46,88,45.824999999999996,46.6,47.22,86,87,88.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,03,2022-11,46,88,45.98,47.22,47.84,84,86,87
+GOW N 9TH STREET - ATLANTIC AVENUE,1,04,2022-11,45,90,45.98,47.22,48.46,84,85.5,88
+GOW N 9TH STREET - ATLANTIC AVENUE,1,05,2022-11,31,156,34.4775,45.67,47.84,84,88.5,117.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,06,2022-11,9,465,11.8,40.38,45.98,88,100,331.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,07,2022-11,5,718,6.21,23.92,44.73,90,169.5,642.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,08,2022-11,4,885,8.69,11.18,33.3975,120.25,360.5,449
+GOW N 9TH STREET - ATLANTIC AVENUE,1,09,2022-11,4,1054,6.21,8.07,9.94,399.75,492,601.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,10,2022-11,3,1111,5.59,7.140000000000001,9.32,418.75,551.5,703.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,11,2022-11,3,1088,4.97,6.21,10.094999999999999,392,617.5,736.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,12,2022-11,3,1130,4.97,5.59,9.32,432.75,703,804.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,13,2022-11,3,1153,4.34,5.59,6.21,627.25,696,858.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,14,2022-11,3,1310,3.72,4.97,6.21,646.75,757.5,1008.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,15,2022-11,3,1254,4.34,4.97,5.745,662.75,751.5,870
+GOW N 9TH STREET - ATLANTIC AVENUE,1,16,2022-11,3,1097,4.34,4.97,4.97,771.5,821,916.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,17,2022-11,3,1290,4.34,4.34,4.97,809.5,857,902.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,18,2022-11,3,1323,4.34,4.97,5.59,702,771,848.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,19,2022-11,3,1116,4.34,5.59,7.45,541.5,671,835.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,20,2022-11,4,901,5.59,7.45,8.8475,441,528,704.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,21,2022-11,7,577,7.45,8.69,11.8,333.5,453,530
+GOW N 9TH STREET - ATLANTIC AVENUE,1,22,2022-11,9,456,9.32,11.18,21.74,187.25,350,421.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,23,2022-11,7,587,12.11,38.83,42.87,94,103.5,335
+GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-10,27,284,43.49,44.73,46.6,87,90,94
+GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-10,39,104,45.2025,46.6,47.84,85,86,90
+GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-10,36,137,45.98,47.22,49.08,83,85,88
+GOW N 9TH STREET - ATLANTIC AVENUE,0,03,2022-10,38,124,45.36,48.46,49.7,81,84,89
+GOW N 9TH STREET - ATLANTIC AVENUE,0,04,2022-10,24,210,41.63,45.36,48.46,84,89,97
+GOW N 9TH STREET - ATLANTIC AVENUE,0,05,2022-10,6,773,9.32,17.08,25.625,157.25,235.5,412.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,06,2022-10,6,723,6.21,6.83,9.94,392,582.5,651
+GOW N 9TH STREET - ATLANTIC AVENUE,0,07,2022-10,3,1379,4.97,4.97,6.83,584.5,731.5,769
+GOW N 9TH STREET - ATLANTIC AVENUE,0,08,2022-10,2,1681,4.97,4.97,5.59,681,740,783
+GOW N 9TH STREET - ATLANTIC AVENUE,0,09,2022-10,2,1776,4.97,4.97,5.59,678,734.5,771.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,10,2022-10,2,1494,4.97,5.59,6.21,609,705,762
+GOW N 9TH STREET - ATLANTIC AVENUE,0,11,2022-10,2,1481,5.59,6.21,7.45,543.5,636.5,711
+GOW N 9TH STREET - ATLANTIC AVENUE,0,12,2022-10,4,1025,5.59,6.21,8.07,477.75,617,708.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,13,2022-10,5,759,5.59,6.21,8.69,455,654,716
+GOW N 9TH STREET - ATLANTIC AVENUE,0,14,2022-10,4,990,4.97,5.59,6.83,555.75,714.5,763.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,15,2022-10,4,1012,4.97,4.97,6.21,644.5,734,793
+GOW N 9TH STREET - ATLANTIC AVENUE,0,16,2022-10,4,963,4.97,4.97,5.59,661,759,818
+GOW N 9TH STREET - ATLANTIC AVENUE,0,17,2022-10,2,1671,4.34,4.97,5.59,672,794,885
+GOW N 9TH STREET - ATLANTIC AVENUE,0,18,2022-10,3,1452,4.34,4.97,6.21,612,791,871
+GOW N 9TH STREET - ATLANTIC AVENUE,0,19,2022-10,2,1748,4.97,7.45,11.18,347.75,523.5,784.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,20,2022-10,2,1591,8.535,12.73,19.26,208.5,312.5,468
+GOW N 9TH STREET - ATLANTIC AVENUE,0,21,2022-10,9,484,10.56,14.91,24.85,162,264.5,370.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,22,2022-10,8,518,11.18,15.53,33.085,122.5,255.5,363.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,23,2022-10,5,835,18.64,36.03,42.87,95,111.5,212.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,00,2022-10,10,482,14.754999999999999,33.86,43.025,94.5,120,266
+GOW N 9TH STREET - ATLANTIC AVENUE,1,01,2022-10,39,125,42.87,44.73,45.98,87,90,94
+GOW N 9TH STREET - ATLANTIC AVENUE,1,02,2022-10,44,91,45.98,46.6,47.375,85,87,88
+GOW N 9TH STREET - ATLANTIC AVENUE,1,03,2022-10,42,97,45.36,46.91,47.84,85,86,89
+GOW N 9TH STREET - ATLANTIC AVENUE,1,04,2022-10,39,106,42.87,47.22,47.84,84,86,94
+GOW N 9TH STREET - ATLANTIC AVENUE,1,05,2022-10,19,249,35.254999999999995,43.8,47.375,85,92.5,114.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,06,2022-10,5,739,18.01,35.72,45.98,88,113.5,219.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,07,2022-10,4,969,11.8,19.88,43.49,93,203,342.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,08,2022-10,3,1232,6.83,11.49,22.36,180.75,347,573.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,09,2022-10,3,1422,5.59,8.07,10.715,364.75,496.5,673
+GOW N 9TH STREET - ATLANTIC AVENUE,1,10,2022-10,2,1413,4.97,6.21,7.45,530.5,653.5,787.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,11,2022-10,2,1557,4.97,5.59,7.45,540.75,666,783.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,12,2022-10,2,1720,4.97,5.59,6.83,568.75,715,807
+GOW N 9TH STREET - ATLANTIC AVENUE,1,13,2022-10,3,1398,3.72,4.34,5.59,716,882,1011.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,14,2022-10,2,1537,3.72,4.97,5.59,718.75,815,961.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,15,2022-10,2,1379,3.72,4.34,5.59,719.5,842.5,983.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,16,2022-10,2,1428,4.34,4.97,5.59,703.25,815,925.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,17,2022-10,2,1697,4.34,4.34,6.365,626.25,845.5,929
+GOW N 9TH STREET - ATLANTIC AVENUE,1,18,2022-10,2,1669,4.34,4.34,6.21,651.75,838.5,927.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,19,2022-10,2,1853,4.97,6.83,8.69,445.5,585.5,763.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,20,2022-10,2,1718,6.675,8.07,11.335,348,480.5,598.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,21,2022-10,3,1364,6.83,10.56,13.67,289.5,379,582.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,22,2022-10,3,1354,8.07,13.67,26.245,153.5,289,492.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,23,2022-10,4,900,14.91,23.295,42.25,95,172.5,267.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-09,11,548,24.695,41.01,44.11,91,98,164.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-09,27,162,41.63,45.36,47.22,86,89,98
+GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-09,45,92,45.98,47.22,47.84,84,86,87
+GOW N 9TH STREET - ATLANTIC AVENUE,0,03,2022-09,46,88,47.22,47.84,48.46,83,84,86
+GOW N 9TH STREET - ATLANTIC AVENUE,0,04,2022-09,27,244,42.87,45.98,47.84,85,88,94
+GOW N 9TH STREET - ATLANTIC AVENUE,0,05,2022-09,5,790,8.07,12.42,24.85,162.25,328,474.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,06,2022-09,3,1161,5.59,6.21,6.83,583,653,701.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,07,2022-09,2,1559,4.97,5.59,5.59,686.75,719,751.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,08,2022-09,4,1032,4.97,4.97,5.59,705,733,762
+GOW N 9TH STREET - ATLANTIC AVENUE,0,09,2022-09,4,858,4.97,5.59,5.59,679.5,715,755.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,10,2022-09,3,1183,4.97,5.59,6.21,629,726.5,794.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,11,2022-09,3,1404,4.97,5.59,6.21,628,689,766.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,12,2022-09,4,905,4.97,5.59,6.21,641,685,750.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,13,2022-09,5,826,4.97,5.59,5.59,662,718.5,782.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,14,2022-09,4,903,4.97,4.97,5.59,713.5,763,798.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,15,2022-09,5,833,4.97,4.97,5.59,720,756,790
+GOW N 9TH STREET - ATLANTIC AVENUE,0,16,2022-09,4,962,4.34,4.97,4.97,748,784,826
+GOW N 9TH STREET - ATLANTIC AVENUE,0,17,2022-09,4,1055,4.34,4.97,4.97,756.75,806,850
+GOW N 9TH STREET - ATLANTIC AVENUE,0,18,2022-09,4,907,4.34,4.97,4.97,758.5,814.5,872
+GOW N 9TH STREET - ATLANTIC AVENUE,0,19,2022-09,4,877,4.34,4.97,5.59,731,821,864.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,20,2022-09,4,860,4.97,6.83,9.32,433.5,581.5,775.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,21,2022-09,7,640,8.07,9.94,12.11,329.5,398,481
+GOW N 9TH STREET - ATLANTIC AVENUE,0,22,2022-09,8,472,10.56,12.11,15.995,252.75,328.5,384.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,23,2022-09,7,775,14.29,19.57,35.41,113.75,204.5,275
+GOW N 9TH STREET - ATLANTIC AVENUE,1,00,2022-09,30,160,31.06,42.25,43.49,93,96,129.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,01,2022-09,43,94,43.955,44.73,45.98,88,90,92
+GOW N 9TH STREET - ATLANTIC AVENUE,1,02,2022-09,45,89,45.36,45.98,46.6,86,88,89
+GOW N 9TH STREET - ATLANTIC AVENUE,1,03,2022-09,46,87,46.6,47.22,47.84,84,85,87
+GOW N 9TH STREET - ATLANTIC AVENUE,1,04,2022-09,46,87,46.6,47.84,48.46,84,85,87
+GOW N 9TH STREET - ATLANTIC AVENUE,1,05,2022-09,43,95,44.11,46.6,48.46,83,87,92
+GOW N 9TH STREET - ATLANTIC AVENUE,1,06,2022-09,26,200,36.5025,44.73,47.22,86,91,110.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,07,2022-09,9,446,12.265,21.74,43.49,93,185,323.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,08,2022-09,7,574,7.295,8.69,12.42,317,457.5,550.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,09,2022-09,5,799,6.055,6.83,9.94,403.75,569,657.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,10,2022-09,4,884,4.97,5.59,6.83,568.75,694.5,743
+GOW N 9TH STREET - ATLANTIC AVENUE,1,11,2022-09,4,1004,4.97,4.97,5.59,671,752,805.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,12,2022-09,2,1724,4.97,4.97,4.97,741,772,816
+GOW N 9TH STREET - ATLANTIC AVENUE,1,13,2022-09,2,1644,4.34,4.97,4.97,775.5,820,872.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,14,2022-09,4,871,4.34,4.34,4.97,814.75,842.5,873
+GOW N 9TH STREET - ATLANTIC AVENUE,1,15,2022-09,4,876,4.34,4.34,4.97,815.5,835,872
+GOW N 9TH STREET - ATLANTIC AVENUE,1,16,2022-09,4,923,4.34,4.34,4.97,809.5,855,891.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,17,2022-09,4,894,4.34,4.34,4.97,780.5,826,872.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,18,2022-09,4,873,4.34,4.654999999999999,4.97,735.5,821,865
+GOW N 9TH STREET - ATLANTIC AVENUE,1,19,2022-09,4,951,4.34,4.97,5.59,685.25,771.5,889.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,20,2022-09,4,924,4.97,5.59,6.21,624.25,694,772.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,21,2022-09,4,878,4.97,6.21,7.45,543,611.5,753
+GOW N 9TH STREET - ATLANTIC AVENUE,1,22,2022-09,5,773,6.055,7.45,9.475,414,528,657
+GOW N 9TH STREET - ATLANTIC AVENUE,1,23,2022-09,8,526,8.535,13.67,37.435,107.75,296,469.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-08,42,96,43.49,44.73,45.98,87,90,93
+GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-08,44,92,45.36,45.98,47.22,86,88,89.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-08,45,90,45.98,47.22,48.46,84,86,88
+GOW N 9TH STREET - ATLANTIC AVENUE,0,03,2022-08,43,94,46.6,47.22,48.46,83,85,87
+GOW N 9TH STREET - ATLANTIC AVENUE,0,04,2022-08,41,101,42.87,45.98,47.84,84,88,94
+GOW N 9TH STREET - ATLANTIC AVENUE,0,05,2022-08,14,354,8.69,13.355,25.005000000000003,160,295.5,447.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,06,2022-08,4,1029,5.59,6.21,6.83,581.25,643.5,695.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,07,2022-08,2,1416,4.97,5.59,5.59,687.75,725,769.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,08,2022-08,4,1080,4.97,5.59,5.59,689.75,728.5,762
+GOW N 9TH STREET - ATLANTIC AVENUE,0,09,2022-08,4,892,4.97,5.279999999999999,5.59,690.5,733,770.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,10,2022-08,3,1218,4.97,5.59,6.21,637,681,752.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,11,2022-08,3,1240,4.97,5.59,6.21,639,706,754
+GOW N 9TH STREET - ATLANTIC AVENUE,0,12,2022-08,5,864,4.97,5.59,6.83,586,693,735.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,13,2022-08,4,990,4.97,5.59,6.055,654.5,702.5,757
+GOW N 9TH STREET - ATLANTIC AVENUE,0,14,2022-08,3,1142,4.97,4.97,5.59,691.5,736,780.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,15,2022-08,4,883,4.97,4.97,5.59,700.75,751,791.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,16,2022-08,4,881,4.34,4.97,4.97,757.75,792,837
+GOW N 9TH STREET - ATLANTIC AVENUE,0,17,2022-08,4,1017,4.34,4.97,4.97,767.75,811,865
+GOW N 9TH STREET - ATLANTIC AVENUE,0,18,2022-08,3,1400,4.34,4.97,4.97,767.25,812.5,867.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,19,2022-08,2,1512,4.34,4.97,6.21,615.75,768,834.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,20,2022-08,4,980,6.675,8.69,10.56,375.75,465,594.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,21,2022-08,7,547,8.69,9.32,10.56,370,416,466.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,22,2022-08,9,458,10.56,12.42,18.64,217.5,327,384.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,23,2022-08,14,288,23.61,40.695,44.11,91,99,171.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,00,2022-08,31,175,39.1375,42.87,43.645,92,94,103.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,01,2022-08,22,304,39.765,44.11,44.887499999999996,90,91.5,102.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,02,2022-08,18,255,22.05,45.36,47.22,86,89,183.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,03,2022-08,43,97,45.98,46.91,47.84,85,86,87.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,04,2022-08,46,87,46.6,47.53,48.46,84,85,87
+GOW N 9TH STREET - ATLANTIC AVENUE,1,05,2022-08,45,90,44.73,45.98,47.84,84,88,91
+GOW N 9TH STREET - ATLANTIC AVENUE,1,06,2022-08,30,161,22.205,44.11,47.375,85.5,91.5,181
+GOW N 9TH STREET - ATLANTIC AVENUE,1,07,2022-08,17,278,13.04,20.19,44.887499999999996,89.75,201.5,303.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,08,2022-08,6,697,6.83,10.56,42.25,96,372,583.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,09,2022-08,9,472,8.69,9.94,11.335,345.25,397,457
+GOW N 9TH STREET - ATLANTIC AVENUE,1,10,2022-08,5,816,4.97,6.52,8.07,483.25,602,741.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,11,2022-08,3,1390,2.9450000000000003,5.59,6.985,558,688.5,1288.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,12,2022-08,5,766,4.97,4.97,5.59,664,735,770
+GOW N 9TH STREET - ATLANTIC AVENUE,1,13,2022-08,5,838,4.34,4.97,4.97,737.75,798.5,838.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,14,2022-08,4,979,3.72,4.34,4.34,840.75,914,973.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,15,2022-08,4,867,4.34,4.34,4.4975,825.5,851.5,886.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,16,2022-08,4,872,4.34,4.34,4.97,818.75,852.5,869.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,17,2022-08,4,824,4.34,5.279999999999999,6.21,602.75,732,829.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,18,2022-08,4,848,4.34,5.59,6.83,567.25,719.5,835.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,19,2022-08,5,765,4.97,6.83,9.32,421,611,756.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,20,2022-08,5,759,4.97,6.21,6.83,568,621,803.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,21,2022-08,6,681,5.59,6.21,7.76,503.5,629,694.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,22,2022-08,7,538,7.45,7.76,9.3125,419.75,502.5,530.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,23,2022-08,8,513,7.45,14.29,25.32,162,310.5,514
+GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-07,42,96,41.01,42.870000000000005,44.887499999999996,90,94.5,98
+GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-07,46,87,45.98,46.29,47.22,85.75,87.5,88
+GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-07,47,86,46.6,47.53,47.84,84.75,85,87
+GOW N 9TH STREET - ATLANTIC AVENUE,0,03,2022-07,48,85,47.22,47.84,47.995000000000005,84.75,85,85
+GOW N 9TH STREET - ATLANTIC AVENUE,0,04,2022-07,42,100,38.5175,45.67,47.22,85.75,88.5,106.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,05,2022-07,16,343,8.07,10.559999999999999,18.945,217.25,370.5,486
+GOW N 9TH STREET - ATLANTIC AVENUE,0,06,2022-07,7,592,6.21,6.83,10.56,376,555,634
+GOW N 9TH STREET - ATLANTIC AVENUE,0,07,2022-07,6,684,5.59,6.52,8.69,460.25,599,693
+GOW N 9TH STREET - ATLANTIC AVENUE,0,08,2022-07,6,650,6.21,6.21,6.83,589.75,617,651.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,09,2022-07,6,664,5.59,6.21,6.83,555.75,628,666
+GOW N 9TH STREET - ATLANTIC AVENUE,0,10,2022-07,6,711,5.59,6.21,9.475,408.25,632.5,662.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,11,2022-07,5,847,5.435,6.52,14.91,267.75,601,747.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,12,2022-07,5,785,4.97,6.21,16.925,234.25,644.5,756
+GOW N 9TH STREET - ATLANTIC AVENUE,0,13,2022-07,5,723,5.59,5.9,14.29,278,657,729.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,14,2022-07,5,775,4.97,5.59,13.04,304.75,688,754.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,15,2022-07,5,789,4.8125,5.59,11.335,347,681,799.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,16,2022-07,5,749,4.97,6.21,7.9175,512.75,644.5,751
+GOW N 9TH STREET - ATLANTIC AVENUE,0,17,2022-07,5,828,4.34,5.9,6.21,609.25,664.5,841.5
+GOW N 9TH STREET - ATLANTIC AVENUE,0,18,2022-07,4,843,4.34,4.97,5.745,660,807,844.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,19,2022-07,5,819,4.34,4.97,4.97,769.5,816,842.25
+GOW N 9TH STREET - ATLANTIC AVENUE,0,20,2022-07,6,666,5.59,5.9,6.83,558.75,655.5,717.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,21,2022-07,8,512,7.45,8.07,9.94,393,479,512
+GOW N 9TH STREET - ATLANTIC AVENUE,0,22,2022-07,12,341,10.405000000000001,12.11,13.04,305.75,330.5,381.75
+GOW N 9TH STREET - ATLANTIC AVENUE,0,23,2022-07,19,249,15.065,23.61,39.45,102.5,170,270.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,00,2022-07,36,126,34.635,42.87,43.49,93,94,115.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,01,2022-07,43,94,43.49,44.42,45.515,88.75,90.5,93
+GOW N 9TH STREET - ATLANTIC AVENUE,1,02,2022-07,45,90,44.73,45.36,46.755,86,89,90
+GOW N 9TH STREET - ATLANTIC AVENUE,1,03,2022-07,46,87,45.98,46.6,47.22,86,87,88
+GOW N 9TH STREET - ATLANTIC AVENUE,1,04,2022-07,48,85,47.22,47.84,47.995000000000005,83.75,85,85.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,05,2022-07,46,89,45.98,47.22,48.46,83.75,86,88
+GOW N 9TH STREET - ATLANTIC AVENUE,1,06,2022-07,26,193,20.965,45.045,48.150000000000006,83.75,89.5,194.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,07,2022-07,11,391,9.785,27.955,44.887499999999996,89.75,173.5,399.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,08,2022-07,12,361,11.955,16.46,29.5125,137.75,243.5,333
+GOW N 9TH STREET - ATLANTIC AVENUE,1,09,2022-07,7,589,6.83,7.45,9.94,405.25,538.5,576.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,10,2022-07,6,665,6.055,6.83,9.32,427.75,562.5,662.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,11,2022-07,5,761,4.97,5.59,6.365,612.5,686.5,746.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,12,2022-07,5,799,4.97,4.97,5.745,658.75,745,796.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,13,2022-07,5,806,4.34,4.97,4.97,769,793.5,829.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,14,2022-07,4,863,4.34,4.34,4.34,835.25,853.5,872.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,15,2022-07,4,868,4.34,4.34,4.34,846.25,854,876.5
+GOW N 9TH STREET - ATLANTIC AVENUE,1,16,2022-07,4,847,4.34,4.34,4.97,820.75,848,866.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,17,2022-07,4,859,4.34,4.97,4.97,772.25,812,866.25
+GOW N 9TH STREET - ATLANTIC AVENUE,1,18,2022-07,4,846,4.34,4.34,4.97,806.75,843.5,859
+GOW N 9TH STREET - ATLANTIC AVENUE,1,19,2022-07,5,837,4.8125,4.97,4.97,744.5,782,818.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,20,2022-07,5,734,4.97,5.279999999999999,5.59,681,727,762
+GOW N 9TH STREET - ATLANTIC AVENUE,1,21,2022-07,5,769,4.97,5.9,6.21,612.75,683,769.75
+GOW N 9TH STREET - ATLANTIC AVENUE,1,22,2022-07,6,614,6.83,7.140000000000001,7.45,520.75,548.5,586
+GOW N 9TH STREET - ATLANTIC AVENUE,1,23,2022-07,9,446,8.69,11.8,21.12,191.75,348,460.75
 GOW N 9TH STREET - ATLANTIC AVENUE,0,00,2022-04,2,1489,39.14,46.29,50.33,80,87,103
 GOW N 9TH STREET - ATLANTIC AVENUE,0,01,2022-04,2,1526,40.695,47.84,51.57,78.5,85,99
 GOW N 9TH STREET - ATLANTIC AVENUE,0,02,2022-04,3,1356,44.73,50.33,54.05,75,80,90
