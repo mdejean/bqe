@@ -42,7 +42,7 @@
   "transform": [
     {"filter": "datum.ym > 1546322501000"},
     {
-      "calculate": "if(datum.ym > 1630296000000, '2 lanes', '3 lanes')",
+      "calculate": "if(datum.ym > 1630296000000, if(datum.ym > 4039372800000, 'Today', '2 lanes'), '3 lanes')",
       "as": "lanes"
     },
     {"calculate": "datum.travel_50 / 60", "as": "travel_50_min"},
@@ -74,7 +74,7 @@
           "encoding": {
             "color": {
               "field": "lanes",
-              "scale": {"range": ["red", "black"]},
+              "scale": {"range": ["red", "black", "green"]},
               "legend": {"title": "Lane reduction"}
             },
             "detail": {"field": "ym", "type": "temporal"},
