@@ -32,7 +32,8 @@ function addToday() {
         + "&$select=link_name,data_as_of,status,speed,travel_time"
         + "&$where=link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')"
         + "and status = '0' and data_as_of > "
-        + "'" + yesterday.toISOString().replace(/\..*Z/ig, '') + "'"
+        + "'" + yesterday.toISOString().replace(/\..*Z/ig, '') + "'",
+        {"X-App-Token": "r3OmPQwf2v2FV7lJmUsZKerX0"}
     ).then(response => response.json());
     Promise.all([f, v]).then(a => {
         let view = a[1].view;
