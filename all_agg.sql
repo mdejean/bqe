@@ -6,11 +6,13 @@ with ls as
         travel_time,
         data_as_of,
         to_char(data_as_of, 'HH24') h,
-        case when data_as_of > '2025-01-01' then date_trunc('day', data_as_of) else date_trunc('year', data_as_of) end d,
+        --case when data_as_of > '2025-01-01' then date_trunc('day', data_as_of) else date_trunc('year', data_as_of) end d,
+        date_trunc('year', data_as_of) d,
         case when extract(dow from data_as_of) in (0, 6) then 1 else 0 end weekend
     from link_speed
     where status >= 0 
     and data_as_of > '2018-01-01'
+    and to_char(data_as_of, 'IWID') between '016' and to_char((select max(data_as_of) from link_speed), 'IWID')
     and data_as_of not between '2025-01-01' and '2025-01-05'
 )
 select

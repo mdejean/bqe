@@ -17,7 +17,7 @@
     },
     {
       "name": "y_field",
-      "value": "travel_50_min",
+      "value": "speed_50",
       "bind": {
         "input": "radio",
         "options": [
@@ -31,15 +31,6 @@
       }
     },
     {
-      "name": "locations",
-      "value": null,
-      "bind": {
-        "input": "select",
-        "options": [
-        ]
-      }
-    },
-    {
       "name": "y_title",
       "expr": "'Median' + ' ' + if(y_field == 'speed_50', 'speed (mph)', 'travel time (minutes)')"
     }
@@ -47,11 +38,11 @@
   "transform": [
     {"filter": "datum.ymd > 1546322501000"},
     {
-      "calculate": "if(datum.ymd >= 1736017200000, if(datum.ymd > 4039372800000, 'Past 24 hours', 'With CBD toll'), 'Pre-toll')",
+      "calculate": "if(datum.ymd >= 1735621200000, if(datum.ymd > 4039372800000, 'Past 24 hours', 'With CBD toll'), 'Pre-toll')",
       "as": "lanes"
     },
     {
-      "calculate": "if(datum.ymd >= 1736017200000, utcFormat(datum.ymd, '%Y-%m-%d'), utcFormat(datum.ymd, '%Y') + ' average')",
+      "calculate": "if(datum.ymd > 1735707600000, utcFormat(datum.ymd, '%Y-%m-%d'), utcFormat(datum.ymd, '%Y') + ' average')",
       "as": "hover_text"
     },
     {"calculate": "datum.travel_50 / 60", "as": "travel_50_min"},
@@ -64,58 +55,58 @@
   "columns": 2,
   "facet": {
     "field": "link_name",
-    "sort": [
-      "GOW N 9TH STREET - ATLANTIC AVENUE",
-      "BQE S LEONARD STREET - ATLANTIC AVENUE",
-      "BQE N ATLANTIC AVENUE - LEONARD STREET",
-      "BQE S - GOW S ALTANTIC AVENUE - 9TH STREET",
-      "BQE N Atlantic Ave - BKN Bridge Manhattan Side",
-      "BQE N Atlantic Ave - MAN Bridge Manhattan Side"
-    ],
     "header": {
-      "title": "Travel time before and after CBD tolling program"
+      "title": "Travel time before and after CBD tolling program, average of first week"
     }
   },
   "spec": {
     "facet": {"field": "weekend_text", "header": {"title": null}},
     "spec": {
-          "encoding": {
-            "color": {
-              "field": "lanes",
-              "scale": {"range": ["black", "red", "green"]},
-              "legend": {"title": "CBDTP"}
-            },
-            "detail": {"field": "ymd", "type": "temporal"},
-            "x": {
-              "field": "h",
-              "scale": {"nice": true},
-              "type": "temporal",
-              "axis": {
-                "formatType": "time",
-                "title": "Hour of day",
-                "format": "%-I%p"
-              }
-            },
-            "y": {
-              "field": "y",
-              "scale": {"nice": false, "type": "log"},
-              "type": "quantitative",
-              "axis": {"title": {"expr": "y_title"}}
-            },
-            "opacity": {
-              "value": 0.2,
-              "condition": {
-                "param": "hover",
-                "empty": false,
-                "opacity": 1
-              }
-            },
-            "tooltip": {
-              "field": "hover_text",
-              "nearest": true
-            }
-          },
-          "mark": {"type": "line"}
+      "encoding": {
+        "color": {
+          "field": "lanes",
+          "scale": {"range": ["black", "red", "green"]},
+          "legend": {"title": "CBDTP"}
+        },
+        "detail": {"field": "ymd", "type": "temporal"},
+        "x": {
+          "field": "h",
+          "scale": {"nice": true},
+          "type": "temporal",
+          "axis": {
+            "formatType": "time",
+            "title": "Hour of day",
+            "format": "%-I%p"
+          }
+        },
+        "y": {
+          "field": "y",
+          "scale": {"nice": false, "type": "log"},
+          "type": "quantitative",
+          "axis": {"title": {"expr": "y_title"}}
+        },
+        "opacity": {
+          "value": 0.4,
+          "condition": {
+            "param": "hover",
+            "empty": false,
+            "opacity": 1
+          }
+        },
+        "strokeWidth": {
+          "value": 20
+        },
+          "tooltip": {
+            "field": "hover_text",
+            "nearest": false
+          }
+      },
+      "mark": {
+        "type": "line",
+        "interpolate": "linear",
+        "filled": false,
+        "strokeWidth": 3
+      }
     }
   }
 }
