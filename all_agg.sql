@@ -48,7 +48,7 @@ and l.link_id in (
     having min(data_as_of) < '2025-01-01'
     and max(data_as_of) > '2025-01-01'
 )
-and quartiles.c > 5
+and quartiles.c > 2
 -- and link_name in (
           -- 'GOW N 9TH STREET - ATLANTIC AVENUE',
           -- 'BQE S LEONARD STREET - ATLANTIC AVENUE',
