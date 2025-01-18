@@ -55,8 +55,10 @@
   "columns": 2,
   "facet": {
     "field": "link_name",
+    "sort": "ascending",
     "header": {
-      "title": "Travel time before and after CBD tolling program, average of first week"
+      "title": "Travel time before and after CBD tolling program, average of first weeks",
+      "labelAlign": "left"
     }
   },
   "spec": {
