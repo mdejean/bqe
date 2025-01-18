@@ -1,0 +1,174 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Travel time before and after CBD tolling program",
+  "data": {
+    "name": "today",
+    "url": "mim_agg.csv", "format": {"parse": {"h": "date:'%H'"}}
+  },
+  "autosize": {
+    "resize": true
+  },
+  "params": [
+    {
+      "name": "hover",
+      "select": {
+        "type": "point",
+        "fields": ["hover_text"],
+        "on": "mouseover",
+        "nearest": false
+      }
+    },
+    {
+      "name": "street",
+      "value": "23rd",
+      "bind": {
+        "input": "select",
+        "options": [
+            "1st Av",
+            "2nd Av",
+            "3rd Av",
+            "5th Av",
+            "6th Av",
+            "7th Av",
+            "8th Av",
+            "9th Av",
+            "10th Av",
+            "11th Av",
+            "14th",
+            "23rd",
+            "34th",
+            "42nd",
+            "49th",
+            "57th",
+            "72nd",
+            "Atlantic Av",
+            "Battery Park Underpass",
+            "Beach Channel Dr",
+            "Belt Pkwy",
+            "Broadway",
+            "College P",
+            "Cross Bay Blvd",
+            "Father Capodanno Blvd",
+            "Flatbush Av",
+            "Henry Hudson Pkwy",
+            "Horace Harding Expwy",
+            "Hylan Blvd",
+            "Jackie Robinson Pkwy",
+            "Kissena Blvd",
+            "Lexington Av",
+            "Lily Pond Av",
+            "Madison Av",
+            "Main St",
+            "Narrows Rd South",
+            "Northern Blvd",
+            "Ocean Pkwy",
+            "Parsons Blvd",
+            "Richmond Av",
+            "Rockaway Blvd",
+            "Roosevelt Av",
+            "Sanford Av",
+            "Seagirt Blvd",
+            "Stillwell Av",
+            "Williamsburg Bridge",
+            "Woodhaven Blvd"
+        ]
+      }
+    },
+    {
+      "name": "y_field",
+      "value": "speed_50",
+      "bind": {
+        "input": "radio",
+        "options": [
+          "travel_50_min",
+          "speed_50"
+        ],
+        "labels": [
+          "Median travel time",
+          "Median speed"
+        ]
+      }
+    },
+    {
+      "name": "y_title",
+      "expr": "'Median' + ' ' + if(y_field == 'speed_50', 'speed (mph)', 'travel time (minutes)')"
+    }
+  ],
+  "transform": [
+    {"filter": "datum.ymd > 1546322501000"},
+    {"filter": "indexof(datum.link_name, street) == 0"},
+    {
+      "calculate": "if(datum.ymd >= 1735621200000, if(datum.ymd > 4039372800000, 'Past 24 hours', 'With CBD toll'), 'Pre-toll')",
+      "as": "lanes"
+    },
+    {
+      "calculate": "if(datum.ymd > 1735707600000, utcFormat(datum.ymd, '%Y-%m-%d'), utcFormat(datum.ymd, '%Y') + ' average')",
+      "as": "hover_text"
+    },
+    {"calculate": "datum.travel_50 / 60", "as": "travel_50_min"},
+    {
+      "calculate": "if(datum.weekend == 0, 'Weekday', 'Weekend')",
+      "as": "weekend_text"
+    },
+    {"calculate": "datum[y_field]", "as": "y"}
+  ],
+  "columns": 2,
+  "facet": {
+    "field": "link_name",
+    "sort": "ascending",
+    "header": {
+      "title": "Travel time before and after CBD tolling program, average of first weeks vs 2024 weeks before Christmas",
+      "labelAlign": "left"
+    }
+  },
+  "spec": {
+    "facet": {"field": "weekend_text", "header": {"title": null}},
+    "spec": {
+      "encoding": {
+        "color": {
+          "field": "lanes",
+          "scale": {"range": ["black", "red", "green"]},
+          "legend": {"title": "CBDTP"}
+        },
+        "detail": {"field": "ymd", "type": "temporal"},
+        "x": {
+          "field": "h",
+          "scale": {"nice": true},
+          "type": "temporal",
+          "axis": {
+            "formatType": "time",
+            "title": "Hour of day",
+            "format": "%-I%p"
+          }
+        },
+        "y": {
+          "field": "y",
+          "scale": {"nice": false, "type": "log"},
+          "type": "quantitative",
+          "axis": {"title": {"expr": "y_title"}}
+        },
+        "opacity": {
+          "value": 0.4,
+          "condition": {
+            "param": "hover",
+            "empty": false,
+            "opacity": 1
+          }
+        },
+        "strokeWidth": {
+          "value": 20
+        },
+        "tooltip": {
+          "field": "hover_text",
+          "nearest": false
+        }
+      },
+      "mark": {
+        "type": "line",
+        "interpolate": "linear",
+        "filled": false,
+        "strokeWidth": 3
+      }
+    }
+  }
+}

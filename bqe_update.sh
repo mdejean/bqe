@@ -48,6 +48,9 @@ from mim_speed_import
 on conflict (link_id, data_as_of) do nothing;
 \q
 EOF
-echo "Creating summary file"
+echo "Creating summary file - BQE"
 psql crashes --csv -f bqe_agg.sql -o bqe_agg.csv
+echo "Creating summary file - TIMED"
 psql crashes --csv -f all_agg.sql -o all_agg.csv
+echo "Creating summary file - MIM"
+psql crashes --csv -f mim_agg.sql -o mim_agg.csv
