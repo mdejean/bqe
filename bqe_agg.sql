@@ -62,12 +62,13 @@ join (
 and quartiles.weekend = hourly_avg.weekend
 and quartiles.h = hourly_avg.h
 and quartiles.ym = hourly_avg.ym
-where link_name in (
-          'GOW N 9TH STREET - ATLANTIC AVENUE',
-          'BQE S LEONARD STREET - ATLANTIC AVENUE',
-          'BQE N ATLANTIC AVENUE - LEONARD STREET',
-          'BQE S - GOW S ALTANTIC AVENUE - 9TH STREET',
-          'BQE N Atlantic Ave - BKN Bridge Manhattan Side',
-          'BQE N Atlantic Ave - MAN Bridge Manhattan Side'
-          )
+where l.link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')
+-- link_name in (
+          -- 'GOW N 9TH STREET - ATLANTIC AVENUE',
+          -- 'BQE S LEONARD STREET - ATLANTIC AVENUE',
+          -- 'BQE N ATLANTIC AVENUE - LEONARD STREET',
+          -- 'BQE S - GOW S ALTANTIC AVENUE - 9TH STREET',
+          -- 'BQE N Atlantic Ave - BKN Bridge Manhattan Side',
+          -- 'BQE N Atlantic Ave - MAN Bridge Manhattan Side'
+          -- )
 order by link_name, quartiles.ym desc, quartiles.weekend, quartiles.h;
