@@ -3367,7 +3367,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 2nd Avenue - Southbound - 86th St to 72nd St,1,21,2024-01-01,13.39,193.00
 2nd Avenue - Southbound - 86th St to 72nd St,1,22,2024-01-01,13.25,195.00
 2nd Avenue - Southbound - 86th St to 72nd St,1,23,2024-01-01,19.88,130.00
-34th Street - Eastbound - 10th Ave to 9th Ave,0,00,2025-01-01,7.21,85.00
+34th Street - Eastbound - 10th Ave to 9th Ave,0,00,2025-01-01,7.13,86.00
 34th Street - Eastbound - 10th Ave to 9th Ave,0,01,2025-01-01,7.39,83.00
 34th Street - Eastbound - 10th Ave to 9th Ave,0,02,2025-01-01,7.30,84.00
 34th Street - Eastbound - 10th Ave to 9th Ave,0,03,2025-01-01,7.39,83.00
@@ -4445,7 +4445,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 34th Street - Westbound - 9th Ave to 10th Ave,0,20,2024-01-01,10.60,58.00
 34th Street - Westbound - 9th Ave to 10th Ave,0,21,2024-01-01,10.60,58.00
 34th Street - Westbound - 9th Ave to 10th Ave,0,22,2024-01-01,10.78,57.00
-34th Street - Westbound - 9th Ave to 10th Ave,0,23,2024-01-01,13.73,45.00
+34th Street - Westbound - 9th Ave to 10th Ave,0,23,2024-01-01,13.65,45.00
 34th Street - Westbound - 9th Ave to 10th Ave,1,00,2024-01-01,16.95,36.50
 34th Street - Westbound - 9th Ave to 10th Ave,1,01,2024-01-01,21.37,29.00
 34th Street - Westbound - 9th Ave to 10th Ave,1,02,2024-01-01,24.09,26.00
@@ -5143,15 +5143,15 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Eastbound - 2nd Ave to 1st Ave,1,22,2024-01-01,10.84,47.50
 42nd Street - Eastbound - 2nd Ave to 1st Ave,1,23,2024-01-01,10.57,48.50
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,00,2025-01-01,6.65,73.00
-42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,01,2025-01-01,6.93,70.00
+42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,01,2025-01-01,6.91,70.50
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,02,2025-01-01,6.65,73.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,03,2025-01-01,6.65,73.00
-42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,04,2025-01-01,6.98,70.00
+42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,04,2025-01-01,6.96,70.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,05,2025-01-01,6.79,72.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,06,2025-01-01,6.65,73.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,07,2025-01-01,6.65,73.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,08,2025-01-01,6.52,75.00
-42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,09,2025-01-01,6.65,73.00
+42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,09,2025-01-01,6.61,74.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,10,2025-01-01,6.56,74.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,11,2025-01-01,7.58,64.00
 42nd Street - Eastbound - 3rd Ave to 2nd Ave,0,12,2025-01-01,7.83,62.00
@@ -6008,8 +6008,8 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,12,2025-01-01,8.29,62.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,13,2025-01-01,8.36,61.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,14,2025-01-01,8.50,60.00
-42nd Street - Westbound - 1st Ave to 2nd Ave,0,15,2025-01-01,8.65,59.00
-42nd Street - Westbound - 1st Ave to 2nd Ave,0,16,2025-01-01,8.29,62.00
+42nd Street - Westbound - 1st Ave to 2nd Ave,0,15,2025-01-01,8.57,60.00
+42nd Street - Westbound - 1st Ave to 2nd Ave,0,16,2025-01-01,8.26,62.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,17,2025-01-01,8.46,60.50
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,18,2025-01-01,8.50,60.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,19,2025-01-01,8.43,61.00
@@ -6049,7 +6049,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,08,2024-01-01,3.18,160.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,09,2024-01-01,2.22,230.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,10,2024-01-01,1.56,327.00
-42nd Street - Westbound - 1st Ave to 2nd Ave,0,11,2024-01-01,2.56,199.00
+42nd Street - Westbound - 1st Ave to 2nd Ave,0,11,2024-01-01,2.16,236.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,12,2024-01-01,1.47,346.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,13,2024-01-01,2.58,198.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,14,2024-01-01,3.44,148.00
@@ -6058,7 +6058,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,17,2024-01-01,2.17,235.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,18,2024-01-01,2.30,222.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,19,2024-01-01,5.15,99.00
-42nd Street - Westbound - 1st Ave to 2nd Ave,0,20,2024-01-01,2.95,173.00
+42nd Street - Westbound - 1st Ave to 2nd Ave,0,20,2024-01-01,2.42,211.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,21,2024-01-01,4.28,147.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,22,2024-01-01,2.85,179.00
 42nd Street - Westbound - 1st Ave to 2nd Ave,0,23,2024-01-01,3.35,152.00
@@ -6561,7 +6561,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - 8th Ave to 9th Ave,0,04,2025-01-01,21.29,29.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,05,2025-01-01,19.91,31.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,06,2025-01-01,16.24,38.00
-42nd Street - Westbound - 8th Ave to 9th Ave,0,07,2025-01-01,14.69,42.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,07,2025-01-01,14.35,43.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,08,2025-01-01,12.86,48.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,09,2025-01-01,13.95,44.50
 42nd Street - Westbound - 8th Ave to 9th Ave,0,10,2025-01-01,6.86,90.00
@@ -6569,10 +6569,10 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - 8th Ave to 9th Ave,0,12,2025-01-01,7.92,78.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,13,2025-01-01,8.12,76.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,14,2025-01-01,7.48,82.50
-42nd Street - Westbound - 8th Ave to 9th Ave,0,15,2025-01-01,6.94,89.00
-42nd Street - Westbound - 8th Ave to 9th Ave,0,16,2025-01-01,5.32,116.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,15,2025-01-01,6.78,91.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,16,2025-01-01,5.28,117.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,17,2025-01-01,4.82,128.00
-42nd Street - Westbound - 8th Ave to 9th Ave,0,18,2025-01-01,6.23,99.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,18,2025-01-01,6.20,100.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,19,2025-01-01,4.94,125.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,20,2025-01-01,8.23,75.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,21,2025-01-01,8.45,73.00
@@ -6611,19 +6611,19 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - 8th Ave to 9th Ave,0,06,2024-01-01,16.24,38.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,07,2024-01-01,13.42,46.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,08,2024-01-01,14.69,42.00
-42nd Street - Westbound - 8th Ave to 9th Ave,0,09,2024-01-01,8.52,73.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,09,2024-01-01,7.86,79.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,10,2024-01-01,5.46,113.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,11,2024-01-01,5.14,120.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,12,2024-01-01,4.98,124.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,13,2024-01-01,6.39,97.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,14,2024-01-01,7.22,86.00
-42nd Street - Westbound - 8th Ave to 9th Ave,0,15,2024-01-01,5.46,113.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,15,2024-01-01,5.37,115.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,16,2024-01-01,5.14,120.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,17,2024-01-01,6.11,101.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,18,2024-01-01,5.32,116.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,19,2024-01-01,4.51,137.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,20,2024-01-01,5.23,118.00
-42nd Street - Westbound - 8th Ave to 9th Ave,0,21,2024-01-01,5.52,112.00
+42nd Street - Westbound - 8th Ave to 9th Ave,0,21,2024-01-01,5.37,115.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,22,2024-01-01,7.02,88.00
 42nd Street - Westbound - 8th Ave to 9th Ave,0,23,2024-01-01,13.13,47.00
 42nd Street - Westbound - 8th Ave to 9th Ave,1,00,2024-01-01,6.78,91.00
@@ -6813,7 +6813,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - Madison Ave to 5th Ave,0,00,2025-01-01,6.68,52.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,01,2025-01-01,9.39,37.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,02,2025-01-01,9.65,36.00
-42nd Street - Westbound - Madison Ave to 5th Ave,0,03,2025-01-01,18.28,19.00
+42nd Street - Westbound - Madison Ave to 5th Ave,0,03,2025-01-01,15.79,22.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,04,2025-01-01,9.14,38.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,05,2025-01-01,7.90,44.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,06,2025-01-01,5.99,58.00
@@ -6829,10 +6829,10 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - Madison Ave to 5th Ave,0,16,2025-01-01,3.22,108.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,17,2025-01-01,2.99,116.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,18,2025-01-01,3.05,114.00
-42nd Street - Westbound - Madison Ave to 5th Ave,0,19,2025-01-01,3.41,102.00
+42nd Street - Westbound - Madison Ave to 5th Ave,0,19,2025-01-01,3.40,102.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,20,2025-01-01,3.28,106.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,21,2025-01-01,3.78,92.00
-42nd Street - Westbound - Madison Ave to 5th Ave,0,22,2025-01-01,4.63,75.00
+42nd Street - Westbound - Madison Ave to 5th Ave,0,22,2025-01-01,4.57,76.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,23,2025-01-01,6.20,56.00
 42nd Street - Westbound - Madison Ave to 5th Ave,1,00,2025-01-01,7.90,44.00
 42nd Street - Westbound - Madison Ave to 5th Ave,1,01,2025-01-01,7.23,48.00
@@ -6855,7 +6855,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 42nd Street - Westbound - Madison Ave to 5th Ave,1,19,2025-01-01,4.76,73.00
 42nd Street - Westbound - Madison Ave to 5th Ave,1,20,2025-01-01,3.95,88.00
 42nd Street - Westbound - Madison Ave to 5th Ave,1,21,2025-01-01,4.89,71.00
-42nd Street - Westbound - Madison Ave to 5th Ave,1,22,2025-01-01,5.79,60.00
+42nd Street - Westbound - Madison Ave to 5th Ave,1,22,2025-01-01,5.69,61.00
 42nd Street - Westbound - Madison Ave to 5th Ave,1,23,2025-01-01,7.23,48.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,00,2024-01-01,3.65,95.00
 42nd Street - Westbound - Madison Ave to 5th Ave,0,01,2024-01-01,2.97,117.00
@@ -7094,12 +7094,12 @@ link_name,weekend,h,ymd,speed_50,travel_50
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,16,2025-01-01,13.01,37.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,17,2025-01-01,13.01,37.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,18,2025-01-01,12.67,38.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,0,19,2025-01-01,13.37,36.00
+49th Street - Westbound - 2nd Ave to 3rd Ave,0,19,2025-01-01,13.19,37.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,20,2025-01-01,13.19,37.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,0,21,2025-01-01,13.28,36.50
-49th Street - Westbound - 2nd Ave to 3rd Ave,0,22,2025-01-01,13.46,36.00
+49th Street - Westbound - 2nd Ave to 3rd Ave,0,21,2025-01-01,13.19,37.00
+49th Street - Westbound - 2nd Ave to 3rd Ave,0,22,2025-01-01,13.37,36.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,23,2025-01-01,18.87,26.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,00,2025-01-01,18.69,26.00
+49th Street - Westbound - 2nd Ave to 3rd Ave,1,00,2025-01-01,18.51,26.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,01,2025-01-01,20.05,24.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,02,2025-01-01,20.92,23.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,03,2025-01-01,19.25,25.00
@@ -7111,15 +7111,15 @@ link_name,weekend,h,ymd,speed_50,travel_50
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,09,2025-01-01,20.05,24.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,10,2025-01-01,19.25,25.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,11,2025-01-01,16.04,30.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,12,2025-01-01,15.91,30.50
+49th Street - Westbound - 2nd Ave to 3rd Ave,1,12,2025-01-01,15.78,31.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,13,2025-01-01,16.60,29.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,14,2025-01-01,12.34,39.00
+49th Street - Westbound - 2nd Ave to 3rd Ave,1,14,2025-01-01,12.19,39.50
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,15,2025-01-01,16.32,29.50
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,16,2025-01-01,16.04,30.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,17,2025-01-01,17.82,27.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,18,2025-01-01,15.52,31.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,19,2025-01-01,15.04,32.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,20,2025-01-01,15.04,32.00
+49th Street - Westbound - 2nd Ave to 3rd Ave,1,20,2025-01-01,14.02,34.50
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,21,2025-01-01,17.50,28.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,22,2025-01-01,14.17,35.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,23,2025-01-01,17.82,27.00
@@ -7141,15 +7141,11 @@ link_name,weekend,h,ymd,speed_50,travel_50
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,21,2024-01-01,2.65,182.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,22,2024-01-01,2.38,202.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,0,23,2024-01-01,2.99,161.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,00,2024-01-01,481.28,1.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,07,2024-01-01,481.28,1.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,09,2024-01-01,3.97,121.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,13,2024-01-01,2.04,236.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,16,2024-01-01,1.18,408.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,17,2024-01-01,481.28,1.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,18,2024-01-01,1.70,282.00
 49th Street - Westbound - 2nd Ave to 3rd Ave,1,19,2024-01-01,1.70,282.00
-49th Street - Westbound - 2nd Ave to 3rd Ave,1,23,2024-01-01,481.28,1.00
 49th Street - Westbound - 3rd Ave to Lexington Ave,0,00,2025-01-01,5.74,60.00
 49th Street - Westbound - 3rd Ave to Lexington Ave,0,01,2025-01-01,5.65,61.00
 49th Street - Westbound - 3rd Ave to Lexington Ave,0,02,2025-01-01,5.60,61.00
@@ -7782,7 +7778,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 49th Street - Westbound - Lexington Ave to Madison Ave,0,05,2024-01-01,10.89,64.00
 49th Street - Westbound - Lexington Ave to Madison Ave,0,06,2024-01-01,7.27,95.00
 49th Street - Westbound - Lexington Ave to Madison Ave,0,07,2024-01-01,4.46,155.00
-49th Street - Westbound - Lexington Ave to Madison Ave,0,08,2024-01-01,3.25,213.00
+49th Street - Westbound - Lexington Ave to Madison Ave,0,08,2024-01-01,3.23,214.00
 49th Street - Westbound - Lexington Ave to Madison Ave,0,09,2024-01-01,2.15,321.00
 49th Street - Westbound - Lexington Ave to Madison Ave,0,10,2024-01-01,2.20,314.00
 49th Street - Westbound - Lexington Ave to Madison Ave,0,11,2024-01-01,1.75,394.00
@@ -7832,8 +7828,8 @@ link_name,weekend,h,ymd,speed_50,travel_50
 49th Street - Westbound - Madison Ave to 5th Ave,0,07,2025-01-01,8.07,43.50
 49th Street - Westbound - Madison Ave to 5th Ave,0,08,2025-01-01,7.93,44.00
 49th Street - Westbound - Madison Ave to 5th Ave,0,09,2025-01-01,6.23,56.00
-49th Street - Westbound - Madison Ave to 5th Ave,0,10,2025-01-01,5.91,59.00
-49th Street - Westbound - Madison Ave to 5th Ave,0,11,2025-01-01,3.34,104.50
+49th Street - Westbound - Madison Ave to 5th Ave,0,10,2025-01-01,5.86,60.00
+49th Street - Westbound - Madison Ave to 5th Ave,0,11,2025-01-01,3.32,105.00
 49th Street - Westbound - Madison Ave to 5th Ave,0,12,2025-01-01,3.90,90.00
 49th Street - Westbound - Madison Ave to 5th Ave,0,13,2025-01-01,4.78,73.00
 49th Street - Westbound - Madison Ave to 5th Ave,0,14,2025-01-01,4.98,70.00
@@ -7870,7 +7866,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 49th Street - Westbound - Madison Ave to 5th Ave,1,21,2025-01-01,7.89,44.50
 49th Street - Westbound - Madison Ave to 5th Ave,1,22,2025-01-01,7.42,47.00
 49th Street - Westbound - Madison Ave to 5th Ave,1,23,2025-01-01,8.12,43.00
-49th Street - Westbound - Madison Ave to 5th Ave,0,00,2024-01-01,7.23,48.50
+49th Street - Westbound - Madison Ave to 5th Ave,0,00,2024-01-01,7.19,49.00
 49th Street - Westbound - Madison Ave to 5th Ave,0,01,2024-01-01,10.26,34.00
 49th Street - Westbound - Madison Ave to 5th Ave,0,02,2024-01-01,11.93,29.50
 49th Street - Westbound - Madison Ave to 5th Ave,0,03,2024-01-01,13.42,26.00
@@ -8021,22 +8017,22 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,07,2025-01-01,21.94,15.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,08,2025-01-01,20.56,16.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,09,2025-01-01,14.96,22.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,10,2025-01-01,9.54,35.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,10,2025-01-01,9.01,37.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,11,2025-01-01,6.72,49.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,12,2025-01-01,7.65,43.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,13,2025-01-01,8.02,41.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,14,2025-01-01,8.08,41.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,15,2025-01-01,7.48,44.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,16,2025-01-01,8.23,40.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,17,2025-01-01,11.86,28.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,18,2025-01-01,9.61,34.50
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,17,2025-01-01,11.75,28.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,18,2025-01-01,9.40,35.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,19,2025-01-01,8.89,37.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,20,2025-01-01,9.40,35.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,21,2025-01-01,9.01,37.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,22,2025-01-01,9.54,35.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,23,2025-01-01,15.67,21.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,00,2025-01-01,19.65,17.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,1,01,2025-01-01,23.50,14.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,1,01,2025-01-01,21.94,15.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,02,2025-01-01,13.71,24.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,03,2025-01-01,25.32,13.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,04,2025-01-01,23.50,14.00
@@ -8048,7 +8044,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,10,2025-01-01,19.36,17.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,11,2025-01-01,18.80,18.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,12,2025-01-01,19.36,17.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,1,13,2025-01-01,15.67,21.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,1,13,2025-01-01,15.31,21.50
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,14,2025-01-01,21.94,15.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,15,2025-01-01,21.23,16.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,16,2025-01-01,16.05,21.00
@@ -8064,12 +8060,12 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,02,2024-01-01,23.50,14.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,03,2024-01-01,25.32,13.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,04,2024-01-01,23.50,14.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,05,2024-01-01,22.70,15.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,05,2024-01-01,21.94,15.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,06,2024-01-01,23.50,14.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,07,2024-01-01,21.23,16.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,08,2024-01-01,18.28,18.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,08,2024-01-01,18.03,18.50
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,09,2024-01-01,17.79,19.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,10,2024-01-01,13.57,24.50
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,10,2024-01-01,13.43,25.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,11,2024-01-01,11.75,28.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,12,2024-01-01,10.53,31.50
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,13,2024-01-01,9.40,35.00
@@ -8078,7 +8074,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,16,2024-01-01,9.14,36.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,17,2024-01-01,9.14,36.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,18,2024-01-01,11.35,29.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,0,19,2024-01-01,9.14,36.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,0,19,2024-01-01,9.08,36.50
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,20,2024-01-01,9.14,36.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,21,2024-01-01,12.42,27.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,0,22,2024-01-01,10.28,32.00
@@ -8096,7 +8092,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,10,2024-01-01,19.36,17.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,11,2024-01-01,19.96,16.50
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,12,2024-01-01,16.45,20.00
-57th St - eastbound - QBB UL Entrance to 1 Ave,1,13,2024-01-01,20.56,16.00
+57th St - eastbound - QBB UL Entrance to 1 Ave,1,13,2024-01-01,20.25,16.50
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,14,2024-01-01,18.28,18.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,15,2024-01-01,18.80,18.00
 57th St - eastbound - QBB UL Entrance to 1 Ave,1,16,2024-01-01,20.56,16.00
@@ -8129,7 +8125,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),0,19,2025-01-01,11.35,54.00
 57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),0,20,2025-01-01,11.56,53.00
 57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),0,21,2025-01-01,11.56,53.00
-57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),0,22,2025-01-01,11.35,54.00
+57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),0,22,2025-01-01,11.29,54.50
 57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),0,23,2025-01-01,10.04,61.00
 57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),1,00,2025-01-01,9.21,66.50
 57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),1,01,2025-01-01,9.28,66.00
@@ -9083,9 +9079,9 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,15,2025-01-01,5.88,118.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,16,2025-01-01,5.77,120.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,17,2025-01-01,6.19,112.00
-57th Street - Eastbound - Madison Ave to Lexington Ave,0,18,2025-01-01,6.42,108.00
+57th Street - Eastbound - Madison Ave to Lexington Ave,0,18,2025-01-01,6.39,108.50
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,19,2025-01-01,5.50,126.00
-57th Street - Eastbound - Madison Ave to Lexington Ave,0,20,2025-01-01,4.68,148.00
+57th Street - Eastbound - Madison Ave to Lexington Ave,0,20,2025-01-01,4.61,150.50
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,21,2025-01-01,5.98,116.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,22,2025-01-01,5.73,121.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,23,2025-01-01,6.64,104.50
@@ -9112,7 +9108,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th Street - Eastbound - Madison Ave to Lexington Ave,1,20,2025-01-01,8.67,80.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,1,21,2025-01-01,5.83,119.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,1,22,2025-01-01,6.42,108.00
-57th Street - Eastbound - Madison Ave to Lexington Ave,1,23,2025-01-01,9.12,76.00
+57th Street - Eastbound - Madison Ave to Lexington Ave,1,23,2025-01-01,8.56,81.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,00,2024-01-01,8.54,81.50
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,01,2024-01-01,7.79,89.00
 57th Street - Eastbound - Madison Ave to Lexington Ave,0,02,2024-01-01,9.37,74.00
@@ -9899,7 +9895,7 @@ link_name,weekend,h,ymd,speed_50,travel_50
 57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,08,2024-01-01,15.76,39.00
 57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,09,2024-01-01,15.37,40.00
 57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,10,2024-01-01,10.79,57.00
-57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,11,2024-01-01,14.22,43.50
+57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,11,2024-01-01,14.13,44.00
 57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,12,2024-01-01,8.14,76.00
 57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,13,2024-01-01,10.20,60.50
 57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),1,14,2024-01-01,12.11,51.00
@@ -13754,7 +13750,7 @@ Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,18,2024-01-01,22.4
 Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,19,2024-01-01,23.51,186.00
 Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,20,2024-01-01,24.53,178.50
 Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,21,2024-01-01,26.11,168.00
-Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,22,2024-01-01,24.81,176.50
+Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,22,2024-01-01,24.77,177.00
 Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,0,23,2024-01-01,26.66,164.00
 Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,1,00,2024-01-01,26.18,167.00
 Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,1,01,2024-01-01,25.64,171.00
@@ -14234,7 +14230,7 @@ Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,18,2024
 Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,19,2024-01-01,37.74,306.00
 Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,20,2024-01-01,37.25,310.00
 Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,21,2024-01-01,36.75,314.50
-Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,22,2024-01-01,36.95,313.00
+Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,22,2024-01-01,36.90,313.00
 Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,0,23,2024-01-01,37.38,309.00
 Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,1,00,2024-01-01,36.84,314.00
 Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,1,01,2024-01-01,37.25,310.00
@@ -15074,7 +15070,7 @@ College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,14,2024-01-01,1.4
 College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,15,2024-01-01,1.23,696.00
 College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,16,2024-01-01,1.15,751.00
 College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,17,2024-01-01,1.27,676.00
-College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,18,2024-01-01,1.56,551.50
+College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,18,2024-01-01,1.52,566.00
 College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,19,2024-01-01,1.53,563.00
 College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,20,2024-01-01,2.02,426.00
 College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,0,21,2024-01-01,1.85,465.00
@@ -15253,7 +15249,7 @@ College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,02,2024-01
 College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,03,2024-01-01,4.40,374.00
 College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,04,2024-01-01,7.55,218.00
 College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,05,2024-01-01,4.29,384.00
-College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,06,2024-01-01,3.85,427.00
+College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,06,2024-01-01,3.62,457.00
 College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,07,2024-01-01,2.80,587.00
 College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,08,2024-01-01,2.86,576.00
 College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,0,09,2024-01-01,3.36,490.00
@@ -15467,8 +15463,8 @@ Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,01,2024-01-01,20.
 Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,02,2024-01-01,25.20,269.50
 Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,03,2024-01-01,22.79,298.00
 Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,04,2024-01-01,22.40,303.50
-Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,05,2024-01-01,22.73,299.00
-Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,06,2024-01-01,21.64,314.00
+Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,05,2024-01-01,22.56,301.00
+Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,06,2024-01-01,21.63,314.00
 Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,07,2024-01-01,20.96,324.00
 Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,08,2024-01-01,22.41,303.00
 Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,1,09,2024-01-01,21.19,320.50
@@ -15510,13 +15506,13 @@ Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,10,2024-01-01,6.07,441.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,11,2024-01-01,6.16,434.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,12,2024-01-01,7.16,374.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,13,2024-01-01,6.48,413.00
-Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,14,2024-01-01,6.59,406.00
+Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,14,2024-01-01,5.87,456.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,15,2024-01-01,6.34,422.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,16,2024-01-01,3.95,685.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,17,2024-01-01,4.34,616.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,18,2024-01-01,6.52,410.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,0,20,2024-01-01,12.93,207.00
-Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,1,09,2024-01-01,38.24,70.00
+Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,1,09,2024-01-01,23.90,112.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,1,11,2024-01-01,13.45,199.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,1,13,2024-01-01,9.66,277.00
 Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,1,14,2024-01-01,2.14,1249.00
@@ -15587,7 +15583,7 @@ Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,12,2024-01-01,20.9
 Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,13,2024-01-01,22.06,309.00
 Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,14,2024-01-01,30.92,221.00
 Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,15,2024-01-01,29.90,228.00
-Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,16,2024-01-01,28.89,236.00
+Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,16,2024-01-01,28.86,236.50
 Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,17,2024-01-01,28.35,241.00
 Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,18,2024-01-01,28.65,238.00
 Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,0,19,2024-01-01,27.61,247.00
@@ -15792,8 +15788,8 @@ Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,01,2024-01-01,15.90,2
 Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,02,2024-01-01,16.27,258.00
 Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,03,2024-01-01,16.33,257.00
 Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,04,2024-01-01,16.79,250.00
-Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,05,2024-01-01,16.33,257.00
-Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,06,2024-01-01,16.08,261.00
+Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,05,2024-01-01,16.18,259.50
+Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,06,2024-01-01,15.40,273.00
 Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,07,2024-01-01,15.87,265.00
 Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,08,2024-01-01,14.65,286.50
 Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,1,09,2024-01-01,14.45,290.50
@@ -16216,7 +16212,7 @@ Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,17,2025-01-01,2.56,634.00
 Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,18,2025-01-01,2.47,656.00
 Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,19,2025-01-01,2.97,547.00
 Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,20,2025-01-01,2.17,748.50
-Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,21,2025-01-01,2.56,634.00
+Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,21,2025-01-01,2.43,666.00
 Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,22,2025-01-01,1.84,881.00
 Flatbush Ave - Northbound - Avenue U to Fillmore Ave,0,23,2025-01-01,2.09,777.00
 Flatbush Ave - Northbound - Avenue U to Fillmore Ave,1,00,2025-01-01,1.51,1078.00
@@ -16349,7 +16345,7 @@ Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,0,20,2024-01-
 Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,0,21,2024-01-01,41.31,87.00
 Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,0,22,2024-01-01,41.07,87.00
 Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,0,23,2024-01-01,41.19,87.00
-Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,1,00,2024-01-01,42.92,83.50
+Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,1,00,2024-01-01,42.66,84.00
 Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,1,01,2024-01-01,40.72,88.00
 Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,1,02,2024-01-01,39.92,90.00
 Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,1,03,2024-01-01,40.60,88.00
@@ -16805,12 +16801,12 @@ Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,1,20,2025-01-
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,1,21,2025-01-01,43.40,82.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,1,22,2025-01-01,43.40,82.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,1,23,2025-01-01,43.94,81.00
-Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,00,2024-01-01,42.37,84.00
+Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,00,2024-01-01,41.88,85.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,01,2024-01-01,42.89,83.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,02,2024-01-01,42.89,83.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,03,2024-01-01,45.63,78.00
-Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,04,2024-01-01,42.89,83.00
-Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,05,2024-01-01,47.46,75.00
+Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,04,2024-01-01,42.63,84.00
+Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,05,2024-01-01,46.99,76.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,06,2024-01-01,43.94,81.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,07,2024-01-01,43.94,81.00
 Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,0,08,2024-01-01,42.89,83.00
@@ -17523,7 +17519,7 @@ Hylan Blvd - Northbound - Huguenot Ave to Arden Ave,1,20,2024-01-01,27.23,184.00
 Hylan Blvd - Northbound - Huguenot Ave to Arden Ave,1,21,2024-01-01,20.54,244.00
 Hylan Blvd - Northbound - Huguenot Ave to Arden Ave,1,22,2024-01-01,20.62,243.00
 Hylan Blvd - Northbound - Huguenot Ave to Arden Ave,1,23,2024-01-01,21.28,235.50
-Hylan Blvd - Northbound - Keegans Ln to Guyon Ave,0,00,2025-01-01,28.19,157.00
+Hylan Blvd - Northbound - Keegans Ln to Guyon Ave,0,00,2025-01-01,28.14,157.50
 Hylan Blvd - Northbound - Keegans Ln to Guyon Ave,0,01,2025-01-01,25.43,174.00
 Hylan Blvd - Northbound - Keegans Ln to Guyon Ave,0,02,2025-01-01,26.90,165.00
 Hylan Blvd - Northbound - Keegans Ln to Guyon Ave,0,03,2025-01-01,27.52,161.00
@@ -17800,11 +17796,11 @@ Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,10,2025-01-01,24.20,290.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,11,2025-01-01,24.46,287.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,12,2025-01-01,25.43,276.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,13,2025-01-01,25.62,274.00
-Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,14,2025-01-01,25.25,278.00
+Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,14,2025-01-01,25.20,278.50
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,15,2025-01-01,22.50,312.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,16,2025-01-01,22.57,311.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,17,2025-01-01,23.24,302.00
-Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,18,2025-01-01,24.61,285.50
+Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,18,2025-01-01,24.54,286.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,19,2025-01-01,24.04,292.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,20,2025-01-01,23.96,293.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,21,2025-01-01,23.01,305.00
@@ -17849,11 +17845,11 @@ Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,12,2024-01-01,29.31,240.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,13,2024-01-01,27.63,254.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,14,2024-01-01,27.42,256.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,15,2024-01-01,27.42,256.00
-Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,16,2024-01-01,27.63,254.00
-Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,17,2024-01-01,27.10,259.00
+Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,16,2024-01-01,27.52,255.00
+Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,17,2024-01-01,27.05,260.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,18,2024-01-01,27.20,258.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,19,2024-01-01,27.97,251.00
-Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,20,2024-01-01,27.26,258.00
+Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,20,2024-01-01,27.20,258.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,21,2024-01-01,28.89,243.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,22,2024-01-01,30.13,233.00
 Hylan Blvd - Northbound - Page Ave to Seguine Ave,0,23,2024-01-01,31.48,223.00
@@ -18124,7 +18120,7 @@ Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,07,2025-01-01,24.12,101.
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,08,2025-01-01,27.68,88.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,09,2025-01-01,28.33,86.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,10,2025-01-01,21.95,111.00
-Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,11,2025-01-01,22.61,108.00
+Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,11,2025-01-01,22.55,108.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,12,2025-01-01,22.35,109.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,13,2025-01-01,19.03,128.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,14,2025-01-01,18.89,129.00
@@ -18181,7 +18177,7 @@ Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,16,2024-01-01,30.07,81.0
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,17,2024-01-01,29.26,83.50
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,18,2024-01-01,30.07,81.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,19,2024-01-01,29.35,83.00
-Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,20,2024-01-01,28.08,87.00
+Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,20,2024-01-01,28.00,87.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,21,2024-01-01,21.37,114.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,22,2024-01-01,22.40,109.00
 Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,0,23,2024-01-01,21.95,111.00
@@ -18215,7 +18211,7 @@ Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboa
 Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,04,2025-01-01,26.82,58.00
 Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,05,2025-01-01,24.88,62.00
 Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,06,2025-01-01,23.02,67.00
-Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,07,2025-01-01,10.28,150.00
+Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,07,2025-01-01,10.23,151.00
 Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,08,2025-01-01,22.04,70.00
 Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,09,2025-01-01,25.70,60.00
 Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),0,10,2025-01-01,20.16,77.00
@@ -18748,7 +18744,7 @@ Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,08,2024-01-01,4.55,513.50
 Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,09,2024-01-01,9.53,245.00
 Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,10,2024-01-01,7.34,318.00
 Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,11,2024-01-01,5.53,423.00
-Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,12,2024-01-01,5.94,394.00
+Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,12,2024-01-01,5.91,395.50
 Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,13,2024-01-01,5.51,424.50
 Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,14,2024-01-01,3.87,604.00
 Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,0,15,2024-01-01,4.39,532.50
@@ -19411,7 +19407,7 @@ Jackie Robinson Pkwy - Northbound- Metropolitan Ave to Queens Blvd,1,23,2024-01-
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,00,2025-01-01,5.69,1179.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,01,2025-01-01,12.27,547.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,05,2025-01-01,5.80,1156.00
-Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,06,2025-01-01,335.40,20.00
+Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,06,2025-01-01,6.80,987.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,07,2025-01-01,5.32,1259.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,08,2025-01-01,6.08,1103.50
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,09,2025-01-01,6.65,1009.00
@@ -19426,8 +19422,8 @@ Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,17,2025-0
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,18,2025-01-01,15.25,440.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,19,2025-01-01,9.64,696.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,20,2025-01-01,6.41,1047.00
-Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,21,2025-01-01,10.80,621.00
-Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,22,2025-01-01,8.30,808.00
+Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,21,2025-01-01,9.18,731.00
+Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,22,2025-01-01,7.46,899.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,0,23,2025-01-01,8.52,788.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,1,00,2025-01-01,5.14,1305.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,1,01,2025-01-01,8.22,816.00
@@ -19492,10 +19488,6 @@ Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,1,20,2024-0
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,1,21,2024-01-01,8.45,794.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,1,22,2024-01-01,10.85,650.00
 Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,1,23,2024-01-01,6.52,1029.00
-Jackie Robinson Pkwy - Southbound - Queens Blvd to Metropolitan Ave,0,20,2025-01-01,468.93,6.00
-Jackie Robinson Pkwy - Southbound - Queens Blvd to Metropolitan Ave,0,09,2024-01-01,97.02,29.00
-Jackie Robinson Pkwy - Southbound - Queens Blvd to Metropolitan Ave,1,06,2024-01-01,3.26,863.00
-Jackie Robinson Pkwy - Southbound - Queens Blvd to Metropolitan Ave,1,07,2024-01-01,3.26,863.00
 Kissena Blvd  - Northbound - Holly Ave to Sanford Ave,0,00,2025-01-01,8.54,259.00
 Kissena Blvd  - Northbound - Holly Ave to Sanford Ave,0,01,2025-01-01,10.53,210.00
 Kissena Blvd  - Northbound - Holly Ave to Sanford Ave,0,02,2025-01-01,8.41,263.00
@@ -22641,7 +22633,7 @@ Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,10,2024-01-01,4.81,346.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,11,2024-01-01,9.62,173.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,12,2024-01-01,13.13,127.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,13,2024-01-01,11.02,151.00
-Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,14,2024-01-01,11.72,142.00
+Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,14,2024-01-01,11.52,145.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,15,2024-01-01,4.51,369.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,16,2024-01-01,9.35,178.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,17,2024-01-01,8.45,197.00
@@ -22649,8 +22641,8 @@ Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,18,2024-01-01,12.24,136.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,19,2024-01-01,10.37,161.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,20,2024-01-01,8.12,205.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,21,2024-01-01,10.15,164.00
-Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,22,2024-01-01,10.87,153.00
-Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,23,2024-01-01,8.79,190.50
+Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,22,2024-01-01,10.77,154.50
+Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,0,23,2024-01-01,7.30,231.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,1,00,2024-01-01,11.02,151.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,1,01,2024-01-01,9.04,184.00
 Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,1,02,2024-01-01,26.41,63.00
@@ -23972,8 +23964,8 @@ Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,1,22,2025-01-01,23.
 Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,1,23,2025-01-01,31.55,84.00
 Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,00,2024-01-01,26.18,101.50
 Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,01,2024-01-01,27.05,98.00
-Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,02,2024-01-01,34.42,77.00
-Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,03,2024-01-01,31.37,84.50
+Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,02,2024-01-01,33.99,78.00
+Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,03,2024-01-01,31.18,85.00
 Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,04,2024-01-01,34.31,77.50
 Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,05,2024-01-01,30.46,87.00
 Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,0,06,2024-01-01,25.98,102.00
@@ -24081,7 +24073,7 @@ Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,11,2024-01-01,17.89,167.50
 Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,12,2024-01-01,16.96,176.50
 Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,13,2024-01-01,17.30,173.00
 Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,14,2024-01-01,16.62,180.00
-Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,15,2024-01-01,17.34,173.00
+Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,15,2024-01-01,17.32,173.00
 Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,16,2024-01-01,16.72,179.00
 Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,17,2024-01-01,16.00,187.00
 Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,0,18,2024-01-01,17.00,176.00
@@ -24782,12 +24774,12 @@ Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,06,2025-01-
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,07,2025-01-01,1.01,1167.50
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,08,2025-01-01,1.02,1157.50
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,09,2025-01-01,1.05,1122.50
-Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,10,2025-01-01,1.00,1177.00
+Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,10,2025-01-01,1.00,1184.00
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,11,2025-01-01,0.95,1248.00
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,12,2025-01-01,0.97,1211.00
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,13,2025-01-01,0.99,1191.50
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,14,2025-01-01,0.97,1219.50
-Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,15,2025-01-01,0.90,1312.00
+Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,15,2025-01-01,0.90,1314.00
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,16,2025-01-01,0.93,1264.50
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,17,2025-01-01,0.90,1310.00
 Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,0,18,2025-01-01,1.01,1166.00
@@ -26347,8 +26339,8 @@ Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,16,2025-01-01,0.88,1124
 Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,17,2025-01-01,1.31,757.00
 Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,18,2025-01-01,0.87,1145.00
 Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,19,2025-01-01,1.19,830.00
-Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,20,2025-01-01,0.87,1148.00
-Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,21,2025-01-01,1.36,731.50
+Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,20,2025-01-01,0.85,1175.00
+Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,21,2025-01-01,1.30,766.00
 Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,22,2025-01-01,1.28,774.00
 Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,0,23,2025-01-01,1.99,498.00
 Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,1,13,2025-01-01,0.72,1375.00
