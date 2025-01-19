@@ -11,7 +11,7 @@ with ls as
         case when extract(dow from data_as_of) in (0, 6) then 1 else 0 end weekend
     from link_speed
     where status > 0 -- status > 0 is mim only
-    and speed > 0
+    and speed > 0 and speed < 80
     and travel_time > 0
     and (
         ( -- We're skipping the sunday because it would be annoying to include the comparable
