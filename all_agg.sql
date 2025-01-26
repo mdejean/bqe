@@ -12,8 +12,7 @@ with ls as
     from link_speed
     where status >= 0 
     and data_as_of > '2018-01-01'
-    and to_char(data_as_of, 'IWID') between '016' and to_char((select max(data_as_of) from link_speed), 'IWID')
-    and data_as_of not between '2025-01-01' and '2025-01-05'
+    and to_char(data_as_of, 'IWID') between '017' and to_char((select max(data_as_of) from link_speed), 'IWID')
 )
 select
     quartiles.link_id,
@@ -36,7 +35,7 @@ from (
 ) quartiles
 left join link l on quartiles.link_id = l.link_id
 where 1=1
-and l.link_id in (
+and quartiles.link_id in (
     select
         link_id
     from ls
