@@ -41,6 +41,7 @@
   ],
   "transform": [
     {"filter": "datum.ym > 1546322501000"},
+    {"lookup": "link_id", "from": {"data": {"url": "links.csv"}, "key": "link_id", "fields": ["link_name", "category"]}},
     {
       "calculate": "if(datum.ym > 1630296000000, if(datum.ym > 4039372800000, 'Past 24 hours', '2 lanes'), '3 lanes')",
       "as": "lanes"

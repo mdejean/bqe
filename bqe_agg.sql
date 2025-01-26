@@ -13,7 +13,7 @@ with ls as
     and data_as_of > '2018-01-01'
 )
 select
-    link_name,
+    quartiles.link_id,
     quartiles.weekend,
     quartiles.h,
     quartiles.ym,
@@ -25,8 +25,7 @@ select
     quartiles.travel_time[1] travel_25,
     quartiles.travel_time[2] travel_50,
     quartiles.travel_time[3] travel_75
-from link l
-join (
+from (
     select
         link_id,
         percentile_cont(array[0.25, 0.5, 0.75]) within group (order by speed) speed,
@@ -36,7 +35,7 @@ join (
         ym
     from ls
     group by link_id, weekend, h, ym
-) quartiles on quartiles.link_id = l.link_id
+) quartiles
 join (
     select
         link_id,
@@ -58,11 +57,12 @@ join (
         group by link_id, weekend, h, ym, d
     ) s
     group by link_id, weekend, h, ym
-) hourly_avg on hourly_avg.link_id = l.link_id
+) hourly_avg on quartiles.link_id = hourly_avg.link_id
 and quartiles.weekend = hourly_avg.weekend
 and quartiles.h = hourly_avg.h
 and quartiles.ym = hourly_avg.ym
-where l.link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')
+left join link l on quartiles.link_id = l.link_id
+where quartiles.link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')
 -- link_name in (
           -- 'GOW N 9TH STREET - ATLANTIC AVENUE',
           -- 'BQE S LEONARD STREET - ATLANTIC AVENUE',

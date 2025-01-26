@@ -29,7 +29,7 @@ function addToday() {
     let f = fetch("https://data.cityofnewyork.us/resource/i4gi-tjb9.json"
         + "?$limit=10000"
         + "&$order=data_as_of DESC"
-        + "&$select=link_name,data_as_of,status,speed,travel_time"
+        + "&$select=link_id,data_as_of,status,speed,travel_time"
         + "&$where=link_id in ('4616257', '4616339', '4616340', '4616229', '4616271', '4616223')"
         + "and status = '0' and data_as_of > "
         + "'" + yesterday.toISOString().replace(/\..*Z/ig, '') + "'",
@@ -52,7 +52,7 @@ function addToday() {
                 // Specify the day too, so that a line is not drawn between the most recent data point and yesterday
                 "ym": new Date(2099, d.getMonth(), d.getDate()),
                 "weekend": [6, 0].includes(d.getDay()),
-                "link_name": row.link_name,
+                "link_id": row.link_id,
                 "speed_worst": row.speed,
                 "travel_worst": row.travel_time,
                 "speed_25": row.speed,
