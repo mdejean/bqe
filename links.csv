@@ -1,0 +1,505 @@
+link_id,link_name,category
+75079,10th Avenue - Northbound - 14th St to 23rd St,10th Ave
+79078,10th Avenue - Northbound - 23rd St to 34th St,10th Ave
+78109,10th Avenue - Northbound - 34th St to 42nd St,10th Ave
+109085,10th Avenue - Northbound - 42nd St to 49th St,10th Ave
+85077,10th Avenue - Northbound - 49th St to 57th St,10th Ave
+4616337,11th Ave N Ganesvoort St - 12th Ave N 40th St,West Side Hwy
+108104,11th Avenue - Southbound - 34th St to 23rd St,11th Ave
+80108,11th Avenue - Southbound - 42nd St to 34th St,11th Ave
+116080,11th Avenue - Southbound - 49th St to 42nd St,11th Ave
+81116,11th Avenue - Southbound - 57th St to 49th St,11th Ave
+4616325,11th Ave S Ganesvoort St - West St S Spring St,11th Ave
+4616338,12th Ave N 40th - 57th St,West Side Hwy
+4616324,12th Ave S 45th St - 11th Ave Ganesvoort St,West Side Hwy
+4616323,12th Ave S 57th St - 45th St,West Side Hwy
+75107,14th Street - eastbound - 11 Ave/Rt 9A to 7th Ave,14th St
+107083,14th Street - eastbound - 7th Avenue to Union Sqr. East / Broadway,14th St
+83076,14th Street - eastbound - Union Sqr. East / Broadway to 1st Avenue,14th St
+76083,14th Street - westbound - 1st Avenue to Union Sqr. East / Broadway,14th St
+107075,14th Street - westbound - 7th Ave to 11 Ave/Rt 9A,14th St
+83107,14th Street - westbound - Union Sqr. East / Broadway to 7th Avenue,1st Ave
+76045,1st Avenue - Northbound - 14th St to 23rd St,1st Ave
+45102,1st Avenue - Northbound - 23rd St to 34th St,1st Ave
+48040,1st Avenue - Northbound - 42nd St to 49th St,1st Ave
+40041,1st Avenue - Northbound - 49th St to 57th St,1st Ave
+79082,23rd Street - Eastbound - 10th Ave to 9th Ave,23rd St
+104079,23rd Street - Eastbound - 11th Ave to 10th Ave,23rd St
+105045,23rd Street - Eastbound - 2nd Ave to 1st Ave,23rd St
+44105,23rd Street - Eastbound - 3rd Ave to 2nd Ave,23rd St
+47204,23rd Street - eastbound - 6 ave to madison ave,23rd St
+106047,23rd Street - Eastbound - 7th Ave to 6th Ave,23rd St
+50106,23rd Street - Eastbound - 8th Ave to 7th Ave,23rd St
+82050,23rd Street - Eastbound - 9th Ave to 8th Ave,23rd St
+204044,23rd Street - eastbound - madison ave to 3 ave,23rd St
+79104,23rd Street - Westbound - 10th Ave to 11th Ave,23rd St
+45105,23rd Street - Westbound - 1st Ave to 2nd Ave,23rd St
+105044,23rd Street - Westbound - 2nd Ave to 3rd Ave,23rd St
+44204,23rd Street- westbound - 3 ave to madison ave,23rd St
+47106,23rd Street - Westbound - 6th Ave to 7th Ave,23rd St
+106050,23rd Street - Westbound - 7th Ave to 8th Ave,23rd St
+50082,23rd Street - Westbound - 8th Ave to 9th Ave,23rd St
+82079,23rd Street - Westbound - 9th Ave to 10th Ave,23rd St
+204047,23rd Street - westbound - madison ave to 6 ave,23rd St
+4616279,278 E BRUNSWICK AVENUE - SIE E SOUTH AVENUE,Staten Island Expwy / Verazzano Br
+4616280,278 E BRUNSWICK AVENUE - WSE S SOUTH AVENUE,Staten Island Expwy / Verazzano Br
+103105,2nd Avenue - Southbound - 34th St to 23rd St,2nd Ave
+42103,2nd Avenue -  Southbound - 42nd St to 34th St,2nd Ave
+46042,2nd Avenue - Southbound - 49th St to 42nd St,2nd Ave
+55046,2nd Avenue  - Southbound - 57th St to 49th St,2nd Ave
+193055,2nd Avenue - Southbound - 72nd St to 57th St,2nd Ave
+192193,2nd Avenue - Southbound - 86th St to 72nd St,2nd Ave
+78061,34th Street - Eastbound - 10th Ave to 9th Ave,34th St
+108078,34th Street - Eastbound - 11th Ave to 10th Ave,34th St
+103102,34th Street - Eastbound - 2nd Ave to 1st Ave,34th St
+20103,34th Street - Eastbound - 3rd Ave to 2nd Ave,34th St
+118008,34th Street - Eastbound - 5th Ave to Madison Ave,34th St
+23118,34th Street - Eastbound - 6th Ave to 5th Ave,34th St
+60023,34th Street - Eastbound - 7th Ave to 6th Ave,34th St
+57060,34th Street - Eastbound - 8th Ave to 7th Ave,34th St
+61057,34th Street - Eastbound - 9th Ave to 8th Ave,34th St
+8020,34th Street - Eastbound - Madison Ave to 3rd Ave,34th St
+78108,34th Street - Westbound - 10th Ave to 11th Ave,34th St
+102103,34th Street - Westbound - 1st Ave to 2nd Ave,34th St
+103020,34th Street - Westbound - 2nd Ave to 3rd Ave,34th St
+20008,34th Street - Westbound - 3rd Ave to Madison Ave,34th St
+118023,34th Street - Westbound - 5th Ave to 6th Ave,34th St
+23060,34th Street - Westbound - 6th Ave to 7th Ave,34th St
+60057,34th Street - Westbound - 7th Ave to 8th Ave,34th St
+57061,34th Street - Westbound - 8th Ave to 9th Ave,34th St
+61078,34th Street - Westbound - 9th Ave to 10th Ave,34th St
+8118,34th Street - Westbound - Madison Ave to 5th Ave,34th St
+44020,3rd Avenue - Northbound - 23rd St to 34th St,3rd Ave
+20004,3rd Avenue - Northbound - 34th St to 42nd St,3rd Ave
+4005,3rd Avenue - Northbound - 42nd St to 49th St,3rd Ave
+5006,3rd Avenue - Northbound - 49th St to 57th St,3rd Ave
+109049,42nd Street - Eastbound - 10th Ave to 9th Ave,42nd St
+80109,42nd Street - Eastbound - 11th Ave to 10th Ave,42nd St
+42048,42nd Street - Eastbound - 2nd Ave to 1st Ave,42nd St
+4042,42nd Street - Eastbound - 3rd Ave to 2nd Ave,42nd St
+14011,42nd Street - Eastbound - 5th Ave to Madison Ave,42nd St
+17014,42nd Street - Eastbound - 6th Ave to 5th Ave,42nd St
+59017,42nd Street - Eastbound - 7th Ave to 6th Ave,42nd St
+53059,42nd Street - Eastbound - 8th Ave to 7th Ave,42nd St
+49053,42nd Street - Eastbound - 9th Ave to 8th Ave,42nd St
+1004,42nd Street - Eastbound - Lexington Ave to 3rd Ave,42nd St
+11001,42nd Street - Eastbound - Madison Ave to Lexington Ave,42nd St
+109080,42nd Street - Westbound - 10th Ave to 11th Ave,42nd St
+48042,42nd Street - Westbound - 1st Ave to 2nd Ave,42nd St
+42004,42nd Street - Westbound - 2nd Ave to 3rd Ave,42nd St
+4001,42nd Street - Westbound - 3rd Ave to Lexington Ave,42nd St
+14017,42nd Street - Westbound - 5th Ave to 6th Ave,42nd St
+17059,42nd Street - Westbound - 6th Ave to 7th Ave,42nd St
+59053,42nd Street - Westbound - 7th Ave to 8th Ave,42nd St
+53049,42nd Street - Westbound - 8th Ave to 9th Ave,42nd St
+49109,42nd Street - Westbound - 9th Ave to 10th Ave,42nd St
+1011,42nd Street - Westbound - Lexington Ave to Madison Ave,42nd St
+11014,42nd Street - Westbound - Madison Ave to 5th Ave,42nd St
+85116,49th Street - Westbound - 10th Ave to 11th Ave,49th St
+40046,49th Street - Westbound - 1st Ave to 2nd Ave,49th St
+46005,49th Street - Westbound - 2nd Ave to 3rd Ave,49th St
+5002,49th Street - Westbound - 3rd Ave to Lexington Ave,49th St
+15018,49th Street - Westbound - 5th Ave to 6th Ave,49th St
+18037,49th Street - Westbound - 6th Ave to 7th Ave,49th St
+37038,49th Street - Westbound - 7th Ave to 8th Ave,49th St
+38039,49th Street - Westbound - 8th Ave to 9th Ave,49th St
+39085,49th Street - Westbound - 9th Ave to 10th Ave,49th St
+2012,49th Street - Westbound - Lexington Ave to Madison Ave,49th St
+12015,49th Street - Westbound - Madison Ave to 5th Ave,49th St
+55203,57th St - eastbound - 2 Ave to QBB UL Entrance,57th St
+203041,57th St - eastbound - QBB UL Entrance to 1 Ave,57th St
+77058,57th Street - Eastbound - 10th Ave (Amsterdam Ave) to 9th Ave (Columbus Ave),57th St
+81077,57th Street - Eastbound - 11th Ave to 10th Ave (Amsterdam Ave),57th St
+6055,57th Street - Eastbound - 3rd Ave to 2nd Ave,57th St
+13016,57th Street - Eastbound - 5th Ave to Madison Ave,57th St
+19016,57th Street - Eastbound - 6th Ave to 5th Ave,57th St
+56019,57th Street - Eastbound - 7th Ave to 6th Ave,57th St
+54052,57th Street - Eastbound - 8th Ave to Broadway,57th St
+58054,57th Street - Eastbound - 9th Ave to 8th Ave,57th St
+52056,57th Street - Eastbound - Broadway to 7th Ave,57th St
+3006,57th Street - Eastbound - Lexington Ave to 3rd Ave,57th St
+13003,57th Street - Eastbound - Madison Ave to Lexington Ave,57th St
+77081,57th Street - Westbound - 10th Ave (Amsterdam Ave) to 11th Ave,57th St
+55006,57th Street - Westbound - 2nd Ave to 3rd Ave,57th St
+6003,57th Street - Westbound - 3rd Ave to Lexington Ave,57th St
+16019,57th Street - Westbound - 5th Ave to 6th Ave,57th St
+19056,57th Street - Westbound - 6th Ave to 7th Ave,57th St
+56052,57th Street - Westbound - 7th Ave to Broadway,57th St
+54058,57th Street - Westbound - 8th Ave to 9th Ave,57th St
+58077,57th Street - Westbound - 9th Ave (Columbus Ave) to 10th Ave (Amsterdam Ave),57th St
+52054,57th Street - Westbound - Broadway to 8th Ave,57th St
+3013,57th Street - Westbound - Lexington Ave to Madison Ave,57th St
+16013,57th Street - Westbound - Madison Ave to 5th Ave,57th St
+41203,57th St - westbound - 1 Ave to QBB UL Entrance,57th St
+203055,57th St - westbound - QBB UL Entrance to 2 Ave,57th St
+14118,5th Avenue - Southbound - 42nd St to 34th St,5th Ave
+15014,5th Avenue - Southbound - 49th St to 42th St,5th Ave
+16015,5th Avenue - Southbound - 57th St to 49th St,5th Ave
+22016,5th Avenue - Southbound - 72nd St to 57th St,5th Ave
+189022,5th Avenue - Southbound - 86 St to 72 St,5th Ave
+188189,5th Avenue  - Southbound - 96 St to 86 St,5th Ave
+47023,6th Avenue - Northbound - 23rd St to 34th ST,6th Ave
+23017,6th Avenue - Northbound - 34th St to 42nd St,6th Ave
+17018,6th Avenue - Northbound - 42nd St to 49th St,6th Ave
+18019,6th Avenue - Northbound - 49th St to 57th St,6th Ave
+193021,72nd Streeet - Westbound - 2nd Ave to Lexington Ave,72nd St
+22021,72nd Street - Eastbound - 5th Ave to Lexington Ave,72nd St
+51043,72nd Street - Eastbound - Broadway to Columbus Ave (9th Ave),72nd St
+21193,72nd Street - Eastbound - Lexington Ave to 2nd Ave,72nd St
+43051,72nd Street - Westbound - Columbus Ave (9th Ave) to Broadway,72nd St
+21022,72nd Street - Westbound - Lexington Ave to 5th Ave,72nd St
+106107,7th Avenue - Southbound - 23rd St to 14th St,7th Ave
+60106,7th Avenue - Southbound - 34th St to 23rd St,7th Ave
+59060,7th Avenue - Southbound - 42nd St to 34th St,7th Ave
+37059,7th Avenue - Southbound - 49th St to 42nd St,7th Ave
+56037,7th Avenue - Southbound - 57th St to 49th St,7th Ave
+50057,8th Avenue - Northbound - 23rd St to 34th St,8th Ave
+57053,8th Avenue - Northbound - 34th St to 42nd St,8th Ave
+53038,8th Avenue - Northbound - 42nd St to 49th St,8th Ave
+38054,8th Avenue - Northbound - 49th St to 57th St,8th Ave
+82110,9th Avenue - Southbound - 23rd St to 14th St,9th Ave
+61082,9th Avenue - Southbound - 34th St to 23rd St,9th Ave
+119061,9th Avenue - Southbound - 37th St to 34th St,9th Ave
+49119,9th Avenue - Southbound - 42nd St to 37th St,9th Ave
+39049,9th Avenue - Southbound - 49th St to 42nd St,9th Ave
+58039,9th Avenue - Southbound - 57th St to 49th St,9th Ave
+43058,9th Avenue - Southbound - 72nd St to 57th St,9th Ave
+117071,Atlantic Avenue - Eastbound - Boerum Pl to Flatbush Ave,Atlantic Ave
+72117,Atlantic Avenue - Eastbound - BQE Exit to Boerum Pl,Atlantic Ave
+71201,Atlantic Avenue - Eastbound - Flatbush Ave to Carlton Ave,Atlantic Ave
+117072,Atlantic Avenue - Westbound - Boerum Pl to BQE Exit,Atlantic Ave
+201071,Atlantic Avenue - Westbound - Carlton Ave to Flatbush Ave,Atlantic Ave
+71117,Atlantic Avenue - Westbound - Flatbush Ave to Boerum Pl,Atlantic Ave
+200199,Battery Park Underpass - FDR Dr (Southbound) to West St (Northbound),Brooklyn-Battery Tunnel
+199200,Battery Park Underpass - West St (Southbound) to FDR Dr (Northbound),Brooklyn-Battery Tunnel
+4456502,BBT E Manhattan ORT - Brooklyn Side,Brooklyn-Battery Tunnel
+4616344,BBT Manhattan Portal inbound - West St N Watts St,Brooklyn-Battery Tunnel
+4616345,BBT Manhattan Portal inbound - West St S Battery Place,Brooklyn-Battery Tunnel
+4456501,BBT W Brooklyn Side - Manhattan ORT,Brooklyn-Battery Tunnel
+154182,Beach Channel Dr - Eastbound - Bay 32 st to Mott Ave,Beach Channel Dr
+144092,Beach Channel Dr - Eastbound - Beach 116 St to Cross Bay Blvd @ 20 Rd,Beach Channel Dr
+140144,Beach Channel Dr - Eastbound - Beach 140 St to Beach 116 St,Beach Channel Dr
+181154,Beach Channel Dr - Eastbound - Beach 69 st to Bay 32 st,Beach Channel Dr
+156181,Beach Channel Dr - Eastbound - Beach 90 st to Beach 69 st,Beach Channel Dr
+154181,Beach Channel Dr - Westbound - Bay 32 st to Beach 69 st,Beach Channel Dr
+144140,Beach Channel Dr - Westbound - Beach 116 St to Beach 140 St,Beach Channel Dr
+140120,Beach Channel Dr - Westbound - Beach 140 St to Aviators Sports Complex,Beach Channel Dr
+181156,Beach Channel Dr - Westbound- Beach 69 st to Beach 90 st,Beach Channel Dr
+182154,Beach Channel Dr - Westbound - Mott Ave to Bay 32 St,Beach Channel Dr
+4616355,BELT Pkwy E 182nd St - Laurelton Pkwy N @ SSP,Belt Pkwy / Cross-Island Pkwy
+202035,Belt Pkwy - Eastbound - 68th St to Bay 8th St,Belt Pkwy / Cross-Island Pkwy
+35027,Belt Pkwy - Eastbound - Bay 8th St to Ocean Pkwy,Belt Pkwy / Cross-Island Pkwy
+34028,Belt Pkwy - Eastbound - Flatbush Ave to Erskine St,Belt Pkwy / Cross-Island Pkwy
+27034,Belt Pkwy - Eastbound - Ocean Pkwy to Flatbush,Belt Pkwy / Cross-Island Pkwy
+28029,Belt Pkwy - Eastbound - Pennsylvania Ave to Cross Bay Blvd,Belt Pkwy / Cross-Island Pkwy
+29150,Belt Pkwy EB @ Cross Bay Blvd - Rockaway Blvd @ Farmers Blvd,Belt Pkwy / Cross-Island Pkwy
+4616356,BELT Pkwy W 182nd St - JFK Expwy,Belt Pkwy / Cross-Island Pkwy
+35202,Belt Pkwy - Westbound - Bay 8th St to 68th St,Belt Pkwy / Cross-Island Pkwy
+24026,Belt Pkwy - Westbound - Cross Bay Blvd to Pennsylvania Ave,Belt Pkwy / Cross-Island Pkwy
+33024,Belt Pkwy - Westbound - East of JFK to Crossbay Blvd.,Belt Pkwy / Cross-Island Pkwy
+26034,Belt Pkwy - Westbound - Erskine St to Flatbush Ave,Belt Pkwy / Cross-Island Pkwy
+34025,Belt Pkwy - Westbound - Flatbush Ave to Ocean Pkwy,Belt Pkwy / Cross-Island Pkwy
+25035,Belt Pkwy - Westbound - Ocean Pkwy to Bay 8th St,Belt Pkwy / Cross-Island Pkwy
+4616357,BELT Pkwy W JFK Expwy - VWE N Jamaica Ave,Belt Pkwy / Cross-Island Pkwy
+4616247,BE N Castle Hill Ave - Griswold Ave,Bruckner Expwy
+4616246,BE N Stratford Avenue-Castle Hill Avenue,Bruckner Expwy
+4616260,BE S Castle Hill Avenue-Stratford Avenue,Bruckner Expwy
+4616261,BE S Griswold Ave - Castle Hill Ave,Bruckner Expwy
+4456478,BE S RFK Exit Ramp - Queens Anchorage,Bruckner Expwy
+4456479,BE S TBB EXIT RAMP - MANHATTAN LIFT SPAN,Bruckner Expwy
+4616342,BKN Bridge Manhattan Side - FDR N Catherine Slip,FDR Dr
+4616339,BQE N Atlantic Ave - BKN Bridge Manhattan Side,Brooklyn-Queens Expwy / Gowanus Expwy
+4616340,BQE N Atlantic Ave - MAN Bridge Manhattan Side,Brooklyn-Queens Expwy / Gowanus Expwy
+4616257,BQE N ATLANTIC AVENUE - LEONARD STREET,Brooklyn-Queens Expwy / Gowanus Expwy
+4616235,BQE N Leonard St - 46th St,Brooklyn-Queens Expwy / Gowanus Expwy
+4616232,BQE S 46th St - Leonard St,Brooklyn-Queens Expwy / Gowanus Expwy
+4616229,BQE S Atlantic Ave - GOW S 9th St,Brooklyn-Queens Expwy / Gowanus Expwy
+4616271,BQE S LEONARD STREET - ATLANTIC AVENUE,Brooklyn-Queens Expwy / Gowanus Expwy
+51052,Broadway - Southbound - 72nd St to 57th St,Broadway
+4616252,BRP N Watson Avenue-Fordham Road,Bronx River Pkwy
+4616266,BRP S Fordham Road-Watson Avenue,Bronx River Pkwy
+4456497,BWB N Queens Anchorage - Toll Plaza,Whitestone Br / Expwy
+4616305,BWB N Toll Plaza - HRP N Lafayette Ave,Whitestone Br / Expwy
+4616312,BWB S Queens Anchorage - WE S Exit 14 (Linden Pl),Whitestone Br / Expwy
+4456496,BWB S Toll Plaza - Queens Anchorage,Whitestone Br / Expwy
+4616310,CBE E Amsterdam Ave (lower level) - Morris Ave,Cross-Bronx Expwy / GWB
+4616309,CBE E Amsterdam Ave (upper level) - Morris Ave,Cross-Bronx Expwy / GWB
+4616297,CBE E CASTLE HILL AVE - BE N WATERBURY AVE,Cross-Bronx Expwy / GWB
+4616253,CBE E Taylor Avenue-Castle Hill Avenue,Cross-Bronx Expwy / GWB
+4620315,CBE W Amsterdam Ave (lower level) - I-95 S Loc Lns,Cross-Bronx Expwy / GWB
+4620310,CBE W Amsterdam Ave (upper level) - I-95 S Exp Lns,Cross-Bronx Expwy / GWB
+4616267,CBE W Castle Hill Avenue-Taylor Avenue,Cross-Bronx Expwy / GWB
+4620332,CBE W Morris Ave-GWB W Amsterdam Ave (lower level),Cross-Bronx Expwy / GWB
+4620331,CBE W Morris Ave-GWB W Amsterdam Ave (upper level),Cross-Bronx Expwy / GWB
+4362247,CIP NB GCP - TNB,Belt Pkwy / Cross-Island Pkwy
+4616351,CIP N Hempstead Tpk - LIE,Belt Pkwy / Cross-Island Pkwy
+4362252,CIP N LIE ramp - TNB,Belt Pkwy / Cross-Island Pkwy
+4456483,CIP N TNB ramp - TNB N Queens Anchorage,Belt Pkwy / Cross-Island Pkwy
+4616320,CIP N TNB - Whitestone Expwy S Exit 14 (Linden Pl),Belt Pkwy / Cross-Island Pkwy
+4616352,CIP S Hempstead Tpk - Laurelton Pkwy @ SSP,Belt Pkwy / Cross-Island Pkwy
+4616350,CIP S LIE - Hempstead Tpk,Belt Pkwy / Cross-Island Pkwy
+175184,College Pnt Blvd - Northbound - Horace Harding Expwy to Booth Memorial Ave,Flushing
+177178,College Pnt Blvd - Northbound - Roosevelt Ave to 35th Ave,Flushing
+176177,College Pnt Blvd - Northbound - Sanford Ave to Roosevelt Ave,Flushing
+178177,College Pnt Blvd - Southbound - 35th Ave to Roosevelt Ave,Flushing
+184175,College Pnt Blvd - Southbound - Booth Memorial Ave to Horace Harding Expwy,Flushing
+177176,College Pnt Blvd - Southbound - Roosevelt Ave to Sanford Ave,Flushing
+184176,College Point Blvd - Northbound - Booth Memorial Ave to Sanford Ave,Flushing
+176184,College Point Blvd - Southbound - Sanford Ave to Booth Memorial Ave,Flushing
+88087,Cross Bay Blvd - Northbound - 156th Ave to Rockaway Blvd,Cross-Bay Blvd
+90089,Cross Bay Blvd - Northbound - Jamaica Wildlife Preserve to North Channel Br,Cross-Bay Blvd
+89088,Cross Bay Blvd -  Northbound - North Channel Br to 156th Ave,Cross-Bay Blvd
+92091,Cross Bay Blvd - Northbound - W 20th Rd to W 6th Rd,Cross-Bay Blvd
+91090,Cross Bay Blvd - Northbound - W 6th Rd to Jamaica Wildlife Reserve,Cross-Bay Blvd
+88089,Cross Bay Blvd - Southbound - 156th Ave to North Channel Br,Cross-Bay Blvd
+92144,Cross Bay Blvd - Southbound - 20 Rd to Beach Channel Dr @ Beach 116 St,Cross-Bay Blvd
+90091,Cross Bay Blvd - Southbound - Jamaica Wildlife Preserve to W 6 Rd,Cross-Bay Blvd
+89090,Cross Bay Blvd - Southbound - North Channel Br to Jamaica Wildlife Preserve,Cross-Bay Blvd
+87088,Cross Bay Blvd - Southbound - Rockaway Blvd to 156th Ave,Cross-Bay Blvd
+91092,Cross Bay Blvd - Southbound - W 6th Rd to W 20th Rd,Cross-Bay Blvd
+4362250,CVE N GCP ramp - TNB,Clearview Expwy / Throggs Neck Br
+4362244,CVE N LIE ramp - TNB,Clearview Expwy / Throggs Neck Br
+63074,Father Capodanno Blvd @ Seaview Ave to Hyland Blvd @ Midland Ave via Midland Ave,Father Capodanno Blvd
+63064,Father Capodanno Blvd @ Seaview Ave to Lily Pond Ave Verrazano-Narrows Br Entrance - NB,Father Capodanno Blvd
+4616329,FDR N 25th - 63rd St,FDR Dr
+4616328,FDR N Catherine Slip - 25th St,FDR Dr
+4456450,FDR N - TBB E 116TH STREET - MANHATTAN TRUSS,FDR Dr
+4616333,FDR S 25th St - Catherine Slip,FDR Dr
+4616332,FDR S 63rd - 25th St,FDR Dr
+4616341,FDR S Catherine Slip - BKN Bridge Manhattan Side,FDR Dr
+4616334,FDR S Catherine Slip - Whitehall St,FDR Dr
+4456495,FDR S Whitehall St - BBT Manhattan Portal outbound,FDR Dr
+71070,Flatbush Ave - Northbound - Atlantic Ave to Willoughvy St,Flatbush Ave
+122134,Flatbush Ave - Northbound - Avenue U to Fillmore Ave,Flatbush Ave
+120135,Flatbush Ave - Northbound - Aviators Sports Complex to Golf Course,Flatbush Ave
+134133,Flatbush Ave - Northbound - Fillmore Ave to Kings Hwy,Flatbush Ave
+135122,Flatbush Ave - Northbound - Golf Course to Avenue U,Flatbush Ave
+70073,Flatbush Ave - Northbound - Willoughby St to Tillary St,Flatbush Ave
+122135,Flatbush Ave - Southbound - Avenue U to Golf Course,Flatbush Ave
+120140,Flatbush Ave - Southbound - Aviators Sports Complex to Beach 140 st,Flatbush Ave
+134122,Flatbush Ave - Southbound - Fillmore Ave to Avenue U,Flatbush Ave
+135120,Flatbush Ave - Southbound - Golf Course to Aviators Sports Complex,Flatbush Ave
+133134,Flatbush Ave - Southbound - Kings Hwy to Fillmore Ave,Flatbush Ave
+73070,Flatbush Ave - Southbound - Tillary St to Willoughby St,Flatbush Ave
+70071,Flatbush Ave - Southbound - Willoughby St to Atlantic Ave,Flatbush Ave
+4616318,GOW N 7th Avenue-9th Street,Brooklyn-Queens Expwy / Gowanus Expwy
+4616220,GOW N 92nd Street-7th Avenue,Brooklyn-Queens Expwy / Gowanus Expwy
+4616223,GOW N 9th Street-Atlantic Avenue,Brooklyn-Queens Expwy / Gowanus Expwy
+4616226,GOW S 7th Avenue-92nd Street,Brooklyn-Queens Expwy / Gowanus Expwy
+4763657,GOW S 92nd St - VNB W Bklyn Gantry l/lev,Brooklyn-Queens Expwy / Gowanus Expwy
+4763655,GOW S 92nd St - VNB W Bklyn Gantry u/lev,Brooklyn-Queens Expwy / Gowanus Expwy
+4616319,GOW S 9th Street-7th Avenue,Brooklyn-Queens Expwy / Gowanus Expwy
+4620298,GWB E L/Lev Plaza - CBE E L/Lev Amsterdam Ave,Cross-Bronx Expwy / GWB
+173174,Henry Hudson Pkwy - Northbound - 125th St to GWB,West Side Hwy
+30171,Henry Hudson Pkwy - Northbound - 57th St to 79th St,West Side Hwy
+171172,Henry Hudson Pkwy - Northbound - 79th St to 99th St,West Side Hwy
+172173,Henry Hudson Pkwy - Northbound - 99th St to 125th St,West Side Hwy
+173172,Henry Hudson Pkwy - Southbound - 125th St to 99th St,West Side Hwy
+171031,Henry Hudson Pkwy - Southbound - 79th St to 57th St,West Side Hwy
+172171,Henry Hudson Pkwy - Southbound - 99th St to 79th St,West Side Hwy
+174173,Henry Hudson Pkwy - Southbound - GWB to 125th St,West Side Hwy
+161162,Horace Harding Expwy NSR - Westbound - Kissena Blvd to Main St,Long Island Expwy
+162175,Horace Harding Expwy - Westbound - Main St to College Pnt Blvd,Long Island Expwy
+4616250,HRP N Lafayette Avenue-E.Tremont Avenue,Hutchinson River Pkwy
+4456498,HRP S Lafayette Ave - BWB S Toll Plaza,Hutchinson River Pkwy
+74063,Hylan Blvd @ Midland Ave to Father Capodanno Blvd @ Seaview Ave via Midland Ave,Hylan Blvd
+127121,Hylan Blvd - Northbound - Arden Ave to Richmond Ave,Hylan Blvd
+126062,Hylan Blvd - Northbound - Guyon Ave to New Dorp Ln,Hylan Blvd
+125127,Hylan Blvd - Northbound - Huguenot Ave to Arden Ave,Hylan Blvd
+145126,Hylan Blvd - Northbound - Keegans Ln to Guyon Ave,Hylan Blvd
+74066,Hylan Blvd - Northbound - Midland Ave to Seaview Ave,Hylan Blvd
+62074,Hylan Blvd - Northbound - New Dorp Ln to Midland Ave,Hylan Blvd
+123124,Hylan Blvd - Northbound - Page Ave to Seguine Ave,Hylan Blvd
+121145,Hylan Blvd - Northbound - Richmond Ave to Keegans Ln,Hylan Blvd
+66128,Hylan Blvd - Northbound - Seaview Ave to Fingerboard Rd West,Hylan Blvd
+66067,Hylan Blvd - Northbound -  Seaview Ave to Narrows Rd South Via Steuben St,Hylan Blvd
+124125,Hylan Blvd - Northbound - Seguine Ave to Huguenot Ave,Hylan Blvd
+128068,Hylan Blvd - Northbound - West Fingerboard Rd to Narrows Rd South (via Fingerboard Rd),Hylan Blvd
+127125,Hylan Blvd - Southbound - Arden Ave to Huguenot Ave,Hylan Blvd
+126145,Hylan Blvd - Southbound - Guyon Ave to Keegans Ln,Hylan Blvd
+125124,Hylan Blvd - Southbound - Huguenot Ave to Seguine Ave,Hylan Blvd
+145121,Hylan Blvd - Southbound - Keegans Ln to Richmond Ave,Hylan Blvd
+74062,Hylan Blvd - Southbound - Midland Ave to New Dorp Ln,Hylan Blvd
+84066,Hylan Blvd - Southbound - Narrows Rd South (West) to Seaview Ave,Hylan Blvd
+62126,Hylan Blvd - Southbound - New Dorp Ln to Guyon Ave,Hylan Blvd
+121127,Hylan Blvd - Southbound - Richmond Ave to Arden Ave,Hylan Blvd
+66074,Hylan Blvd - Southbound - Seaview Ave to Midland Ave,Hylan Blvd
+124123,Hylan Blvd - Southbound - Seguine Ave to Page Ave,Hylan Blvd
+4616228,I-87 NYST S Exit 1 (Hall Pl) - MDE S Van Cortlandt Park,Major Deegan Expwy
+167166,Jackie Robinson Pkwy - Northbound - Forest Pk Dr to Metropolitan Ave,Jackie Robinson Pkwy
+168167,Jackie Robinson Pkwy - Northbound - Jamaica Ave to Forest Pk Dr,Jackie Robinson Pkwy
+166169,Jackie Robinson Pkwy - Northbound- Metropolitan Ave to Queens Blvd,Jackie Robinson Pkwy
+167168,Jackie Robinson Pkwy - Southbound - Forest Pk Dr to Jamaica Av,Jackie Robinson Pkwy
+166167,Jackie Robinson Pkwy - Southbound - Metropolitan Ave to Forest Pk Dr,Jackie Robinson Pkwy
+169166,Jackie Robinson Pkwy - Southbound - Queens Blvd to Metropolitan Ave,Jackie Robinson Pkwy
+183160,Kissena Blvd  - Northbound - Holly Ave to Sanford Ave,Flushing
+161183,Kissena Blvd - Northbound - Horace Harding Expwy NSR to Holly Ave,Flushing
+160157,Kissena Blvd @ Sanford Ave to Main St @ Roosevelt Ave - Northbound,Flushing
+183161,Kissena Blvd -  Southbound - Holly Ave to Horace Harding Expwy NSR,Flushing
+160183,Kissena Blvd - Southbound - Sanford Ave to Holly Ave,Flushing
+4616353,Laurelton Pkwy N @ SSP - CIP N Hempstead Tpk,Belt Pkwy / Cross-Island Pkwy
+4616354,Laurelton Pkwy S @ SSP - Belt Pkwy W 182nd St,Belt Pkwy / Cross-Island Pkwy
+2001,Lexington Avenue - Southbound - 49th St to 42nd St,Lexington Ave
+3002,Lexington Avenue - Southbound - 57th St to 49th St,Lexington Ave
+21003,Lexington Avenue - Southbound - 72nd St to 57th St,Lexington Ave
+191021,Lexington Ave - Southbound - 86 St to 72 St,Lexington Ave
+190191,Lexington Ave - Southbound - 96 St to 86 St,Lexington Ave
+4362342,LIE E 84th - 108th St,Long Island Expwy
+4616365,LIE E QMT TOLL PLAZA - 84TH ST,Long Island Expwy
+4616364,LIE W 108th - 84th St,Long Island Expwy
+4456516,LIE W 84TH ST - QMT TOLL PLAZA,Long Island Expwy
+4362249,LIE W Little Neck Pkwy - CIP N ramp,Long Island Expwy
+4362251,LIE W Little Neck Pkwy - CVE N ramp,Long Island Expwy
+65063,Lily Pond Ave @ Verrazano-Narrows Br Exit - Father Capodanno Blvd @ Seaview Ave - SB,Father Capodanno Blvd
+4329473,LINCOLN TUNNEL E CENTER TUBE NJ - NY,Lincoln Tunnel
+4329472,Lincoln Tunnel E south tube NJ - NY,Lincoln Tunnel
+4329508,LINCOLN TUNNEL W CENTER TUBE NY - NJ,Lincoln Tunnel
+4329507,Lincoln Tunnel W north tube NY - NJ,Lincoln Tunnel
+204008,Madison Avenue - northbound - 23 st to 34 st,Madison Ave
+8011,Madison Avenue - Northbound - 34th St to 42nd St,Madison Ave
+11012,Madison Avenue - Northbound - 42nd St to 49th St,Madison Ave
+12013,Madison Avenue - Northbound - 49th St to 57th St,Madison Ave
+162179,Main St - Northbound - Horace Harding Expwy to Peck Ave,Flushing
+179159,Main St  - Northbound - Peck Ave to Sanford Ave,Flushing
+157158,Main St - Northbound - Roosevelt Ave to Northern Blvd,Flushing
+159157,Main St - Northbound - Sanford Ave to Roosevelt Ave,Flushing
+157160,Main St @ Roosevelt to Kissena Blvd @ Sanford Ave,Flushing
+158157,Main St - Southbound - Northern Blvd to Roosevelt Ave,Flushing
+179162,Main St - Southbound - Peck Ave to Horace Harding Expwy,Flushing
+157159,Main St - Southbound - Roosevelt Ave to Sanford Ave,Flushing
+159179,Main St - Southbound - Sanford Ave to Peck Ave,Flushing
+4616255,MDE N RFK Bridge - 142nd St,Major Deegan Expwy
+4575278,MDE N Van Cortland Park - I-87 NYST N Exit 1 (Hall Place),Major Deegan Expwy
+4620330,MDE S HARLEM RIVER PARK - GWB W AMSTERDAM AVENUE LOWER LEVEL,Major Deegan Expwy
+4620314,MDE S HARLEM RIVER PARK - GWB W AMSTERDAM AVENUE UPPER LEVEL,Major Deegan Expwy
+4456477,MDE S TBB EXIT RAMP - QUEENS ANCHORAGE,Major Deegan Expwy
+4329499,MLK N Walker Street-NJ Route 169,MLK Expwy / Bayonne Br
+4616210,MLK S-SIE W Walker Street-Richmond Avenue,MLK Expwy / Bayonne Br
+4616196,MLK S Walker St - SIE E Woolley Ave,MLK Expwy / Bayonne Br
+67068,Narrows Rd South - Eastbound - Hylan Blvd to Fingerboard Rd,Narrows Rd
+4616282,NJ 169 S Bayonne Bri/NJ side - MLK S Walker Street,MLK Expwy / Bayonne Br
+4616281,NJ 440 N Francis St - WSE N Tyrellan Ave,West Shore Expwy
+158165,Northern Blvd - Eastbound - Main St to Union St,Flushing
+185158,Northern Blvd - Eastbound - Northern Blvd Br to Main St,Flushing
+165164,Northern Blvd - Eastbound - Union St to Parsons Blvd,Flushing
+158185,Northern Blvd - Westbound - Main St to Northern Blvd Br,Flushing
+164165,Northern Blvd - Westbound - Parsons Blvd to Union St,Flushing
+165158,Northern Blvd - Westbound - Union St to Main St,Flushing
+115114,Ocean Pkwy and Sea Breeze Ave to Surf Ave and Stillwell Ave - Westbound,Ocean Pkwy
+113111,Ocean Pkwy - Northbound - Avenue I to Ditmas Ave,Ocean Pkwy
+94093,Ocean Pkwy - Northbound - Avenue U to Kings Hwy,Ocean Pkwy
+98094,Ocean Pkwy - Northbound - Avenue X to Avenue U,Ocean Pkwy
+111112,Ocean Pkwy - Northbound - Ditmas Ave to Church Ave,Ocean Pkwy
+93113,Ocean Pkwy - Northbound - Kings Hwy to Avenue I,Ocean Pkwy
+115100,Ocean Pkwy - Northbound - Sea Breeze Ave to Shore Pkwy,Ocean Pkwy
+100098,Ocean Pkwy - Northbound - Shore Pkwy to Avenue X,Ocean Pkwy
+113093,Ocean Pkwy - Southbound - Avenue I to Kings Hwy,Ocean Pkwy
+94098,Ocean Pkwy - Southbound - Avenue U to Avenue X,Ocean Pkwy
+98100,Ocean Pkwy - Southbound - Avenue X to Shore Pkwy,Ocean Pkwy
+112111,Ocean Pkwy - Southbound - Church Ave to Ditmas Ave,Ocean Pkwy
+111113,Ocean Pkwy - Southbound - Ditmas Ave to Avenue I,Ocean Pkwy
+93094,Ocean Pkwy - Southbound - Kings Hwy to Avenue U,Ocean Pkwy
+100115,Ocean Pkwy - Southbound - Shore Pkwy to Sea Breeze Ave,Ocean Pkwy
+163164,Parsons Blvd - Northbound - Roosevelt Ave to Northern Blvd,Flushing
+164163,Parsons Blvd - Southbound - Northern Blvd to Roosevel Ave,Flushing
+4456511,QMT E Manhattan ORT - Queens Side,Queens-Midtown Tunnel
+4456510,QMT W Queens Side - Manhattan ORT,Queens-Midtown Tunnel
+4616225,RFK N Queens Anchorage - BE ramp N,Bruckner Expwy
+4456452,RFK W Manhattan Side - FDR S 116th St,FDR Dr
+146139,Richmond Ave - Northbound - Amboy Rd to Wainwright Ave,Richmond Ave
+130129,Richmond Ave - Northbound - Forest Hill Rd to Richmond Hill Rd,Richmond Ave
+121146,Richmond Ave - Northbound - Hylan Blvd to Amboy Rd,Richmond Ave
+129131,Richmond Ave - Northbound - Richmond Hill Rd to Eton Pl,Richmond Ave
+139130,Richmond Ave - Northbound - Wainwright Ave to Forest Hill Rd,Richmond Ave
+146121,Richmond Ave - Southbound - Amboy Rd to Hylan Blvd,Richmond Ave
+131129,Richmond Ave - Southbound - Eton Pl to Richmond Hill Rd,Richmond Ave
+130139,Richmond Ave - Southbound - Forest Hill Rd to Weinwright Ave,Richmond Ave
+129130,Richmond Ave - Southbound - Richmond Hill Rd to Forest Hill Rd,Richmond Ave
+139146,Richmond Ave - Southbound - Wainwright Ave to Amboy Rd,Richmond Ave
+148150,Rockaway Blvd - Northbound - Brookville Blvd to Farmers Blvd,Rockaway Blvd
+150147,Rockaway Blvd - Northbound - Farmers Blvd to South Conduit Ave,Rockaway Blvd
+151148,Rockaway Blvd - Northbound - Five-Towns Entrance to Brookville Blvd,Rockaway Blvd
+148151,Rockaway Blvd - Southbound - Brookville Blvd to Five-Towns Entrace,Rockaway Blvd
+150148,Rockaway Blvd - Southbound - Farmers Blvd to Brookville Blvd,Rockaway Blvd
+147150,Rockaway Blvd - Southbound - South Conduit Ave to Farmers Blvd,Rockaway Blvd
+177157,Roosevelt Ave - Eastbound - College Pnt Blvd to Main St,Flushing
+157163,Roosevelt Ave - Eastbound - Main St to Parsons Blvd,Flushing
+157177,Roosevelt Ave - Westbound - Main St to College Pnt Blvd,Flushing
+163157,Roosevelt Ave - Westbound - Parsons Blvd to Main St,Flushing
+160159,Sanford Avenue - Westbound - Kissena Blvd to Main St,Flushing
+159176,Sanford Ave - Westbound - Main St to College Pnt Blvd,Flushing
+180155,Seagirt Blvd - Eastbound - Beach 32nd St to Beach 9th St,Seagirt Blvd
+155180,Seagirt Blvd - Westbound - Beach 9th St to Beach 32nd St,Seagirt Blvd
+4616193,SIE E Bradley Ave - Clove Rd,Staten Island Expwy / Verazzano Br
+4616192,SIE E Clove Rd - Fingerboard Rd,Staten Island Expwy / Verazzano Br
+4763650,SIE E Fingerboard Rd - VNB E SI Gantry L/Lev,Staten Island Expwy / Verazzano Br
+4763648,SIE E Fingerboard Rd - VNB E SI Gantry U/Lev,Staten Island Expwy / Verazzano Br
+4616216,SIE E Richmond Ave - MLK N Walker St,MLK Expwy / Bayonne Br
+4616195,SIE E Richmond Ave - Wooley Ave,Staten Island Expwy / Verazzano Br
+4616197,SIE E South Ave - Richmond Ave,Staten Island Expwy / Verazzano Br
+4616194,SIE E Wooley Ave - Bradley Ave,Staten Island Expwy / Verazzano Br
+4616208,SIE W Bradley Ave - Wooley Ave,Staten Island Expwy / Verazzano Br
+4616206,SIE W Fingerboard Rd - Clove Rd,Staten Island Expwy / Verazzano Br
+4616211,SIE W Richmond Ave - South Ave,Staten Island Expwy / Verazzano Br
+4329480,SIE W SOUTH AVENUE - 278 W BRUNSWICK AVENUE,Staten Island Expwy / Verazzano Br
+4616199,SIE W South Ave - WSE S South Ave,Staten Island Expwy / Verazzano Br
+4616217,SIE W Wooley Ave - MLK N Walker Street,MLK Expwy / Bayonne Br
+4616209,SIE W Wooley Ave - Richmond Ave,Staten Island Expwy / Verazzano Br
+114137,Stillwell Ave - Northbound - Surf Ave to Neptune Ave,Stillwell Ave
+137114,Stillwell Ave - Southbound - Neptune Ave to Surf Ave,Stillwell Ave
+114115,Surf Avenue and Stillwell Ave to Ocean Pkwy and Sea Breeze Ave - Eastbound,Stillwell Ave
+4456476,TBB N QUEENS ANCHORAGE - MANHATTAN LIFT SPAN,Triboro Bridge
+4456481,TBB S MANHATTAN LIFT SPAN - QUEENS ANCHORAGE,Triboro Bridge
+4456505,TNB N Queens Anchorage - Toll Plaza,Clearview Expwy / Throggs Neck Br
+4362314,TNB S Queens Anchorage - CIP S @ TNB,Clearview Expwy / Throggs Neck Br
+4456506,TNB S Toll Plaza - Queens Anchorage,Clearview Expwy / Throggs Neck Br
+4616218,VNB E Bklyn Gantry l/lev - GOW N 92nd St,Staten Island Expwy / Verazzano Br
+4616219,VNB E Bklyn Gantry u/lev - GOW N 92nd St,Staten Island Expwy / Verazzano Br
+4763656,VNB E SI Gantry L/Lev - Bkln Gantry L/Lev,Staten Island Expwy / Verazzano Br
+4763652,VNB E SI Gantry U/Lev - Bkln Gantry U/Lev,Staten Island Expwy / Verazzano Br
+4763651,VNB W Bklyn Gantry l/lev - SI Gantry l/lev,Staten Island Expwy / Verazzano Br
+4763649,VNB W Bklyn Gantry u/lev - SI Gantry u/lev,Staten Island Expwy / Verazzano Br
+4616205,VNB W SI Gantry L/Lev - SIE W Fingerboard Rd,Staten Island Expwy / Verazzano Br
+4616204,VNB W SI Gantry U/Lev - SIE W Fingerboard Rd,Staten Island Expwy / Verazzano Br
+4616298,VWE N mp 4.6 (Exit 6 Jamaica Ave) - mp 6.3 (Exit 11 Jewel Ave),Van Wyck Expwy
+4616299,VWE N mp 6.3 (Exit 11 Jewel Ave) - mp 8.65 (Exit 13 No. Blvd),Van Wyck Expwy
+4616300,VWE N mp 8.6 (Exit 13 No. Bl) - WE N Exit 14 (Linden Pl),Van Wyck Expwy
+4616276,VWE S mp 2.6 (Exit 2 Rockaway Blvd) - Belt Pkwy E 182nd St,Van Wyck Expwy
+4616272,VWE S mp 4.6 (Exit 6 Jamaica Ave) - mp 2.6 (Exit 2 Rockaway Blvd),Van Wyck Expwy
+4616259,VWE S mp 6.39 (Exit 11 Jewel Ave) - mp 4.6 (Exit 6 Jamaica Ave),Van Wyck Expwy
+4616241,VWE S mp 8.6 s/of (Exit 13 No.Blvd) - mp 6.3 (Exit 11 - Jewel Ave),Van Wyck Expwy
+4456500,WE N Exit 14 (Linden Pl) - BWB N Queens Anchorage,Whitestone Br / Expwy
+4616239,WE S Exit 14 (Linden Pl) - VWE S mp 8.65 (Exit 13 No.Blvd),Whitestone Br / Expwy
+4620343,Westside Hwy N 57th St - GWB,West Side Hwy
+4616346,Westside Hwy S GWB - 57th St,West Side Hwy
+4616335,West St N Whitehall - Watts St,West Side Hwy
+4616343,West St S Battery Pl - BKN Bridge Manhattan Side,FDR Dr
+4616327,West St S Battery Pl - FDR N Catherine Slip,FDR Dr
+4616326,West St S Spring St - Battery Pl,West Side Hwy
+4456494,West St S Spring St - BBT Manhattan ORT outbound,Brooklyn-Battery Tunnel
+4616336,West St Watts St - 11th Ave Ganesvoort,West Side Hwy
+194196,Williamsburg Bridge - Eastbound - Manhattan @ Delancey to Brooklyn @ Bedford Ave,Williamsburg Br
+197195,Williamsburg Bridge - Westbound - Brooklyn @ Bedford Ave to Manhattan @ Delancey,Williamsburg Br
+95170,Woodhaven Blvd - Northbound - Furmanville Ave to Dry Harbor Rd,Woodhaven Blvd
+86099,Woodhaven Blvd - Northbound - Jamaica Ave to Myrtle Ave,Woodhaven Blvd
+96095,Woodhaven Blvd - Northbound - Metropolitan Ave to Furmanville Ave,Woodhaven Blvd
+99097,Woodhaven Blvd - Northbound - Myrtle Ave to Union Tpke,Woodhaven Blvd
+87086,Woodhaven Blvd - Northbound - Rockaway Blvd to Jamaica Ave,Woodhaven Blvd
+97096,Woodhaven Blvd - Northbound - Union Turnpike to Metropolitan Ave,Woodhaven Blvd
+170095,Woodhaven Blvd - Southbound - Dry Harbor Rd to Furmanville Ave,Woodhaven Blvd
+95096,Woodhaven Blvd - Southbound - Furmanville Ave to Metropolitan Ave,Woodhaven Blvd
+86087,Woodhaven Blvd - Southbound - Jamaica Ave to Rockaway Blvd,Woodhaven Blvd
+96097,Woodhaven Blvd - Southbound - Metropolitan Ave to Union Turnpike,Woodhaven Blvd
+99086,Woodhaven Blvd - Southbound - Myrtle Ave to Jamaica Ave,Woodhaven Blvd
+97099,Woodhaven Blvd - Southbound - Union Turnpike to Myrtle Ave,Woodhaven Blvd
+4616213,WSE N Arden Ave - Victory Blvd,West Shore Expwy
+4616214,WSE N Bloomingdale Rd - Arden Ave,West Shore Expwy
+4329481,WSE N SOUTH AVENUE - 278 W BRUNSWICK AVENUE,West Shore Expwy
+4616198,WSE N South Ave - SIE E South Ave,West Shore Expwy
+4616215,WSE N Tyrellan Ave - Bloomingdale Rd,West Shore Expwy
+4616212,WSE N Victory Blvd - South Ave,West Shore Expwy
+4616202,WSE S Arden Ave - Bloomingdale Rd,West Shore Expwy
+4616203,WSE S Bloomingdale Rd - Tyrellan Ave,West Shore Expwy
+4616200,WSE S South Ave - Victory Blvd,West Shore Expwy
+4329483,WSE S Tyrellan Ave - NJ 440 S Francis Street,West Shore Expwy
+4616201,WSE S Victory Blvd - Arden Ave,West Shore Expwy

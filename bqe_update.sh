@@ -50,7 +50,5 @@ on conflict (link_id, data_as_of) do nothing;
 EOF
 echo "Creating summary file - BQE"
 psql crashes --csv -f bqe_agg.sql -o bqe_agg.csv
-echo "Creating summary file - TIMED"
+echo "Creating summary file - CBDTP"
 psql crashes --csv -f all_agg.sql -o all_agg.csv
-echo "Creating summary file - MIM"
-psql crashes --csv -f mim_agg.sql -o mim_agg.csv

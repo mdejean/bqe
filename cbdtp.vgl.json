@@ -5,6 +5,9 @@
     "name": "today",
     "url": "all_agg.csv", "format": {"parse": {"h": "date:'%H'"}}
   },
+  "autosize": {
+    "resize": true
+  },
   "params": [
     {
       "name": "hover",
@@ -13,6 +16,71 @@
         "fields": ["hover_text"],
         "on": "mouseover",
         "nearest": false
+      }
+    },
+    {
+      "name": "street",
+      "value": "1st Ave",
+      "bind": {
+        "input": "select",
+        "options": [
+            "1st Ave",
+            "2nd Ave",
+            "3rd Ave",
+            "5th Ave",
+            "6th Ave",
+            "7th Ave",
+            "8th Ave",
+            "9th Ave",
+            "10th Ave",
+            "11th Ave",
+            "14th St",
+            "23rd St",
+            "34th St",
+            "42nd St",
+            "49th St",
+            "57th St",
+            "72nd St",
+            "Atlantic Ave",
+            "Beach Channel Dr",
+            "Belt Pkwy / Cross-Island Pkwy",
+            "Broadway",
+            "Bronx River Pkwy",
+            "Brooklyn-Battery Tunnel",
+            "Brooklyn-Queens Expwy / Gowanus Expwy",
+            "Bruckner Expwy",
+            "Clearview Expwy / Throggs Neck Br",
+            "Cross-Bay Blvd",
+            "Cross-Bronx Expwy / GWB",
+            "Father Capodanno Blvd",
+            "FDR Dr",
+            "Flatbush Ave",
+            "Flushing",
+            "Hutchinson River Pkwy",
+            "Hylan Blvd",
+            "Jackie Robinson Pkwy",
+            "Lexington Ave",
+            "Lincoln Tunnel",
+            "Long Island Expwy",
+            "Madison Ave",
+            "Major Deegan Expwy",
+            "MLK Expwy / Bayonne Br",
+            "Narrows Rd",
+            "Ocean Pkwy",
+            "Queens-Midtown Tunnel",
+            "Richmond Ave",
+            "Rockaway Blvd",
+            "Seagirt Blvd",
+            "Staten Island Expwy / Verazzano Br",
+            "Stillwell Ave",
+            "Triboro Bridge",
+            "Van Wyck Expwy",
+            "West Shore Expwy",
+            "West Side Hwy",
+            "Whitestone Br / Expwy",
+            "Williamsburg Br",
+            "Woodhaven Blvd"
+        ]
       }
     },
     {
@@ -37,6 +105,8 @@
   ],
   "transform": [
     {"filter": "datum.ymd > 1546322501000"},
+    {"lookup": "link_id", "from": {"data": {"url": "links.csv"}, "key": "link_id", "fields": ["link_name", "category"]}},
+    {"filter": "datum.category == street"},
     {
       "calculate": "if(datum.ymd >= 1735621200000, if(datum.ymd > 4039372800000, 'Past 24 hours', 'With CBD toll'), 'Pre-toll')",
       "as": "lanes"
@@ -57,7 +127,7 @@
     "field": "link_name",
     "sort": "ascending",
     "header": {
-      "title": "Travel time before and after CBD tolling program, average of first weeks",
+      "title": "Travel time before and after CBD tolling program, average of first weeks of year",
       "labelAlign": "left"
     }
   },
@@ -98,10 +168,10 @@
         "strokeWidth": {
           "value": 20
         },
-          "tooltip": {
-            "field": "hover_text",
-            "nearest": false
-          }
+        "tooltip": {
+          "field": "hover_text",
+          "nearest": false
+        }
       },
       "mark": {
         "type": "line",
