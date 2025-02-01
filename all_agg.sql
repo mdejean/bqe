@@ -10,9 +10,13 @@ with ls as
         date_trunc('year', data_as_of) d,
         case when extract(dow from data_as_of) in (0, 6) then 1 else 0 end weekend
     from link_speed
-    where status >= 0 
+    where status >= 0
+    and speed > 0
+    and speed < 100
     and data_as_of > '2018-01-01'
-    and to_char(data_as_of, 'IWID') between '017' and to_char((select max(data_as_of) from link_speed), 'IWID')
+    and extract(week from data_as_of) * 10 + extract(isodow from data_as_of) between 17 and (
+        select extract(week from max(data_as_of)) * 10 + extract(isodow from max(data_as_of)) from link_speed
+    )
 )
 select
     quartiles.link_id,
